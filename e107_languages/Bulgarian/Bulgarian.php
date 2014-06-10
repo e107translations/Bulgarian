@@ -11,9 +11,9 @@
  * $Revision: 948 $
  * $Author: veskoto $
 */
-setlocale(LC_ALL, 'en_GB.UTF-8', 'en_GB.utf8', 'eng_eng.utf8', 'en');
-define("CORE_LC", "en");
-define("CORE_LC2", "gb");
+setlocale(LC_ALL, 'bg_BG.utf8', 'bg_BG.UTF-8', 'bg_bg.utf8', 'bg');
+define('CORE_LC', 'bg');
+define('CORE_LC2', 'BG');
 define("CORE_LAN1", "Грешка: Темата липсва.\\n\\nСменете използваната тема от настройките ( Администрация ) или качете файловете на тази тема на сървъра.");
 define("CORE_LAN4", "Моля изтрийте install.php от Вашият сървър!");
 define("CORE_LAN5", "Ако не го направите има потенциален риск за сигурността на сайта Ви.");
