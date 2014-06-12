@@ -2,11 +2,11 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2012 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_users.php 933 2012-08-19 11:50:02Z nickypn $
+ * $Id: lan_users.php 933 2014-08-19 11:50:02Z nickypn $
  * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_users.php $
  * $Revision: 933 $
  * $Author: nickypn $

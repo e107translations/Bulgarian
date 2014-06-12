@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2012 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *

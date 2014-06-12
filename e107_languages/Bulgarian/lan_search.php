@@ -2,11 +2,11 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2012 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_search.php 916 2012-04-11 06:05:50Z nickypn $
+ * $Id: lan_search.php 916 2014-04-11 06:05:50Z nickypn $
  * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_search.php $
  * $Revision: 916 $
  * $Author: nickypn $
@@ -24,7 +24,7 @@ define("LAN_198", "Няма резултати, задоволяващи тър�
 define("LAN_199", "Търси за:");
 define("LAN_416", "Трябва да влезе в профила си, за да имате достъп до тази страница");
 define("LAN_417", "Ключовите думи за търсене трябва да са най-малко 3 символа.");
-define("LAN_418", "Други страници");
+define("LAN_418", "Страници");
 define("LAN_SEARCH_1", "Избери Всичко");
 define("LAN_SEARCH_2", "Откажи всичко");
 define("LAN_SEARCH_3", "Публикувано на ");

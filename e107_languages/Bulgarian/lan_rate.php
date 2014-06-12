@@ -2,11 +2,11 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2012 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_rate.php 926 2012-06-02 21:58:07Z nickypn $
+ * $Id: lan_rate.php 926 2014-06-02 21:58:07Z nickypn $
  * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_rate.php $
  * $Revision: 926 $
  * $Author: nickypn $
