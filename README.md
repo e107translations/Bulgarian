@@ -15,8 +15,8 @@ Follow the installation wizard
 Първо се уверерете, че ползвате последна версия на системата. Можете да докладвате бъговете тук https://github.com/e107inc/e107/issues
 
 ####Поддръжка
-e107 България
-e107 официален сайт
+[http://e107.bg]e107 България
+[http://e107.org]e107 официален сайт
 
 ####Лиценз
 e107 се ползва при условията и по реда на GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
