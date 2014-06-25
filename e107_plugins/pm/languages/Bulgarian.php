@@ -2,11 +2,11 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2012 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian.php 917 2014-04-13 18:07:02Z nickypn $
+ * $Id: Bulgarian.php 917 2012-04-13 18:07:02Z nickypn $
  * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/pm/languages/Bulgarian.php $
  * $Revision: 917 $
  * $Author: nickypn $
@@ -39,8 +39,8 @@ define("LAN_PM_25", "Входящи");
 define("LAN_PM_26", "Изходящи");
 define("LAN_PM_27", "Непрочетени");
 define("LAN_PM_28", "N/A");
-define("LAN_PM_29", "Изпратено съобщение");
-define("LAN_PM_30", "Прочетено съобщение");
+define("LAN_PM_29", "Изпратено");
+define("LAN_PM_30", "Прочетено");
 define("LAN_PM_31", "От");
 define("LAN_PM_32", "Получено");
 define("LAN_PM_33", "Изпратено");
