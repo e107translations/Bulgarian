@@ -8,8 +8,7 @@ PHP версия 5.3 или по-висока
 MySQL версия 4.x или по-висока
 
 ####Инсталация
-Point your browser to the http://localhost/YOUR FOLDER/install.php (depending on your webserver setup)
-Follow the installation wizard
+Напишете във Вашият браузър http://saita.com/install.php и следвайте инструкциите
 
 ####Доклади за бъгове
 Първо се уверерете, че ползвате последна версия на системата. Можете да докладвате бъговете тук https://github.com/e107inc/e107/issues
