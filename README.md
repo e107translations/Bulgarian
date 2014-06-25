@@ -24,3 +24,8 @@
 
 ####Лиценз
 **e107 се ползва при условията и по реда на GNU General Public License (http://www.gnu.org/licenses/gpl.txt)**
+
+
+*e107 Bulgaria Project*
+*e107.bg © 2005 - 2014 Corllete ltd.*
+*e107 is © e107.org under the GNU GPL license*
