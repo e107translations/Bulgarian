@@ -1,15 +1,21 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: meta.php 944 2013-02-08 07:00:50Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/help/meta.php $
- * $Revision: 944 $
- * $Author: veskoto $*/
+ *
+ *
+ * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/meta.php,v $
+ * $Revision$
+ * $Date$
+ * $Author$
+ */
+
 if (!defined('e107_INIT')) { exit; }
-$text = "Всички мета тагове, описани тук, ще бъдат поставени на правилното място в сайта.";
-$ns -> tablerender("Мета тагове", $text);
+
+$text = "Any meta tags you enter here will be sent to screen in the right place.";
+
+$ns -> tablerender("Meta Tags", $text);

@@ -1,19 +1,19 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2013 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: mailout.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/help/mailout.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ */
+
 if (!defined('e107_INIT')) { exit; }
+
 $e107 = e107::getInstance();
-$action = $e107->tp->toDB(varset($_GET['mode'],'makemail'));
+
+$action = e107::getParser()->toDB(varset($_GET['mode'],'makemail'));
+
   switch ($action)
   {
 	case 'justone' :
@@ -41,7 +41,7 @@ $action = $e107->tp->toDB(varset($_GET['mode'],'makemail'));
 	  $text .= 'Email addresses may be contributed by plugins (such as newsletter), and duplicates are removed when the mail is sent<br />';
 	  $text .= 'Any attachment is selected from the list of valid downloads.<br />';
 	  $text .= 'Mail may be sent as plain text (most universal, and least at risk of being classed as spam), or as HTML (in which case a plain text alternative is automatically generated). The theme style
-				may optionally be added to the email';
+				may optionally be added to the email. Alternatively a predefined template can be selected.';
 	  break;
 	case 'recipients' :
 		$text = 'Shows all recipients or potential recipients of an email, together with current status';
@@ -75,4 +75,5 @@ $action = $e107->tp->toDB(varset($_GET['mode'],'makemail'));
 	default :
 	  $text = 'Undocumented option';
   }
-$ns -> tablerender('Mail Help', $text);
+
+$ns->tablerender('Mail Help', $text);

@@ -1,17 +1,23 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: fileinspector.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/help/fileinspector.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ *
+ *
+ * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/fileinspector.php,v $
+ * $Revision$
+ * $Date$
+ * $Author$
+ */
+
 if (!defined('e107_INIT')) { exit; }
+
+
+
 $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_core.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Core File</div>
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
@@ -29,13 +35,18 @@ $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vert
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_unknown.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Non Core File</div>";
 $ns -> tablerender("File Key", $text);
-$text = "The file inspector scans and analyses the files on your sites server. When the inspector encounters an e107 core file, it checks it for file consistency to make sure it isn't corrupted.";
+
+$text = "File Inspector scans and analyses the files on your sites server. When File Inspector encounters 
+an e107 core file, it checks it for file consistency to make sure it isn't corrupted.";
+
 $text .= "<br /><br />
-<a href='".e_SELF."?create'>Click here to create a snapshot of your own plugins files for use in file inspector.</a>";
+<a href='".e_SELF."?create'>Click here to create a snapshot of your own plugins files for use in File Inspector.</a>";
+
 if ($pref['developer']) {
 $text .= "<br /><br />
 The additional string matching tool (developer mode only) enables you to scan the files on your server for text strings 
 using regular expressions. The regex engine in use is PHP's <a href='http://php.net/pcre'>PCRE</a> 
 (the preg_* functions), so enter your query as #pattern#modifiers in the fields provided.";
 }
+
 $ns -> tablerender("File Inspector Help", $text);

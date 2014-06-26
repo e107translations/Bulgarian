@@ -1,23 +1,28 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: banlist.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/help/banlist.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ *
+ *
+ * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/banlist.php,v $
+ * $Revision$
+ * $Date$
+ * $Author$
+ */
+
 if (!defined('e107_INIT')) { exit; }
+
 $caption = "Banning users from your site";
-if (e_QUERY) list($action,$junk) = explode('.',e_QUERY.'.'); else $action = 'list';
+if (e_QUERY) list($action,$junk) = explode('-',e_QUERY.'-'); else $action = 'list';		// Non-standard separator in query
+
 switch ($action)
 {
 case 'transfer' :
-  $text = "This page allows you to transfer banlist data to and from this site as CSV (Comma Separated Variable) files.<br /><br />";
+  $text = 'This page allows you to transfer banlist data to and from this site as CSV (Comma Separated Variable) files.<br /><br />';
   $text .= "<b>Data Export</b><br />
   Select the types of ban to export. The fields will be delimited by the chosen separator, and optionally included within the selected quotation marks.<br /><br />";
   $text .= "<b>Data Import</b><br />
@@ -30,9 +35,10 @@ case 'transfer' :
   <b>Note:</b> You will need to modify filetypes.xml to allow admins to upload the 'CSV' file type.";
   break;
 case 'times' :
-  $text = "This page sets the default behaviour for various types of ban.<br />
-  If a message is specified, this will be shown to the user (where appropriate); otherwise they will most likely get a blank screen.<br />
-  The ban will be in force for the time specified; after which it will be cleared next time they access the site.";
+  $text = 'This page sets the default behaviour for various types of ban.<br />
+  If a message is specified, this will be shown to the user (where appropriate). If the message starts with \'http://\' or \'https://\' control is 
+  passed to the specified URL. Otherwise the user will most likely get a blank screen.<br />
+  The ban will be in force for the time specified; after which it will be cleared next time they access the site.';
   break;
 case 'options' :
   $text = '<b>Reverse DNS</b><br />
@@ -69,6 +75,9 @@ case 'whedit' :
   always gain access to the site.<br />
   You are advised to keep the number of addresses in this list to an absolute minimum; both for security, and to minimise the impact on site performance.";
   break;
+case 'banlog' :
+  $text = 'This shows a list of all site accesses involving an address which is in the ban list or the white list. The \'reason\' column shows the outcome.';
+  break;
 case 'white' :
   $text = "This page shows a list of all IP addresses and email addresses which are explicitly permitted.<br />
     This list takes priority over the ban list - it should not be possible for an address from this list to be banned.<br />
@@ -76,14 +85,14 @@ case 'white' :
   break;
 case 'list' :
 default :
-$text = "This page shows a list of all IP addresses, hostnames and email addresses which are banned. 
+$text = 'This page shows a list of all IP addresses, hostnames and email addresses which are banned. 
 (Banned users are shown on the user administration page)<br /><br />
 <b>Automatic Bans</b><br />
-E107 automatically bans individual IP addresses if they attempt to flood the site, as well as addresses with failed logins.<br />
+e107 automatically bans individual IP addresses if they attempt to flood the site, as well as addresses with failed logins.<br />
 These bans also appear in this list. You can select (on the options page) what to do for each type of ban.<br /><br />
 <b>Removing a ban</b><br />
 You can set an expiry period for each type of ban, in which case the entry is removed once the ban period expires. Otherwise the
-ban remains until you remove it.<br />
-You can modify the ban period from this page - times are calculated from now.";
+ ban remains until you remove it.<br />
+You can modify the ban period from this page - times are calculated from now.';
 }
 $ns -> tablerender($caption, $text);

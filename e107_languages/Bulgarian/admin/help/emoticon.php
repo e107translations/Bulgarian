@@ -1,16 +1,22 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: emoticon.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/help/emoticon.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ *
+ *
+ * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/emoticon.php,v $
+ * $Revision$
+ * $Date$
+ * $Author$
+ */
+
 if (!defined('e107_INIT')) { exit; }
-$text = "With emoticons activated, standard smiley text strings will be replaced by their respective emoticon images throughout the content in your site.";
+
+$text = "With emoticons activated, standard smiley text strings will be replaced by their 
+respective emoticon images throughout the content in your site.";
+
 $ns -> tablerender("Emoticon Help", $text);

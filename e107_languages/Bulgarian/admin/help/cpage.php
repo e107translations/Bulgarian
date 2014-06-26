@@ -1,17 +1,22 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: cpage.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/help/cpage.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ *
+ *
+ * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/cpage.php,v $
+ * $Revision$
+ * $Date$
+ * $Author$
+ */
+
 if (!defined('e107_INIT')) { exit; }
-$text = "From this screen you can create custom menus or custom pages with your own content in them.<br /><br />";
+
+$text = "From this area you can create custom menus and pages with your own content.<br />Menus and Pages are linked so that you may have a menu easily link back to page if you so wish. ";
 // $text .= "Please see <a href='http://docs.e107.org/Using Custom Pages and Custom Menus'>http://docs.e107.org/Using Custom Pages and Custom Menus</a> for an explanation of all the features.";
+
 $ns -> tablerender('Custom Menus/Pages Help', $text);
