@@ -6,11 +6,7 @@
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian_admin_trackback.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/trackback/languages/Bulgarian_admin_trackback.php $
- * $Revision: 917 $
- * $Author: nickypn $
-*/
+ */
 define("TRACKBACK_L1", "Настройки на Проследяване");
 define("TRACKBACK_L2", "Този плъгин ви позволява да проследявате потребителите във постовете ви.");
 define("TRACKBACK_L3", "Модула Проследяване е инсталиран.");

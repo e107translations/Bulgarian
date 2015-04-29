@@ -6,10 +6,8 @@
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_comment.php 942 2013-02-07 14:14:37Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_comment.php $
- * $Revision: 942 $
- * $Author: veskoto $
+ * Language File
+ *
 */
 define("COMLAN_0", "[забранено от администратора]");
 define("COMLAN_1", "Деблокирай");

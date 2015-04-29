@@ -25,7 +25,4 @@ define("LAN_THEME_2", "Коментари");
 define("LAN_THEME_3", "Прочети още");
 define("LAN_THEME_4", "Проследяване");
 define("LAN_THEME_5", "Публикувано от");
-define("LAN_THEME_6", "ма");
-
-
-?>
+define("LAN_THEME_6", "на");

@@ -6,10 +6,8 @@
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: download.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/download/languages/Bulgarian/download.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
 define("PAGE_NAME", "Файлове");
 define("LAN_dl_1", "(Ограничен)");

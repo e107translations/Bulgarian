@@ -5,7 +5,7 @@
 *
 * Tagwords Language File
 */
-define("LAN_TAG_INS_1", "Tagwords");
+define("LAN_TAG_INS_1", "bla");
 define("LAN_TAG_INS_2", "A fully featured Tagword system");
 define("LAN_TAG_INS_3", "Configure TagWords");
 define("LAN_TAG_INS_4", "Tagwords is installed<br />To configure please click on the link in the plugins section of the admin front page");

@@ -8,6 +8,8 @@
  *
  * $Id: lan_date.php 942 2013-02-07 14:14:37Z veskoto $
 */
+
+
 define("LANDT_01", "година");
 define("LANDT_02", "месец");
 define("LANDT_03", "седмица");
@@ -22,6 +24,7 @@ define("LANDT_04s", "дни");
 define("LANDT_05s", "часа");
 define("LANDT_06s", "минути");
 define("LANDT_07s", "секунди");
+
 define("LANDT_08", "мин");
 define("LANDT_08s", "мин");
 define("LANDT_09", "сек");
