@@ -2,15 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_log_messages.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_log_messages.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ * Language File
+ *
+ */
 define("LAN_AUDIT_LOG_001", "Достъп от блокирани потребители");
 define("LAN_AUDIT_LOG_002", "Активирана е защитата срещу много заявки към сайта");
 define("LAN_AUDIT_LOG_003", "Достъп от блокиран IP адрес");
@@ -28,7 +26,7 @@ define("LAN_AUDIT_LOG_014", "Излизане на потребител");
 define("LAN_AUDIT_LOG_015", "Потребител си смени името за показване в сайта");
 define("LAN_AUDIT_LOG_016", "Потребител си смени паролата");
 define("LAN_AUDIT_LOG_017", "Потребител си смени имейла");
-define("LAN_AUDIT_LOG_018", "Потребител поиска нова парола ");
+define("LAN_AUDIT_LOG_018", "Потребител поиска нова парола");
 define("LAN_AUDIT_LOG_019", "Потребител си смени настройките");
 define("LAN_AUDIT_LOG_020", "Потребител е добавен от администратор");
 define("LAN_AUDIT_LOG_021", "Отхвърлен потребителски имейл");
@@ -101,7 +99,7 @@ define("LAN_AL_UTHEME_00", "Неизвестно събитие с потреб�
 define("LAN_AL_UTHEME_01", "Променени настройки на потребителска тема");
 define("LAN_AL_UTHEME_02", "");
 define("LAN_AL_UPDATE_00", "Неизвестно събитие при обновяване на програма");
-define("LAN_AL_UPDATE_01", "Стартирано е обновяване от 0.7до 0.8");
+define("LAN_AL_UPDATE_01", "Стартирано е обновяване от 0.7 до 2.0");
 define("LAN_AL_UPDATE_02", "Стартирано е обновяване от 0.7.x до 0.7.6");
 define("LAN_AL_UPDATE_03", "Добавени са липсващи настройки");
 define("LAN_AL_ADMIN_00", "Неизвестно събитие с администратор");
@@ -248,3 +246,12 @@ define("LAN_AL_MISC_04", "Обновени настройки на меню ко
 define("LAN_AL_MISC_05", "Обновени настройки на меню час и дата");
 define("LAN_AL_MISC_06", "Обновени настройки на меню блог календар");
 define("LAN_AL_MISC_07", "");
+define("LAN_AL_PING_01", "Ping to service");
+define("LAN_AL_ADMINUI_01", "Admin-UI DB Table Insert: [x]");
+define("LAN_AL_ADMINUI_02", "Admin-UI DB Table Update: [x]");
+define("LAN_AL_ADMINUI_03", "Admin-UI DB Table Delete: [x]");
+define("LAN_AL_ADMINUI_04", "Admin-UI DB Error: [x]");
+define("LAN_AL_BACKUP", "Database backup");
+
+
+?>

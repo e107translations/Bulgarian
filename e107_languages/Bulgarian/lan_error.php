@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_error.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_error.php $
- * $Revision: 916 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("PAGE_NAME", "Грешка");
 define("LAN_ERROR_1", "Грешка 401 - Неразрешен достъп");
 define("LAN_ERROR_2", "Заявения от вас URL адрес изисква коректно потребителско име и парола. Или сте задали неправилни потребителско име/парола, или вашия браузър не поддържа тази опция.");

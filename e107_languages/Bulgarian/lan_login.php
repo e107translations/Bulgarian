@@ -2,14 +2,12 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_login.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_login.php $
- * $Revision: 948 $
- * $Author: veskoto $
+ * Language File
+ *
 */
 define("LAN_LOGIN_1", "Потребителско име");
 define("LAN_LOGIN_2", "Парола");
@@ -28,7 +26,7 @@ define("LAN_LOGIN_14", "Потребител опита вход с неразп
 define("LAN_LOGIN_15", "Потребител опита вход с неправилна парола");
 define("LAN_LOGIN_16", "Потребител опита вход с комбинация от потребител/парола, които са вече в употреба");
 define("LAN_LOGIN_17", "Потребителска парола ( хеширана )");
-define("LAN_LOGIN_18", "Автоматично блокиране: Повече от 10 неуспешни опита за вход");
+define("LAN_LOGIN_18", "Автоматично блокиране: Повече от [x] неуспешни опита за вход");
 define("LAN_LOGIN_19", "> 10 неуспешни опита за вход");
 define("LAN_LOGIN_20", "Не сте попълнили задължително поле(та)");
 define("LAN_LOGIN_21", "Некоректен вход. Въведените данни не принадлежат на регистриран потребител. Проверете дали е активиран вашия CAPS-LOCK - информацията при логин е чувствителна на малки-големи букви.");

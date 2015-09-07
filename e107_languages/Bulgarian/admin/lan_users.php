@@ -2,17 +2,15 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_users.php 933 2014-08-19 11:50:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_users.php $
- * $Revision: 933 $
- * $Author: nickypn $
-*/
+ * Language File
+ *
+ */
 define("USRLAN_1", "Настройките са запазени.");
-define("USRLAN_3", " е в списъка на Администраторите - за да задаване на права за достъп отидете в ");
+define("USRLAN_3", " е в списъка на Администраторите - за да задаване на права за достъп отидете в");
 define("USRLAN_4", "Администратори");
 define("USRLAN_5", "Невъзможно е отнемането на админ статуса на Главен Администратор");
 define("USRLAN_6", " е с отнети администраторски права.");
@@ -47,7 +45,6 @@ define("USRLAN_58", "добавянето на файлове не е позво
 define("USRLAN_59", "Добавяне на потребител");
 define("USRLAN_60", "Добави потребител");
 define("USRLAN_61", "Име за показване");
-define("USRLAN_62", "Парола");
 define("USRLAN_63", "Повторете паролата");
 define("USRLAN_64", "Имейл адрес");
 define("USRLAN_65", "Това потребителско име е заето. Моля изберете друго.");
@@ -76,6 +73,7 @@ define("USRLAN_115", "Благодарим Ви за регистрацията.
 define("USRLAN_116", "Моля потвърдете, че искате да изпратите повторно имейл за потвърждение на регистрацията до:");
 define("USRLAN_117", "Натиснете бутона по-долу за тестване:");
 define("USRLAN_118", "Тест имейл");
+define("USRLAN_119", "Тест [x]");
 define("USRLAN_120", "Добавяне на клас");
 define("USRLAN_121", "Изпращане на имейл");
 define("USRLAN_122", "Добре дошли на");
@@ -126,8 +124,6 @@ define("USRLAN_169", "Общо --COUNT-- отхвърлени имейли са 
 define("USRLAN_170", "Произволно потребителско име");
 define("USRLAN_171", "Произволна парола");
 define("USRLAN_172", "Паролата зададена");
-define("USRLAN_173", "Име за вход зададено");
-define("USRLAN_174", "Потребителско име --NAME-- е създадено");
 define("USRLAN_175", "");
 define("USRLAN_179", "Блокиран потребител:");
 define("USRLAN_180", "IP адрес от {IP} е в списъка с разрешените; IP адреса не е блокиран.");
@@ -162,10 +158,7 @@ define("USRLAN_210", "Езиков префикс");
 define("USRLAN_211", "Снимка за ранг");
 define("USRLAN_212", "Потребителски ранг");
 define("USRLAN_214", "Добави нов ранг");
-define("USRLAN_215", "Обнови ранговете");
 define("USRLAN_216", "--избери снимка--");
-define("USRLAN_217", "Ранговете на потребителите са обновени");
-define("USRLAN_218", "Изтриване на потребителски ранг");
 define("USRLAN_219", "По-стари от 30 дни");
 define("LAN_MAINADMIN", "Главен Администратор");
 define("LAN_NOTVERIFIED", "Непотвърден");
@@ -173,17 +166,46 @@ define("LAN_BANNED", "Блокиран");
 define("LAN_BOUNCED", "Отхвърлен");
 define("USRLAN_220", "Всички потреб. класове");
 define("USRLAN_221", "Редактирай администраторски права");
+define("USRLAN_222", "Ще изтриете [x] ([y]) с ID #[z]. Сигурни ли сте?	");
+define("USRLAN_223", "Потребителя не е намерен.");
+define("USRLAN_224", "Изпратен е имейл до:");
+define("USRLAN_225", "Не е изпратен е имейл до:");
+define("USRLAN_226", "Нямате достатъчно права.");
+define("USRLAN_227", "Неизвестна грешка. Действието се провали.");
+define("USRLAN_228", "Ще направите потребител #[b][x][/b] : [b][y][/b] ([z]) [b]администратор[/b].");
+define("USRLAN_229", "Определете правата и кликнете [b]Обновяване[/b], за да продължите, или [b]Назад[/b], за да се откажете.");
+define("USRLAN_230", "Обнови администратор [x] ([y])");
+define("USRLAN_231", "Недостатъчни права, операция е отменена.");
+define("USRLAN_232", "Липсва ключ за активиране.");
+define("USRLAN_233", "Валиден");
+define("USRLAN_234", "Невалиден");
+define("USRLAN_235", "Потребителя трябва да потвърди.");
+define("USRLAN_236", "Операцията се провали.");
+define("USRLAN_237", "Потребителското име и името за показване не могат да бъде различни (въз основа на конфигурацията на сайта). Името за показване настроено на [b][x][/b].");
+define("USRLAN_238", "Вашият текущ статус е [b]Активен[/b]");
+define("USRLAN_239", "Уведомяване и потребителски статус");
+define("USRLAN_240", "Активиране, без уведомяване");
+define("USRLAN_241", "Активиране, уведомяване (парола)");
+define("USRLAN_242", "Изисква активиране, уведомяване (парола и линк за активиране)");
+define("USRLAN_243", "Достъп до сайта");
+define("USRLAN_244", "Security violation (not enough permissions) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) tried to remove admin status from --UID-- (--NAME--, --EMAIL--)	");
+define("USRLAN_245", "Security violation (not enough permissions) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) tried to make --UID-- (--NAME--, --EMAIL--) system admin	");
+define("USRLAN_246", "Us");
+define("USRLAN_247", "Us");
+define("USRLAN_248", "Us");
+define("USRLAN_249", "Us");
+define("USRLAN_250", "Us");
 define("UCSLAN_1", "Изпращане на уведомителен имейл до");
 define("UCSLAN_2", "Обновени права");
 define("UCSLAN_3", "Уважаеми");
-define("UCSLAN_4", "Вашите права бяха обновени в ");
+define("UCSLAN_4", "Вашите права бяха обновени в");
 define("UCSLAN_5", "Сега Вие имате достъп до следните зони");
 define("UCSLAN_6", "Задай клас за потребителя");
 define("UCSLAN_7", "Задай класове");
 define("UCSLAN_8", "Информирай потребителя");
 define("UCSLAN_9", "Класовете са обновени.");
 define("UCSLAN_10", "Поздрави,");
-define("UCSLAN_11", "Членството на потребител ИД --UID-- е променено към --CLASSES--");
+define("UCSLAN_11", "Потребителски права на потребител ИД --UID-- са променени на --CLASSES--");
 define("UCSLAN_12", "Потребителски права само");
 define("USFLAN_1", "Невъзможно е намирането на IP на постващия - не е налична информация.");
 define("USFLAN_3", "Съобщенията са публикувани от IP адрес");
@@ -191,6 +213,9 @@ define("USFLAN_4", "Хост");
 define("USFLAN_5", "Кликнете тук, за да прехвърлите IP адреса в администраторския списък с блокирани");
 define("USFLAN_6", "Потребител ИД");
 define("USFLAN_7", "Информация за потребителя");
-define("USRLAN_AS_1", 'Влязъл като %s');
-define("USRLAN_AS_2", 'Излязъл от акаунт %s');
+define("USRLAN_AS_1", "Влязъл като [x]");
+define("USRLAN_AS_2", "Излязъл от акаунт [x]");
 define("USRLAN_AS_3", "Вие сте влезли с чужд акаунт. Моля излезте първо.");
+
+
+?>

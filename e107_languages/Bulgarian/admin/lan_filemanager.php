@@ -2,15 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_filemanager.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_filemanager.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ * Language File
+ *
+ */
 define("FMLAN_10", "Грешка");
 define("FMLAN_12", "файл");
 define("FMLAN_13", "файла");

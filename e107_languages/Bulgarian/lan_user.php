@@ -2,23 +2,19 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_user.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_user.php $
- * $Revision: 948 $
- * $Author: veskoto $
+ * Language File
+ *
 */
 define("LAN_USER_01", "Име за показване в сайта");
 define("LAN_USER_02", "Потребителско име");
 define("LAN_USER_03", "Истинско име");
 define("LAN_USER_04", "Прякор");
-define("LAN_USER_05", "Парола");
 define("LAN_USER_06", "Снимка");
 define("LAN_USER_07", "Аватар");
-define("LAN_USER_08", "Имейл");
 define("LAN_USER_09", "Подпис");
 define("LAN_USER_10", "Скриване на имейла");
 define("LAN_USER_12", "Потребителски клас");
@@ -26,7 +22,6 @@ define("LAN_USER_13", "ID");
 define("LAN_USER_14", "Дата на регистриране");
 define("LAN_USER_15", "Последна визита");
 define("LAN_USER_16", "Настояща визита");
-define("LAN_USER_17", "Коментари");
 define("LAN_USER_18", "IP адрес");
 define("LAN_USER_19", "Блокиране");
 define("LAN_USER_20", "Настройки");
@@ -50,8 +45,6 @@ define("LAN_USER_43", "изтрий снимката");
 define("LAN_USER_44", "Разни");
 define("LAN_USER_45", "Низходящ");
 define("LAN_USER_46", "Възходящ");
-define("LAN_USER_47", "Изпълни");
-define("LAN_USER_48", "Грешка");
 define("LAN_USER_49", "Няма информация за този потребител, понеже той не е регистриран на");
 define("LAN_USER_50", "Потребителски профил");
 define("LAN_USER_51", "Това не е валиден потребител.");
@@ -64,7 +57,6 @@ define("LAN_USER_57", "Подреждане:");
 define("LAN_USER_58", "Потребител");
 define("LAN_USER_59", "Регистриран на");
 define("LAN_USER_60", "Имейл адрес:");
-define("LAN_USER_61", "Рейтинг");
 define("LAN_USER_62", "Изпрати лично съобщение");
 define("LAN_USER_63", "Истинско име:");
 define("LAN_USER_64", "Статистики на сайта");
@@ -90,21 +82,6 @@ define("LAN_USER_83", "Скриване на имейл адреса?:");
 define("LAN_USER_84", "Това ще забрани показването на вашия имейл адрес на този сайт");
 define("LAN_USER_85", "Ако искате да смените Вашето потребителско име ще трябва да поискате това от администратора на сайта");
 define("LAN_USER_86", "Максималната големина на аватара е --WIDTH-- x --HEIGHT-- пиксела");
-define("LAN_112", "Имейл адрес");
-define("LAN_138", "Регистрирани потребители:");
-define("LAN_139", "Подредба:");
-define("LAN_142", "Потребител");
-define("LAN_145", "Регистриран на");
-define("LAN_146", "Посещения след регистрацията");
-define("LAN_147", "Съобщения в чата");
-define("LAN_148", "Публикувани коментари");
-define("LAN_149", "Съобщения във форума");
-define("LAN_308", "Истинско име");
-define("LAN_403", "Статистики на сайта");
-define("LAN_404", "Последно посещение");
-define("LAN_406", "Рейтинг");
-define("LAN_419", "Покажи");
-define("LAN_425", "Изпрати лично съобщение");
 
 
 ?>

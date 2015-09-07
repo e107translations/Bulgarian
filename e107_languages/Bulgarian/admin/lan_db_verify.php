@@ -2,15 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_db_verify.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_db_verify.php $
- * $Revision: 948 $
- * $Author: veskoto $
-*/
+ * Language File
+ *
+ */
 
 define("DBVLAN_1", "Не може да се прочете sql файл с данни<br /><br />Моля уверете се, че файлът <b>core_sql.php</b> съществува в директорията <b>/admin/sql</b>.");
 // define("DBLAN_2", "Verifying all");

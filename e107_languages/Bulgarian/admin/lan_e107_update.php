@@ -2,20 +2,17 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_e107_update.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_e107_update.php $
- * $Revision: 948 $
- * $Author: veskoto $
-*/
+ * Language File
+ *
+ */
 define("LAN_UPDATE_2", "Действие");
 define("LAN_UPDATE_3", "Не е необходимо");
-define("LAN_UPDATE_7", "Изпълнен");
-define("LAN_UPDATE_8", "Обновяване от");
-define("LAN_UPDATE_9", "до");
+define("LAN_UPDATE_4", "Обновяване от [x] на [y]	");
+define("LAN_UPDATE_7", "Изпълнен [x]");
 define("LAN_UPDATE_12", "Някоя от таблиците ви съдържа дублирани записи.");
 define("LAN_UPDATE_13", "Добавяне на допълнителни/липсващи главни настройки");
 define("LAN_UPDATE_14", "Стартираща версия:");
@@ -45,6 +42,7 @@ define("LAN_UPDATE_53", "Обновяване на таблицата мирор
 define("LAN_UPDATE_54", "Липсваща таблица --TABLE-- - не възможно добавяне на индекс --INDEX--");
 define("LAN_UPDATE_55", "Описание");
 define("LAN_UPDATE_56", "Обновяване на системата");
+define("LAN_UPDATE_57", "Преди да продължите, моля, изтрийте ръчно следните остарели папки от вашата система:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Обновяване на модулите");
 define("LAN_UPDATE_CAPTION_CORE", "Обновявания на Ядрото");
 

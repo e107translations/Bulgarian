@@ -2,16 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_mailout.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_mailout.php $
- * $Revision: 948 $
- * $Author: veskoto $
-*/
-define("CORE_DATE_ORDER", "dmy");
+ * Language File
+ *
+ */
+define("CORE_DATE_ORDER", "дмг");
 define("LAN_MAILOUT_01", "От име");
 define("LAN_MAILOUT_02", "От имейл");
 define("LAN_MAILOUT_03", "До");
@@ -24,7 +22,7 @@ define("LAN_MAILOUT_09", "Използвайте стила на темата");
 define("LAN_MAILOUT_10", "Абонамент за потребителя");
 define("LAN_MAILOUT_11", "Добавяне на променливи");
 define("LAN_MAILOUT_12", "Всички потребители");
-define("LAN_MAILOUT_13", "Всички не потвърдени потребители ");
+define("LAN_MAILOUT_13", "Всички не потвърдени потребители");
 define("LAN_MAILOUT_14", "Име за показване.");
 define("LAN_MAILOUT_15", "Групов Имейл");
 define("LAN_MAILOUT_16", "потребителско име");
@@ -32,21 +30,19 @@ define("LAN_MAILOUT_17", "линк за регистрация");
 define("LAN_MAILOUT_18", "id на потребителя");
 define("LAN_MAILOUT_19", "Няма имейл на който да се изпрати.");
 define("LAN_MAILOUT_20", "Път до Sendmail");
-define("LAN_MAILOUT_21", "Записи за Групово изпращане");
+define("LAN_MAILOUT_21", "Записи за групово изпращане");
 define("LAN_MAILOUT_22", "Все още няма записани");
-define("LAN_MAILOUT_23", "Потребителски клас: ");
+define("LAN_MAILOUT_23", "Потребителски клас:");
 define("LAN_MAILOUT_24", "имейл(а) е/са готови за изпращане");
 define("LAN_MAILOUT_25", "Контрол на изчакването при групово изпращане");
 define("LAN_MAILOUT_26", "Спиране на групово изпращане и изчакване на всеки");
-define("LAN_MAILOUT_27", "имейли за ");
+define("LAN_MAILOUT_27", "имейли за");
 define("LAN_MAILOUT_28", "Запази промените");
 define("LAN_MAILOUT_29", "секунди");
 define("LAN_MAILOUT_30", "Повече от 30 секунди може да доведе до изтичане на времето за показване на страницата в браузъра");
 define("LAN_MAILOUT_31", "Обработка на отхвърлените имейли");
-define("LAN_MAILOUT_32", "Имейл адрес");
 define("LAN_MAILOUT_33", "Входящ Имейл сървър");
 define("LAN_MAILOUT_34", "Потребителско име");
-define("LAN_MAILOUT_35", "Парола");
 define("LAN_MAILOUT_36", "Изтриване на отхвърлените имейли след проверка");
 define("LAN_MAILOUT_37", "Продължи");
 define("LAN_MAILOUT_38", "Отказ");
@@ -60,8 +56,6 @@ define("LAN_MAILOUT_45", "Потребителски имейл");
 define("LAN_MAILOUT_46", "Потребител");
 define("LAN_MAILOUT_47", "съдържащо");
 define("LAN_MAILOUT_48", "е точно");
-define("LAN_MAILOUT_49", "Id");
-define("LAN_MAILOUT_50", "Автор");
 define("LAN_MAILOUT_51", "Относно");
 define("LAN_MAILOUT_52", "Последна промяна(Last mod)");
 define("LAN_MAILOUT_53", "Администратори");
@@ -71,7 +65,7 @@ define("LAN_MAILOUT_56", "Последно посещение (дд-мм-гг)")
 define("LAN_MAILOUT_57", "Изпратете груповите имейли чрез SMTP на блокове");
 define("LAN_MAILOUT_67", "Имейлът не е изпратен. Моля проверете Вашите SMTP настройки или изберете друг метод за изпращане и опитайте отново.");
 define("LAN_MAILOUT_68", "Регистрирани потребители");
-define("LAN_MAILOUT_69", "намерени, след като ");
+define("LAN_MAILOUT_69", "намерени, след като");
 define("LAN_MAILOUT_70", " дублирани са премахнати.");
 define("LAN_MAILOUT_71", "Общо имейли за изпращане");
 define("LAN_MAILOUT_72", "Записване на групово изпращане");
@@ -82,7 +76,6 @@ define("LAN_MAILOUT_76", "Включи имейл информацията в з
 define("LAN_MAILOUT_77", "Допълнителни източници на имейл адреси");
 define("LAN_MAILOUT_78", "Статус на групово изпращане");
 define("LAN_MAILOUT_79", "Няма групов имейл за показване");
-define("LAN_MAILOUT_80", "Дата");
 define("LAN_MAILOUT_81", "Имейлът е успешно изпратен, моля проверете входящата си поща.");
 define("LAN_MAILOUT_82", "Изпратена поща");
 define("LAN_MAILOUT_83", "Поща за изпращане");
@@ -137,7 +130,6 @@ define("LAN_MAILOUT_131", "Изпращането започна");
 define("LAN_MAILOUT_132", "Изпращането завърши");
 define("LAN_MAILOUT_133", "Източник");
 define("LAN_MAILOUT_134", "Приоритет");
-define("LAN_MAILOUT_135", "Заглавие");
 define("LAN_MAILOUT_136", "Статус на групово изпращане");
 define("LAN_MAILOUT_137", "Поща код");
 define("LAN_MAILOUT_138", "Имейл статус");
@@ -206,8 +198,8 @@ define("LAN_MAILOUT_203", "Няма определен подател");
 define("LAN_MAILOUT_204", "Няма определен имейл на подател");
 define("LAN_MAILOUT_205", "Грешка във формата на имейла за изпращане");
 define("LAN_MAILOUT_206", "Невалиден имейл ID (--ID--)");
-define('LAN_MAILOUT_207', 'Template load error');
-define('LAN_MAILOUT_208', 'Template conversion error');
+define("LAN_MAILOUT_207", "Template load error");
+define("LAN_MAILOUT_208", "Template conversion error");
 define("LAN_MAILOUT_209", "");
 define("LAN_MAILOUT_210", "");
 define("LAN_MAILOUT_211", "Изпратени");
@@ -247,17 +239,22 @@ define("LAN_MAILOUT_244", "Изпратен имейл:");
 define("LAN_MAILOUT_245", "Провери за отхвърлени автоматично");
 define("LAN_MAILOUT_246", "Ако е отбелязано, трябва да активирате задачата в планировчика");
 define("LAN_MAILOUT_247", "Информация за имейла:");
-define("LAN_MAILOUT_248", "Статус на приключване: ");
+define("LAN_MAILOUT_248", "Статус на приключване:");
 define("LAN_MAILOUT_249", "Изпрати резултати:");
 define("LAN_MAILOUT_250", "--- Край на уведомлението ---");
 define("LAN_MAILOUT_251", "Копирай и редактирай");
 define("LAN_MAILOUT_252", "Има ли различна последователност на проверка на данните, поправяне на броеве, изтриване на временни данни");
 define("LAN_MAILOUT_253", "Не са намерени получатели - проверете за повреди в базата данни");
-define('LAN_MAILOUT_254', 'View templated email');
-define('LAN_MAILOUT_255', 'Templated Email, ID: ');
-define('LAN_MAILOUT_256', 'Return');
-define('LAN_MAILOUT_257', 'Generated template');
-define('LAN_MAILOUT_258', 'Template: ');
+define("LAN_MAILOUT_254", "Виж шаблонни имейли");
+define("LAN_MAILOUT_255", "Шаблонен имейл, ID:");
+define("LAN_MAILOUT_256", "Обратно");
+define("LAN_MAILOUT_257", "Генерирани шаблони");
+define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Изпрати");
 define("LAN_HOLD", "Задръж");
-define("LAN_SUBMIT", "Изпълни!");
+define("LAN_MAILOUT_260", "User-Type");
+define("LAN_BASIC", "Basic");
+define("LAN_ADVANCED", "Advanced");
+
+
+?>

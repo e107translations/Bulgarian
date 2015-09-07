@@ -2,23 +2,19 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_theme.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_theme.php $
- * $Revision: 948 $
- * $Author: veskoto $
-*/
+ * Language File
+ *
+ */
 define("TPVLAN_1", "Вие преглеждате темата <b>'".PREVIEWTHEMENAME."'</b>. Тя още не е зададена като главна за сайта ви, а е активирана за преглед, само да видите как изглежда.<br />За да я зададете като тема за сайта си, моля <a href='".e_ADMIN."theme.php?choose'>върнете се</a> към управлението на темите и изберете 'Задай като тема за сайта'.<br />За да прегледате други теми, моля <a href='".e_ADMIN."theme.php'>кликнете тук</a>");
 define("TPVLAN_2", "Преглед на тема");
 define("TPVLAN_3", "Главната тема е зададена на");
-define("TPVLAN_4", "Автор");
 define("TPVLAN_5", "Уебсайт");
 define("TPVLAN_6", "Дата");
 define("TPVLAN_7", "Информация");
-define("TPVLAN_8", "Опции");
 define("TPVLAN_9", "Преглед на тема");
 define("TPVLAN_10", "Запази като тема на сайта");
 define("TPVLAN_11", "Версия");
@@ -65,6 +61,10 @@ define("TPVLAN_54", "Предварително зададени менюта");
 define("TPVLAN_55", "Основен");
 define("TPVLAN_56", "Филтър видимост");
 define("TPVLAN_57", "Съвместимост");
+define("TPVLAN_58", "Тази тема идва с предварително инсталирано примерно съдържание (като страници и менюта), който може да се използват на вашия сайт.");
+define("TPVLAN_59", "Моля, имайте предвид, че примерното съдържание ще [b]презапише[/b] сегашното съдържание на сайта ви!");
+define("TPVLAN_60", "[x] запис(а) в [y] таблица");
+define("TPVLAN_61", "Бихте ли искали да [b]замени [/] сегашното съдържание с примерното съдържание, предоставено от темата?");
 
 
 ?>

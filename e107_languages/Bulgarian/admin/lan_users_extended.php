@@ -2,15 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_users_extended.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_users_extended.php $
- * $Revision: 916 $
- * $Author: nickypn $
-*/
+ * Language File
+ *
+ */
 define("EXTLAN_1", "Име");
 define("EXTLAN_2", "Преглед");
 define("EXTLAN_3", "Стойност");

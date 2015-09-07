@@ -1,11 +1,14 @@
 <?php
 /*
  * e107 website system - Bulgarian Translation
- * *
- * $Id: lan_eurl.php 948 2014-01-20 12:14:34Z veskoto $
  *
-*/
-
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
+ */
 define("LAN_EURL_NAME", "Управление на URL-тата на сайта");
 define("LAN_EURL_NAME_CONFIG", "Профили");
 define("LAN_EURL_NAME_ALIASES", "Псевдоними");

@@ -2,15 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_administrator.php 933 2014-08-19 11:50:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/admin/lan_administrator.php $
- * $Revision: 933 $
- * $Author: nickypn $
-*/
+ * Language File
+ *
+ */
 define("ADMSLAN_4", "Продължи");
 define("ADMSLAN_6", "е главен администратор на сайта и не може да бъде изтрит.");
 define("ADMSLAN_13", "Съществуващи администратори");

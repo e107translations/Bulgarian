@@ -2,18 +2,15 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_search.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_search.php $
- * $Revision: 916 $
- * $Author: nickypn $
+ * Language File
+ *
 */
 define("PAGE_NAME", "Търсене");
 define("LAN_140", "Потребители");
-define("LAN_180", "Търси");
 define("LAN_192", "Всички категории");
 define("LAN_193", "Календар");
 define("LAN_194", "Всички категории");
@@ -27,20 +24,19 @@ define("LAN_417", "Ключовите думи за търсене трябва 
 define("LAN_418", "Страници");
 define("LAN_SEARCH_1", "Избери Всичко");
 define("LAN_SEARCH_2", "Откажи всичко");
-define("LAN_SEARCH_3", "Публикувано на ");
+define("LAN_SEARCH_3", "Публикувано на");
 define("LAN_SEARCH_4", "Резултати от търсенето в заглавия на новините");
 define("LAN_SEARCH_5", "Резултати от търсенето в текста на новините");
 define("LAN_SEARCH_6", "Резултати от търсенето в разширените текстове на новините");
-define("LAN_SEARCH_7", "Публикувано от ");
-define("LAN_SEARCH_8", " на ");
+define("LAN_SEARCH_7", "Публикувано от");
+define("LAN_SEARCH_8", " на");
 define("LAN_SEARCH_9", "Без заглавие");
-define("LAN_SEARCH_10", "Иди на страница:");
 define("LAN_SEARCH_11", "Резултати");
-define("LAN_SEARCH_12", " от ");
-define("LAN_SEARCH_13", " в ");
+define("LAN_SEARCH_12", " от");
+define("LAN_SEARCH_13", " в");
 define("LAN_SEARCH_14", "Категория:");
 define("LAN_SEARCH_15", "Автор:");
-define("LAN_SEARCH_17", "Съжаляваме, търсенето е ограничено веднъж на всеки ");
+define("LAN_SEARCH_17", "Съжаляваме, търсенето е ограничено веднъж на всеки");
 define("LAN_SEARCH_18", " секунди.");
 define("LAN_SEARCH_19", "Търси в:");
 define("LAN_SEARCH_20", "Необходими са права за достъп");
@@ -83,7 +79,7 @@ define("LAN_SEARCH_56", "Всички категории новини");
 define("LAN_SEARCH_57", "Коментарите публикувани в");
 define("LAN_SEARCH_58", "Всички секции");
 define("LAN_SEARCH_59", "Всички коментари");
-define("LAN_SEARCH_60", "Публикувани коментари ");
+define("LAN_SEARCH_60", "Публикувани коментари");
 define("LAN_SEARCH_61", "По автор");
 define("LAN_SEARCH_62", "Дата на регистриране");
 define("LAN_SEARCH_63", "Търси в категория");
@@ -91,7 +87,6 @@ define("LAN_SEARCH_64", "Всички файлови категории");
 define("LAN_SEARCH_65", "Файлове");
 define("LAN_SEARCH_66", "Дата на добавяне");
 define("LAN_SEARCH_67", "Всички описания на файлове");
-define("LAN_SEARCH_68", "Дата");
 define("LAN_SEARCH_69", "Значение");
 define("LAN_SEARCH_70", "Публикации към файл");
 define("LAN_SEARCH_71", "Публикации в отговор на новина");
@@ -102,5 +97,8 @@ define("LAN_SEARCH_75", "Вид търсене");
 define("LAN_SEARCH_76", "Публикувано на страница");
 define("LAN_SEARCH_77", "Публикувано на профил страницата на");
 define("LAN_SEARCH_98", "Новини");
-define("LAN_SEARCH_99", "Коментари");
 define("LAN_SEARCH_201", "Моля предефинирайте заявката си за търсене");
+define("LAN_SEARCH_202", "Разширени режим на търсене");
+
+
+?>

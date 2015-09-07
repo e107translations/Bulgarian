@@ -2,15 +2,16 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
  *
 */
 setlocale(LC_ALL, 'bg_BG.utf8', 'bg_BG.UTF-8', 'bg_bg.utf8', 'bg');
-define('CORE_LC', 'bg');
-define('CORE_LC2', 'BG');
-// define("TEXTDIRECTION","rtl");
-// deprecated: all language packs must be UTF-8
-//define("CHARSET", "utf-8");  // for a true multi-language site. :)
+define("CORE_LC", "bg");
+define("CORE_LC2", "BG");
 define("CORE_LAN1", "Грешка: Темата липсва.\\n\\nСменете използваната тема от настройките ( Администрация ) или качете файловете на тази тема на сървъра.");
 //obsolete define("CORE_LAN2'," \\1 wrote:");// "\\1" represents the username.
 //obsolete define("CORE_LAN3", "file attachment disabled");				// Not used in 0.8
@@ -45,11 +46,15 @@ define("EMESSLAN_TITLE_ERROR", "Грешка");
 define("EMESSLAN_TITLE_SUCCESS", "Успешно");
 define("EMESSLAN_TITLE_WARNING", "Внимание");
 define("EMESSLAN_TITLE_DEBUG", "Системен дебъг");
-
+define("LAN_EDIT", "Редакция");
+define("LAN_DELETE", "Изтриване");
+define("LAN_DEFAULT", "По подразбиране");
 define("LAN_MORE", "Още...");
 define("LAN_READ_MORE", "Прочети още...");
 define("LAN_GOPAGE", "Иди на страница");
+define("LAN_GOTOPAGEX", "Иди на страница [x]");
 define("LAN_GO", "Иди");
+define("LAN_SUBMIT", "Изпрати");
 define("LAN_NONE", "Нищо");
 define("LAN_WARNING", "Внимание!");
 define("LAN_ERROR", "Грешка");
@@ -58,21 +63,58 @@ define("LAN_EMAIL_SUBS", "-имейл-");
 define("LAN_YES", "Да");
 define("LAN_NO", "Не");
 define("LAN_OK", "Добре");
+define("LAN_ACTIONS", "Действия");
+define("LAN_THANK_YOU", "Благодаря");
 define("LAN_CONTINUE", "Продължи");
 define("LAN_ENTER", "Вход");
 define("LAN_ENTER_CODE", "Въведете кода");
 define("LAN_INVALID_CODE", "Въведен е неправилен код.");
 define("LAN_SEARCH", "Търси");
+define("LAN_VIEW", "Прехлед");
+define("LAN_SORT", "Сортиране");
+define("LAN_ORDER_BY", "Подредеи по");
+define("LAN_ASCENDING", "Възходящо");
+define("LAN_DESCENDING", "Низходящо");
 define("LAN_SHARE", "Сподели");
 define("LAN_BACK", "Обратно");
 define("LAN_NAME", "Име");
-define("LAN_CANCEL","Отказ");
-define("LAN_DATE","Дата");
+define("LAN_DESCRIPTION", "Описание");
+define("LAN_CANCEL", "Отказ");
+define("LAN_DATE", "Дата");
 define("LAN_DATE_POSTED", "Дата на публикуване");
-define("LAN_JSCONFIRM","Сигурни ли сте?");
+define("LAN_JSCONFIRM", "Сигурни ли сте?");
 define("LAN_IP", "IP адрес");
-define("LAN_AUTHOR",	"автор");
+define("LAN_AUTHOR", "Автор");
 define("LAN_CATEGORY", "Категория");
 define("LAN_GUEST", "Гост");
+define("LAN_NEXT", "Следващ");
+define("LAN_PREVIOUS", "Предишен");
+define("LAN_LOGIN", "Вход");
+define("LAN_LOGOUT", "Изход");
+define("LAN_SETTINGS", "Настройки");
+define("LAN_PASSWORD", "Парола");
+define("LAN_TYPE", "Тип");
+define("LAN_SCREENSHOT", "Изображение");
+define("LAN_FILE", "Файл");
+define("LAN_FILETYPES", "Типове файлове");
+define("LAN_FILE_NOT_FOUND", "Файлът не  е намерен");
+define("LAN_FILES", "Файлове");
+define("LAN_SIZE", "Размер");
+define("LAN_VERSION", "Версия");
+define("LAN_DOWNLOAD", "Изтегли");
+define("LAN_COMMENTS", "Коментари");
+define("LAN_LOCATION", "Местоположение");
+define("LAN_NO_RECORDS_FOUND", "Не са намерени записи");
+define("LAN_RATING", "Рейтинг");
+define("LAN_IMAGE", "Картинка");
+define("LAN_ABOUT", "Отностно");
+define("LAN_TITLE", "Заглавие");
+define("LAN_USER", "Потребител");
+define("LAN_EMAIL", "Имейл адрес");
+define("LAN_WROTE", "написа");
+define("LAN_RE_ORDER", "Подреди отново");
+define("LAN_ENTER_USRNAME_EMAIL", "Моля, въведете потребителско име или имейл адрес");
+define("LAN_PWD_REQUIRED", "Паролата е задължителна");
+
 
 ?>

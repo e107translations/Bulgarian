@@ -2,14 +2,12 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_usersettings.php 948 2014-01-20 12:14:34Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_usersettings.php $
- * $Revision: 948 $
- * $Author: veskoto $
+ * Language File
+ *
 */
 define("PAGE_NAME", "Потребителски настройки");
 define("MAX_AVWIDTH", "Максималната големина на аватара (ДхВ) е");
@@ -51,7 +49,8 @@ define("LAN_USET_38", "Избери аватар");
 define("LAN_USET_39", "Актуализиране на потребителските настройки");
 define("LAN_USET_40", "Двете пароли не съвпадат");
 define("LAN_USET_41", "Настройките са актуализирани и записани в базата данни.");
-define("LAN_USET_42", "");
+define("LAN_USET_42", "Разминаване при валидиране на ключа");
+define("LAN_USET_43", "Грешка при обновяване на потребителската информация");
 define("LAN_7", "Име за показване:");
 define("LAN_8", "името с което ще бъдете показвани в сайта");
 define("LAN_9", "Потребителско име:");
