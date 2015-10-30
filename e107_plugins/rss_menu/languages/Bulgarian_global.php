@@ -17,6 +17,7 @@
 
 define("LAN_PLUGIN_RSS_NAME", "RSS");
 define("LAN_PLUGIN_RSS_DESCRIPTION", "RSS Публикации ");
-
+define("LAN_PLUGIN_RSS_SUBSCRIBE", "Абониране");
+define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "Абониране за [x]");
 
 ?>

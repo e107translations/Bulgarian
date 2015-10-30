@@ -45,7 +45,7 @@ define("LANG_LAN_107", "Домейна определя езика на сайт
 define("LANG_LAN_121", "Не може да се зареди:");
 define("LANG_LAN_124", "Дефиниция");
 define("LANG_LAN_126", "Забранете всички неизползвани");
-define("LANG_LAN_130", "Common Term");
+define("LANG_LAN_130", "Общи условия");
 define("LANG_LAN_131", "Липсва от езиковия файл");
 define("LANG_LAN_132", "е обща фраза");
 define("LANG_LAN_133", "Използвай");

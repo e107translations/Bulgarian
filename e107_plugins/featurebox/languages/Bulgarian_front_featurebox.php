@@ -12,7 +12,8 @@
 +---------------------------------------------------------------+
 */
 
-define("FBLAN_01", "Слайдер");
+//define("FBLAN_01", "Слайдер");
+// define("FBLAN_02", "read more"); // Already used in admin area.
 
 
 ?>

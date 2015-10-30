@@ -11,7 +11,7 @@
 */
 
 define("DOWLAN_29", "Файлове");
-define("DOWLAN_30", "This plugin is a fully featured File-download system");
+define("DOWLAN_30", "Този modul е напълно функционаленна система за сваляне на файлове");
 
 
 ?>

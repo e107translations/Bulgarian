@@ -252,9 +252,9 @@ define("LAN_MAILOUT_257", "Генерирани шаблони");
 define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Изпрати");
 define("LAN_HOLD", "Задръж");
-define("LAN_MAILOUT_260", "User-Type");
-define("LAN_BASIC", "Basic");
-define("LAN_ADVANCED", "Advanced");
+define("LAN_MAILOUT_260", "Потребителски тип");
+define("LAN_BASIC", "Основен");
+define("LAN_ADVANCED", "Разширен");
 
 
 ?>

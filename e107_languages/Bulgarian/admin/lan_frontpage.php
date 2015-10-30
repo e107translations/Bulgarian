@@ -18,8 +18,8 @@ define("FRTLAN_46", "Редакция на съществуващи правил
 define("FRTLAN_49", "Входна страница");
 define("FRTLAN_51", "Друга");
 define("FRTLAN_PAGE_TITLE", "Входна страница");
-define("FRTLAN_56", "duplicate definition for class:");
-define("FRTLAN_57", "Грешка в софтуера ");
+define("FRTLAN_56", "дублирано дефиниране за клас:");
+define("FRTLAN_57", "Грешка в софтуера");
 
 
 ?>

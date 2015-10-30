@@ -1,14 +1,13 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * Copyright (C) 2008-2013 e107 Inc (e107.org), Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
  *
- * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ * Admin Language Файл
  *
- * Language File
- *
- */
+*/
+
+// TODO LAN CLEANUP
+
 define("EPL_ADLAN_0", "Инсталирай");
 define("EPL_ADLAN_1", "Деинсталирай");
 define("EPL_ADLAN_2", "Сигурни ли сте, че искате да деинсталирате този модул?");
@@ -21,13 +20,16 @@ define("EPL_ADLAN_8", "Настройките са създадени успеш
 define("EPL_ADLAN_9", "SQL командата е неуспешна. Проверете за да бъдете сигурни, че всички промени по обновяването са наред.");
 define("EPL_ADLAN_10", "Име");
 define("EPL_ADLAN_11", "Версия");
+//define("EPL_ADLAN_12", "Author"); //LAN_AUTHOR
 define("EPL_ADLAN_13", "Съвместим");
 define("EPL_ADLAN_14", "Описание");
 define("EPL_ADLAN_15", "Прочетете README файла за повече информация");
 define("EPL_ADLAN_16", "Информация за модулите");
-define("EPL_ADLAN_17", "Още информация ...");
+define("EPL_ADLAN_17", "Още информация");
 define("EPL_ADLAN_18", "Не са създадени успешно таблиците за този модул.");
 define("EPL_ADLAN_19", "Таблиците са съзадени успешно в базата данни.");
+// define("EPL_ADLAN_20", "Preference settings successfully created."); // duplicate of EPL_ADLAN_8;
+
 define("EPL_ADLAN_21", "Модула е вече инсталиран.");
 define("EPL_ADLAN_22", "Инсталирани");
 define("EPL_ADLAN_23", "Не инсталирани");
@@ -44,6 +46,7 @@ define("EPL_ADLAN_33", "Модула е успешно инсталиран.");
 define("EPL_ADLAN_34", "Модула е успешно обновен.");
 define("EPL_ADLAN_35", "Parser настройки са успешно добавени.");
 define("EPL_ADLAN_36", "Вкарването на Parser код е неуспешно, некоректен формат.");
+
 define("EPL_ADLAN_37", "Добави модул (.zip или .tar.gz формат)");
 define("EPL_ADLAN_38", "Добави модул");
 define("EPL_ADLAN_39", "Файла не може да бъде качен в ".e_PLUGIN.". Папката няма необходимите права за писане - моля сменете правата за писане на директорията и опитайте отново.");
@@ -53,23 +56,31 @@ define("EPL_ADLAN_42", "Поради грешка не може да се раз
 define("EPL_ADLAN_43", "Модула бе качен и добавен в не инсталирани модули.");
 define("EPL_ADLAN_44", "Автоматичното качване и разархивиране не е разрешено понеже Вашата директория с модули няма нужните права за достъп - моля сменете правата за писане на ".e_PLUGIN." директория.");
 define("EPL_ADLAN_45", "Менюто е качено и разархивирано, за да го активирате отидете в <a href='".e_ADMIN."menus.php'>страницата на менютата</a>.");
-define("EPL_ADLAN_46", "PCLZIP extract error:");
-define("EPL_ADLAN_47", "PCLTAR extract error:");
+define("EPL_ADLAN_46", "PCLZIP грешка при разархивиране:");
+define("EPL_ADLAN_47", "PCLTAR грешка при разархивиране:");
 define("EPL_ADLAN_48", "код:");
-define("EPL_ADLAN_49", "Tables not deleted during uninstall process by request");
+define("EPL_ADLAN_49", "Таблиците не са изтрити при деинсталирането");
+
+// define("EPL_CANCEL", "Cancel"); use LAN_CANCEL instead !!
+// define("EPL_EMAIL", "email");
 define("EPL_WEBSITE", "Уебсайт");
+// define("EPL_OPTIONS", "Options"); use LAN_OPTIONS instead!
 define("EPL_NOINSTALL", "Не е нужна инсталация просто го активирайте от страницата на менютата. За деинсталация - изтрийте");
 define("EPL_DIRECTORY", "директорията.");
 define("EPL_NOINSTALL_1", "Не е нужна инсталация, за да го махнете изтрийте");
 define("EPL_UPGRADE", "Обновяване");
+
 define("EPL_ADLAN_50", "Коментарите са изтрити успешно");
+
 define("EPL_ADLAN_53", "Директорията няма права за писане");
 define("EPL_ADLAN_54", "Моля изберете възможностите за деинсталация на модула:");
 define("EPL_ADLAN_55", "Деинсталиране на модул");
+
 define("EPL_ADLAN_57", "Изтриване на таблиците на модула");
 define("EPL_ADLAN_58", "Ако таблиците не се изтрият модула може да се инсталира на ново без загуба на данни. При нова инсталация създаването на таблиците няма да бъде успешно. Таблиците ще трябва да се премахнат ръчно.");
 define("EPL_ADLAN_59", "Изтриване на файловете на модула");
 define("EPL_ADLAN_60", "e107 ще се опита да премахне файловете на модула.");
+// define("EPL_ADLAN_61", "Confirm uninstall"); // duplicated. can be deleted.
 define("EPL_ADLAN_62", "Откажете деинсталацията");
 define("EPL_ADLAN_63", "Деинсталация:");
 define("EPL_ADLAN_64", "Папка");
@@ -91,6 +102,7 @@ define("EPL_ADLAN_84", "Инсталирай избраните");
 define("EPL_ADLAN_85", "Деинсталирай избраните");
 define("EPL_ADLAN_86", "Всички файлове са премахнати от");
 define("EPL_ADLAN_87", "Изтриването на файловете не беше успешно");
+
 define("EPL_ADLAN_88", "Направен за v2");
 define("EPL_ADLAN_89", "Търсене онлайн");
 define("EPL_ADLAN_90", "cURL е необходим за да използвате тази функция. Свържете се с вашия доставчик на уебхостинг да позволите cURL");
@@ -105,50 +117,55 @@ define("EPL_ADLAN_98", "Непознат файл:");
 define("EPL_ADLAN_99", "Съобщения за грешки над тази линия");
 define("EPL_ADLAN_100", "натиснете ту за да инсталирате някой");
 define("EPL_ADLAN_101", "Няма инсталирани модули - [x].");
-define("EPL_ADLAN_102", "This Wizard will build an admin area for your plugin and generate a plugin.xml meta file. Before you start:");
-define("EPL_ADLAN_103", "Create a new writable folder in the [x] directory eg. [b]myplugin[/b]");
-define("EPL_ADLAN_104", "If your plugin will use sql tables, create a new file in this folder and name it the same as the directory but with [b]_sql.php[/b] as a sufix eg. [b]myplugin_sql.php[/b]");
-define("EPL_ADLAN_105", "Create your table in phpMyAdmin and paste an sql dump of it into your file and save. (see [i]e107_plugins/_blank/_blank_sql.php[/i] for an example)");
-define("EPL_ADLAN_106", "Select your plugin's folder to begin.");
-define("EPL_ADLAN_107", "Build an admin-area and xml file for:");
-define("EPL_ADLAN_108", "Check language files:");
-define("EPL_ADLAN_109", "Basic Info.");
-define("EPL_ADLAN_111", "Generate");
-define("EPL_ADLAN_112", "Review all fields and modify if necessary.");
-define("EPL_ADLAN_113", "Review ALL tabs before clicking 'Generate'.");
-define("EPL_ADLAN_114", "Plugin Builder");
-define("EPL_ADLAN_115", "Step 2");
-define("EPL_ADLAN_116", "Text Box");
-define("EPL_ADLAN_117", "Text Box (number)");
-define("EPL_ADLAN_118", "Text Box (url)");
-define("EPL_ADLAN_119", "Text Area");
-define("EPL_ADLAN_120", "Rich-Text Area");
+define("EPL_ADLAN_102", "Този помощник ще създаде администрация и plugin.xml файл за Вашия модул. Преди да започните:");
+define("EPL_ADLAN_103", "Създайте нова папка с права за писане в [x], например[b]myplugin[/b]");
+define("EPL_ADLAN_104", "Ако модула използва база данни създайте нов файл в същата папка с името на папката и [b]_sql.php[/b] като наставка, например [b]myplugin_sql.php[/b]");
+define("EPL_ADLAN_105", "Създайте таблиците в phpMyAdmin, поставете sql dump във файла и запазете. (вижте [i]e107_plugins/_blank/_blank_sql.php[/i] за пример)");
+define("EPL_ADLAN_106", "Изберете папката на модула за да продължите.");
+define("EPL_ADLAN_107", "Създаване на администрация и xml файл за:");
+define("EPL_ADLAN_108", "Проверка на езиковите файлове:");
+define("EPL_ADLAN_109", "Основна информация.");
+// define ('EPL_ADLAN_110',"Preferences");
+define("EPL_ADLAN_111", "Генериране");
+define("EPL_ADLAN_112", "Прегледайте всички полета и променете, ако е необходимо.");
+define("EPL_ADLAN_113", "Прегледайте ВСИЧКИ табове, преди да кликнете върху 'Генериране'.");
+define("EPL_ADLAN_114", "Създаване на модул");
+define("EPL_ADLAN_115", "Стъпка 2");
+
+define("EPL_ADLAN_116", "Текстово поле");
+define("EPL_ADLAN_117", "Текстово поле (число)");
+define("EPL_ADLAN_118", "Текстово поле (url)");
+define("EPL_ADLAN_119", "Текстов бокс");
+define("EPL_ADLAN_120", "Разширен текстов бокс");
 define("EPL_ADLAN_121", "True/False");
-define("EPL_ADLAN_122", "Custom Function");
-define("EPL_ADLAN_123", "Image");
-define("EPL_ADLAN_124", "DropDown");
-define("EPL_ADLAN_125", "DropDown (userclasses)");
-define("EPL_ADLAN_126", "DropDown (languages)");
-define("EPL_ADLAN_127", "Icon");
-define("EPL_ADLAN_128", "File");
-define("EPL_ADLAN_129", "Preference Name");
-define("EPL_ADLAN_130", "Default Value");
-define("EPL_ADLAN_131", "Field Type...");
-define("EPL_ADLAN_132", "[x] has been generated");
-define("EPL_ADLAN_133", "[x] is missing!");
-define("EPL_ADLAN_134", "Please create [b][x][/b] in your plugin directory with the following content: [y]");
-define("EPL_ADLAN_135", "The name of your plugin. (Must be written in English)");
-define("EPL_ADLAN_136", "If you have a language file, enter the LAN_XXX value for the plugin's name");
-define("EPL_ADLAN_137", "Creation date of your plugin");
-define("EPL_ADLAN_138", "The version of your plugin. Format: x.x");
-define("EPL_ADLAN_139", "Compatible with this version of e107");
-define("EPL_ADLAN_140", "Author Name");
-define("EPL_ADLAN_141", "Author Website URL");
-define("EPL_ADLAN_142", "A short one-line description of the plugin");
-define("EPL_ADLAN_143", "(Must be written in English)");
-define("EPL_ADLAN_144", "Keyword/Tag for this plugin");
-define("EPL_ADLAN_145", "A full description of the plugin");
-define("EPL_ADLAN_146", "What category of plugin is this?");
+define("EPL_ADLAN_122", "Потребителска функция");
+define("EPL_ADLAN_123", "Изображение");
+define("EPL_ADLAN_124", "Падащо меню");
+define("EPL_ADLAN_125", "Падащо меню (класове потребители)");
+define("EPL_ADLAN_126", "Падащо меню (езици)");
+define("EPL_ADLAN_127", "Икона");
+define("EPL_ADLAN_128", "Файл");
+
+define("EPL_ADLAN_129", "Заглавие на предпочитание");
+define("EPL_ADLAN_130", "Стойност по подразбиране");
+define("EPL_ADLAN_131", "Тъп на полето...");
+define("EPL_ADLAN_132", "[x] е генериран");
+define("EPL_ADLAN_133", "[x] липсва!");
+define("EPL_ADLAN_134", "Моля създайте [b][x][/b] в папката на модула със следното съдържание: [y]");
+define("EPL_ADLAN_135", "Име на модула. (Трябва да е на Английски)");
+define("EPL_ADLAN_136", "Ако имате езиков файл попълнете LAN_XXX за име на модула");
+define("EPL_ADLAN_137", "Дата на създаване на модула");
+define("EPL_ADLAN_138", "Версия на модула. Формат: x.x");
+define("EPL_ADLAN_139", "Съвместимост с версия на е107");
+define("EPL_ADLAN_140", "Име на автора");
+define("EPL_ADLAN_141", "Сайт на автора");
+define("EPL_ADLAN_142", "Много кратко описание на модула");
+define("EPL_ADLAN_143", "(Трябва да е на Английски)");
+define("EPL_ADLAN_144", "Ключови думи/тагове на модула");
+define("EPL_ADLAN_145", "Пълно описание на модула");
+define("EPL_ADLAN_146", "Каква категория е модула?");
+
+// Categories
 define("EPL_ADLAN_147", "settings");
 define("EPL_ADLAN_148", "users");
 define("EPL_ADLAN_149", "content");
@@ -157,80 +174,101 @@ define("EPL_ADLAN_151", "manage");
 define("EPL_ADLAN_152", "misc");
 define("EPL_ADLAN_153", "menu");
 define("EPL_ADLAN_154", "about");
-define("EPL_ADLAN_155", "Saved:");
-define("EPL_ADLAN_156", "Couldn't Save:");
-define("EPL_ADLAN_157", "Main Area");
-define("EPL_ADLAN_158", "Categories");
-define("EPL_ADLAN_159", "Other 1");
-define("EPL_ADLAN_160", "Other 2");
-define("EPL_ADLAN_161", "Other 3");
-define("EPL_ADLAN_162", "Other 4");
-define("EPL_ADLAN_163", "Exclude this table");
-define("EPL_ADLAN_164", "Field");
-define("EPL_ADLAN_165", "Caption");
-define("EPL_ADLAN_166", "Type");
-define("EPL_ADLAN_167", "Data");
-define("EPL_ADLAN_168", "Width");
-define("EPL_ADLAN_169", "Batch");
-define("EPL_ADLAN_170", "Filter");
-define("EPL_ADLAN_171", "Inline");
-define("EPL_ADLAN_172", "Validate");
-define("EPL_ADLAN_173", "Display");
-define("EPL_ADLAN_174", "HelpTip");
+
+define("EPL_ADLAN_155", "Запазени:");
+define("EPL_ADLAN_156", "Не може да се запише:");
+
+define("EPL_ADLAN_157", "Главна зона");
+define("EPL_ADLAN_158", "Категории");
+define("EPL_ADLAN_159", "Други 1");
+define("EPL_ADLAN_160", "Други 2");
+define("EPL_ADLAN_161", "Други 3");
+define("EPL_ADLAN_162", "Други 4");
+define("EPL_ADLAN_163", "Изключване на тази таблица");
+
+//FIXME TODO Excessive duplicate terms below.
+define("EPL_ADLAN_164", "Поле");
+define("EPL_ADLAN_165", "Заглавие");
+define("EPL_ADLAN_166", "Тип");
+define("EPL_ADLAN_167", "Стойност");
+define("EPL_ADLAN_168", "Дължина");
+define("EPL_ADLAN_169", "Група");
+define("EPL_ADLAN_170", "Филтър");
+define("EPL_ADLAN_171", "В редица");
+define("EPL_ADLAN_172", "Валидиране");
+define("EPL_ADLAN_173", "Показване");
+define("EPL_ADLAN_174", "Подсказка");
 define("EPL_ADLAN_175", "ReadParms");
 define("EPL_ADLAN_176", "WriteParms");
-define("EPL_ADLAN_177", "Field is required to be filled");
-define("EPL_ADLAN_178", "Displayed by Default");
-define("EPL_ADLAN_179", "Text Box");
-define("EPL_ADLAN_180", "Hidden");
+define("EPL_ADLAN_177", "Полето е задължително за попълване");
+define("EPL_ADLAN_178", "Поазване по подразбиране");
+
+// date, datetime
+define("EPL_ADLAN_179", "Текстово поле");
+define("EPL_ADLAN_180", "Скрито");
+
+// int, tinyint, bigint, smallint
 define("EPL_ADLAN_181", "True/False");
-define("EPL_ADLAN_182", "Text Box (number)");
-define("EPL_ADLAN_183", "DropDown");
-define("EPL_ADLAN_184", "DropDown (userclasses)");
-define("EPL_ADLAN_186", "Custom Function");
-define("EPL_ADLAN_187", "Hidden");
-define("EPL_ADLAN_188", "User");
-define("EPL_ADLAN_189", "Text Box");
-define("EPL_ADLAN_190", "DropDown");
-define("EPL_ADLAN_191", "Custom Function");
-define("EPL_ADLAN_192", "Hidden");
-define("EPL_ADLAN_193", "Text Box");
-define("EPL_ADLAN_194", "Text Box (url)");
-define("EPL_ADLAN_195", "Text Box (email)");
-define("EPL_ADLAN_196", "Text Box (ip)");
-define("EPL_ADLAN_197", "Text Box (number)");
-define("EPL_ADLAN_198", "Text Box (password)");
-define("EPL_ADLAN_199", "Text Box (keywords)");
-define("EPL_ADLAN_200", "DropDown");
-define("EPL_ADLAN_201", "DropDown (userclasses)");
-define("EPL_ADLAN_202", "DropDown (languages)");
-define("EPL_ADLAN_203", "Icon");
-define("EPL_ADLAN_204", "Image");
-define("EPL_ADLAN_205", "File");
-define("EPL_ADLAN_206", "Custom Function");
-define("EPL_ADLAN_207", "Hidden");
-define("EPL_ADLAN_208", "Text Area");
-define("EPL_ADLAN_209", "Rich-Text Area");
-define("EPL_ADLAN_210", "Text Box");
-define("EPL_ADLAN_211", "Text Box (keywords)");
-define("EPL_ADLAN_212", "Custom Function");
-define("EPL_ADLAN_213", "Image (string)");
-define("EPL_ADLAN_214", "Images (array)");
-define("EPL_ADLAN_215", "Hidden");
-define("EPL_ADLAN_216", "Click Here");
-define("EPL_ADLAN_217", "[x] to vist your generated admin area");
-define("EPL_ADLAN_218", "Could not write to [x]");
-define("EPL_ADLAN_219", " No Files have been created. Please Copy &amp; Paste the code below into your files.");
-define("EPL_ADLAN_220", "Find Plugins");
-define("EPL_ADLAN_221", "Language-File Check");
-define("EPL_ADLAN_222", "Plugin Files");
-define("EPL_ADLAN_223", "Used");
-define("EPL_ADLAN_224", "Unused");
-define("EPL_ADLAN_225", "Unsure");
-define("EPL_ADLAN_226", "Plugin Language-File Check");
-define("EPL_ADLAN_227", "Scan for Changes");
-define("EPL_ADLAN_228", "Plugin folders are scanned every [x] minutes for changes. Click the button below to scan now.");
-define("EPL_ADLAN_229", "Refresh");
+define("EPL_ADLAN_182", "Текстово поле (число)");
+define("EPL_ADLAN_183", "Падащо меню");
+define("EPL_ADLAN_184", "Падащо меню (класове потребители)");
+//define ('EPL_ADLAN_185',"Date");//LAN_DATE
+define("EPL_ADLAN_186", "Потребителска функция");
+define("EPL_ADLAN_187", "Скрито");
+define("EPL_ADLAN_188", "Потребител");
+
+// decimal
+define("EPL_ADLAN_189", "Текстово поле");
+define("EPL_ADLAN_190", "Падащо меню");
+define("EPL_ADLAN_191", "Потребителска функция");
+define("EPL_ADLAN_192", "Скрито");
+
+// varchar, tinytext
+define("EPL_ADLAN_193", "Текстово поле");
+define("EPL_ADLAN_194", "Текстово поле (url)");
+define("EPL_ADLAN_195", "Текстово поле (имейл)");
+define("EPL_ADLAN_196", "Текстово поле (ip)");
+define("EPL_ADLAN_197", "Текстово поле (число)");
+define("EPL_ADLAN_198", "Текстово поле (парола)");
+define("EPL_ADLAN_199", "Текстово поле (ключова дума)");
+define("EPL_ADLAN_200", "Падащо меню");
+define("EPL_ADLAN_201", "Падащо меню (класове потребители)");
+define("EPL_ADLAN_202", "Падащо меню (езици)");
+define("EPL_ADLAN_203", "Икона");
+define("EPL_ADLAN_204", "Изображение");
+define("EPL_ADLAN_205", "Файл");
+define("EPL_ADLAN_206", "Потребителска функция");
+define("EPL_ADLAN_207", "Скрито");
+
+// text, mediumtext, longtext
+define("EPL_ADLAN_208", "Текстов бокс");
+define("EPL_ADLAN_209", "Разширен текстов бокс");
+define("EPL_ADLAN_210", "Текстово поле");
+define("EPL_ADLAN_211", "Текстово поле (ключова дума)");
+define("EPL_ADLAN_212", "Потребителска функция");
+define("EPL_ADLAN_213", "Изображение (string)");
+define("EPL_ADLAN_214", "Изображение (array)");
+define("EPL_ADLAN_215", "Скрито");
+
+define("EPL_ADLAN_216", "Натиснете тук");
+define("EPL_ADLAN_217", "[x] за да идете а администрация на модула");
+define("EPL_ADLAN_218", "Няма права за писане в [x]");
+define("EPL_ADLAN_219", "Не са създадени файлове. Моля копирайте и поставете кода по-долу във вашите файлове.");
+
+define("EPL_ADLAN_220", "Намиране на модули");
+define("EPL_ADLAN_221", "Проверка на езиковите файлове");
+
+define("EPL_ADLAN_222", "Файлове на модула");
+define("EPL_ADLAN_223", "Използвани");
+define("EPL_ADLAN_224", "Неизползван");
+define("EPL_ADLAN_225", "Несигурен");
+
+define("EPL_ADLAN_226", "Проверка на езиковите файлове на модула");
+
+define("EPL_ADLAN_227", "Сканиране за промени");
+define("EPL_ADLAN_228", "Модулите се сканират всеки [X] минути за промени. Натиснете върху бутона по-долу, за да сканирате сега.");
+define("EPL_ADLAN_229", "Опресни");
+
 define("LAN_UPGRADE_SUCCESSFUL", "Актуализирането завърши успешно");
 define("LAN_INSTALL_SUCCESSFUL", "Инсталацията завърши успешно");
 define("LAN_INSTALL_FAIL", "Инсталацията не беше успешна");

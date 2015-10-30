@@ -1,16 +1,5 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * $Id: Bulgarian.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/newforumposts_main/languages/Bulgarian.php $
- * $Revision: 917 $
- * $Author: nickypn $
-*/
+
 define("NFPM_LAN_1", "Тема");
 define("NFPM_LAN_2", "Публикувано от");
 define("NFPM_LAN_3", "Преглеждания");
@@ -18,6 +7,7 @@ define("NFPM_LAN_4", "Отговори");
 define("NFPM_LAN_5", "Последно съобщение");
 define("NFPM_LAN_6", "Теми");
 define("NFPM_LAN_7", "от");
+
 define("NFPM_L1", "Този модул показва списък с новите съобщения във форума на вашата предна страница");
 define("NFPM_L2", "Последно от форума");
 define("NFPM_L3", "За да конфигурирате модула, кликнете на линка в секцията модули на вашата главна администраторска страница.");
@@ -42,3 +32,5 @@ define("NFPM_L21", "Важна тема");
 define("NFPM_L22", "Заключена важна тема");
 define("NFPM_L23", "Известие");
 define("NFPM_L24", "Заключена тема");
+
+?>

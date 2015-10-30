@@ -17,6 +17,8 @@
 
 define("LAN_PLUGIN_PM_NAME", "Лични съобщение");
 define("LAN_PLUGIN_PM_DESCRIPTION", "Този модул е многофункционална система за лични съобщения. ");
+define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "Default");
+define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "Default");
 
 
 ?>

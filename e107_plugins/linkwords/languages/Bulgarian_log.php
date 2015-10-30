@@ -15,13 +15,12 @@
  *
 */
 
-define("LAN_AL_LINKWD_00", "Linkword-related message");
+define("LAN_AL_LINKWD_00", "Линкната дума - съобщение");
 define("LAN_AL_LINKWD_01", "Линкната дума е добавена");
 define("LAN_AL_LINKWD_02", "Линкната дума е редактирана");
 define("LAN_AL_LINKWD_03", "Линкната дума е изтрита");
 define("LAN_AL_LINKWD_04", "Линкната дума е обновена");
-define("LAN_AL_LINKWD_05", "Linkwords version update");
-define("LAN_AL_LINKWD_06", "");
+define("LAN_AL_LINKWD_05", "Линк-думи обновяване на версията");
 
 
 ?>

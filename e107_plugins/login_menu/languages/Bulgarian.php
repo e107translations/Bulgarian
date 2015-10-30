@@ -1,60 +1,78 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
+ * e107 website system
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/login_menu/languages/Bulgarian.php $
- * $Revision: 917 $
- * $Author: nickypn $
-*/
-define("LOGIN_MENU_L1", "Потребител: ");
-define("LOGIN_MENU_L2", "Парола: ");
-define("LOGIN_MENU_L3", "Регистриране");
-define("LOGIN_MENU_L4", "Забравена парола?");
-define("LOGIN_MENU_L5", "Здравейте");
-define("LOGIN_MENU_L6", "Запомни ме");
-define("LOGIN_MENU_L7", "Уникално потребителско id не е разпознато (възможно е повредена бисквитка).<br />Моля, кликнете на  линка за изход, за да унищожите бисквитките.");
-define("LOGIN_MENU_L8", "Изход");
-define("LOGIN_MENU_L9", "Грешка при логване");
-define("LOGIN_MENU_L10", "Включено е Затваряне за обновяване на сайта - това ще рече, че нормалните потребители на сайта ще бъдат пренасочвани към sitedown.php. За да изключите обновяването вървете в админ панела/Затваряне за обновяване.");
-define("LOGIN_MENU_L11", "Администриране");
-define("LOGIN_MENU_L12", "Настройки");
-define("LOGIN_MENU_L13", "Профил");
-define("LOGIN_MENU_L14", "новина");
-define("LOGIN_MENU_L15", "новини");
-define("LOGIN_MENU_L16", "пост в чата");
-define("LOGIN_MENU_L17", "постове в чата");
-define("LOGIN_MENU_L18", "коментар");
-define("LOGIN_MENU_L19", "коментари");
-define("LOGIN_MENU_L20", "пост във форума");
-define("LOGIN_MENU_L21", "постове във форума");
-define("LOGIN_MENU_L22", "нов потребител");
-define("LOGIN_MENU_L23", "нови потребители");
-define("LOGIN_MENU_L24", "Покажи всичко ново");
-define("LOGIN_MENU_L25", "От последното ви посещение има");
-define("LOGIN_MENU_L26", "Няма");
-define("LOGIN_MENU_L27", "и");
-define("LOGIN_MENU_L28", "Вход");
-define("LOGIN_MENU_L31", "Покажи последни Новини");
-define("LOGIN_MENU_L34", "Покажи новите Коментари");
-define("LOGIN_MENU_L36", "Покажи новите Регистрирани");
-define("LOGIN_MENU_L39", "Админ Изход");
-define("LOGIN_MENU_L40", "Активирай отново");
-define("LOGIN_MENU_L41", "Настройки на меню Вход");
-define("LOGIN_MENU_L37", "Покажи");
-define("LOGIN_MENU_L38", "Допълнителни линкове на меню вход");
-define("LOGIN_MENU_L42", "Меню вход - Последни добавяния в ядрото");
-define("LOGIN_MENU_L43", "Позиция");
-define("LOGIN_MENU_L44", "липсва заглавие на линка");
-define("LOGIN_MENU_L45", "линк(ове) -");
-define("LOGIN_MENU_L45a", "");
-define("LOGIN_MENU_L45b", "модул");
-define("LOGIN_MENU_L46", "последни статии -");
-define("LOGIN_MENU_L47", "Меню вход - Последни добавяния в модули");
-define("LOGIN_MENU_L48", "Настройка на менюто");
-define("LOGIN_MENU_L49", "Имейл: ");
-define("LOGIN_MENU_L50", "Потребителско име или Имейл: ");
+ *
+ *
+ * $Source: /cvs_backup/e107_0.8/e107_plugins/login_menu/languages/English.php,v $
+ * $Revision$
+ * $Date$
+ * $Author$
+ */
+
+define("LAN_LOGINMENU_1", "Потребител: ");
+define("LAN_LOGINMENU_2", "Парола: ");
+define("LAN_LOGINMENU_3", "Регистриране");
+define("LAN_LOGINMENU_4", "Забравена парола?");
+define("LAN_LOGINMENU_5", "Здравейте");
+define("LAN_LOGINMENU_6", "Запомни ме");
+define("LAN_LOGINMENU_7", "Уникално потребителско id не е разпознато (възможно е повредена бисквитка).<br />Моля, кликнете на  линка за изход, за да унищожите бисквитките.");
+//define("LAN_LOGINMENU_8", "Изход");
+define("LAN_LOGINMENU_9", "Грешка при логване");
+define("LAN_LOGINMENU_10", "Включено е Затваряне за обновяване на сайта - това ще рече, че нормалните потребители на сайта ще бъдат пренасочвани към sitedown.php. За да изключите обновяването вървете в админ панела/Затваряне за обновяване.");
+define("LAN_LOGINMENU_11", "Администриране");
+define("LAN_LOGINMENU_12", "Настройки");
+define("LAN_LOGINMENU_13", "Профил");
+define("LAN_LOGINMENU_14", "новина");
+define("LAN_LOGINMENU_15", "новини");
+define("LAN_LOGINMENU_16", "пост в чата");
+define("LAN_LOGINMENU_17", "постове в чата");
+define("LAN_LOGINMENU_18", "коментар");
+define("LAN_LOGINMENU_19", "коментари");
+define("LAN_LOGINMENU_20", "пост във форума");
+define("LAN_LOGINMENU_21", "постове във форума");
+define("LAN_LOGINMENU_22", "нов потребител");
+define("LAN_LOGINMENU_23", "нови потребители");
+define("LAN_LOGINMENU_24", "Покажи всичко ново");
+define("LAN_LOGINMENU_25", "От последното ви посещение има");
+define("LAN_LOGINMENU_26", "Няма");
+define("LAN_LOGINMENU_27", "и");
+//define("LAN_LOGINMENU_28", "Вход");
+//define("LAN_LOGINMENU_29", "new article");
+//define("LAN_LOGINMENU_30", "new articles");
+
+// New config options
+define("LAN_LOGINMENU_31", "Покажи последни Новини");
+//define("LAN_LOGINMENU_32", "Show New Article Posts");
+//define("LAN_LOGINMENU_33", "Show New Chatbox Posts");
+define("LAN_LOGINMENU_34", "Покажи новите Коментари");
+//define("LAN_LOGINMENU_35", "Show New Forum Posts");
+define("LAN_LOGINMENU_36", "Покажи новите Регистрирани");
+
+
+define("LAN_LOGINMENU_39", "Админ Изход");
+define("LAN_LOGINMENU_40", "Активирай отново");
+define("LAN_LOGINMENU_41", "Настройки на меню Вход");
+
+//new v0.8
+define("LAN_LOGINMENU_37", "Покажи");
+define("LAN_LOGINMENU_38", "Допълнителни линкове на меню вход");
+
+define("LAN_LOGINMENU_42", "Меню вход - Последни добавяния в ядрото");
+define("LAN_LOGINMENU_43", "Позиция");
+define("LAN_LOGINMENU_44", "липсва заглавие на линка");
+define("LAN_LOGINMENU_45", "линк(ове) -");
+define("LAN_LOGINMENU_45a", "");
+define("LAN_LOGINMENU_45b", "модул");
+define("LAN_LOGINMENU_46", "последни статии -");
+define("LAN_LOGINMENU_47", "Меню вход - Последни добавяния в модули");
+define("LAN_LOGINMENU_48", "Настройка на менюто");
+define("LAN_LOGINMENU_49", "Имейл: ");
+define("LAN_LOGINMENU_50", "Потребителско име или Имейл: ");
+define("LAN_LOGINMENU_51", "Впиши се");
+
+?>

@@ -1,10 +1,18 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Bulgarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/10/30 08:38:09
+|
+|        $Author: Administrator $
++---------------------------------------------------------------+
+*/
 
-// Always use the format LAN_PLUGIN_{FOLDER}_{TYPE} to prevent conflicts. In this case "_BLANK" is the folder. 
-// This should contain the LANs used in the plugin.xml file. 
+define("LAN_PLUGIN__BLANK_NAME", "Празен модул");
+define("LAN_PLUGIN__BLANK_DIZ", "Празен модул, който да ви помогне с генерирането на ваш собствен модул");
+define("LAN_PLUGIN__BLANK_LINK", "Празен линк");
 
-define("LAN_PLUGIN__BLANK_NAME", "Blank Plugin");
-define("LAN_PLUGIN__BLANK_DIZ",  "A Blank Plugin to help you get started in plugin development"); 
-define("LAN_PLUGIN__BLANK_LINK", "Blank Link");
 
 ?>

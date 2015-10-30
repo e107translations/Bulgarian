@@ -47,8 +47,8 @@ define("UPLLAN_61", "Грешка при записване на файл:");
 define("UPLLAN_62", "Модул Файлове не е и9нсталиран - активацията не е възможна.");
 define("UPLLAN_63", "Записа е преместен във Файлове. [x]");
 define("UPLLAN_64", "Управление на Файлове");
-define("UPLLAN_66", "Download path error");
-define("UPLLAN_68", "SQL Error:");
+define("UPLLAN_66", "Грешка в пътя за изтегляне");
+define("UPLLAN_68", "SQL грешка:");
 define("UPLLAN_69", "");
 define("UPLLAN_70", "");
 

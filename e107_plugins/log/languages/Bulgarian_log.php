@@ -19,9 +19,9 @@ define("LAN_AL_STAT_01", "Статистика - нулиране");
 define("LAN_AL_STAT_02", "Статистика - настройките са променени");
 define("LAN_AL_STAT_03", "Статистика - страниците са премахнати");
 define("LAN_AL_STAT_04", "Статистика - историята е премахната");
-define("LAN_AL_STAT_05", "");
-define("LAN_AL_STAT_06", "");
-define("LAN_AL_STAT_07", "");
+//define("LAN_AL_STAT_05", "");
+//define("LAN_AL_STAT_06", "");
+//define("LAN_AL_STAT_07", "");
 
 
 ?>
