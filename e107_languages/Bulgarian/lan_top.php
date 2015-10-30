@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: lan_top.php 916 2014-04-11 06:05:50Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_languages/Bulgarian/lan_top.php $
- * $Revision: 916 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("TOP_LAN_0", "Най-активни във форума");
 define("TOP_LAN_1", "Име");
 define("TOP_LAN_2", "Публикации");

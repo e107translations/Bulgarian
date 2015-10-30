@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("PAGE_NAME", "Само за регистрирани потребители.");
 define("LAN_MEMBERS_0", "зона с ограничен достъп");
 define("LAN_MEMBERS_1", "Това е зона с ограничен достъп.");

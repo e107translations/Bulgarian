@@ -1,19 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * Plugin - newsfeeds
- *
- * $Source: /cvs_backup/e107_0.8/e107_plugins/newsletter/languages/English.php,v $
- * $Revision$
- * $Date$
- * $Author$
+ * Language File
  *
 */
+
 define("NLLAN_MENU_CAPTION", "Информационен бюлетин");
 define("NLLAN_48", "Вие сте абониран за този информационен бюлетин. Ако искате да прекратите абонамента си, моля кликнете на бутона по-долу.");
 define("NLLAN_49", "Сигурен ли сте, че искате да прекратите абонамента си за този информационен бюлетин?");

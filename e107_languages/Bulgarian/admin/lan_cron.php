@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+//TODO translate
 define("LAN_CRON_M_02", "Опресни");
 define("LAN_CRON_2", "Описание");
 define("LAN_CRON_3", "Минута(и)");

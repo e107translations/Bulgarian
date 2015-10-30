@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("PAGE_NAME", "Новини");
 define("LAN_NEWS_1", "Новини само за определени потребители");
 define("LAN_NEWS_2", "Нямате права за гледане на тези новини");

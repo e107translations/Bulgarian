@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("UE_LAN_1", "Текстово поле");
 define("UE_LAN_2", "Радио бутони");
 define("UE_LAN_3", "Падащо Меню");

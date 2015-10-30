@@ -1,5 +1,6 @@
 <?php
 /*
+/*
  * e107 website system - Bulgarian Translation
  *
  * Copyright (C) 2005-2015 e107 Bulgaria e107.bg

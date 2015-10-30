@@ -1,10 +1,15 @@
 <?php
 /*
- * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
+ * e107 website system - Bulgarian Translation
  *
- * Forum plugin - frontend language file
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
  *
 */
+//TODO translate
 define("e_PAGETITLE", "Форум");
 define("LAN_FORUM_0002", "Теми");
 define("LAN_FORUM_0003", "Отговори");
@@ -93,8 +98,8 @@ define("LAN_FORUM_1013", "Известие");
 define("LAN_FORUM_1014", "Затворена тема");
 define("LAN_FORUM_1015", "[изтрит потребител]");
 define("LAN_FORUM_1016", "Анкета");
-define("LAN_FORUM_1017", "Otidi na");
-define("LAN_FORUM_1018", "nowa tema");
+define("LAN_FORUM_1017", "Отиди на");
+define("LAN_FORUM_1018", "Нова тема");
 define("LAN_FORUM_2001", "Предишна тема");
 define("LAN_FORUM_2002", "Следваща тема");
 define("LAN_FORUM_2003", "Модератор(и)");

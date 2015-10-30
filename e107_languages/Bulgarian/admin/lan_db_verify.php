@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 
 define("DBVLAN_1", "Не може да се прочете sql файл с данни<br /><br />Моля уверете се, че файлът <b>core_sql.php</b> съществува в директорията <b>/admin/sql</b>.");
 // define("DBLAN_2", "Verifying all");

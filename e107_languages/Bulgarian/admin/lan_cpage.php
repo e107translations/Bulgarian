@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("CUSLAN_9", "Текст");
 define("CUSLAN_11", "Мета описание");
 define("CUSLAN_12", "Създаване на");

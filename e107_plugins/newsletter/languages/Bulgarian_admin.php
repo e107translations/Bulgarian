@@ -1,14 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2013 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * Plugin - Newsletter
+ * Language File
  *
 */
+
 define("NLLAN_04", "Модулът информационен бюлетин бе успешно инсталиран. За да конфигурирате модула, върнете се главната администраторска страница и кликнете на \'Информационен бюлетин\' в секцията Модули.");
 define("NLLAN_05", "Още няма създадени информационни бюлетини");
 define("NLLAN_07", "Абонати");

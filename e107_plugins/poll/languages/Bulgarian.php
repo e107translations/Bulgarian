@@ -1,18 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
+ * Language File
  *
- *
- * $Source: /cvs_backup/e107_0.8/e107_plugins/poll/languages/English.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
+*/
+//TODO translate
 
 //define("POLL_ADLAN01", "Poll");
 //define("POLL_ADLAN02", "The poll plugin allows you to define polls in either a menu or forum post.");

@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("LAN_EURL_NAME", "Управление на URL-тата на сайта");
 define("LAN_EURL_NAME_CONFIG", "Профили");
 define("LAN_EURL_NAME_ALIASES", "Псевдоними");

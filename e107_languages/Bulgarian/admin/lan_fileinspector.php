@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("FC_LAN_1", "Файл инспектор");
 define("FC_LAN_2", "Опции за сканиране");
 define("FC_LAN_3", "Покажи");

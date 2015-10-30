@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("EXTLAN_1", "Име");
 define("EXTLAN_2", "Преглед");
 define("EXTLAN_3", "Стойност");

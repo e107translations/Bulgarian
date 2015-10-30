@@ -1,4 +1,15 @@
 <?php
+/*
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
+*/
+//TODO translate
 
 define("LAN_PLUGIN_FORUM_NAME", "Форум");
 define("LAN_PLUGIN_FORUM_DESC", "This plugin is a fully featured forum system.");

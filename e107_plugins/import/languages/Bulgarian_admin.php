@@ -1,27 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
+ * Language File
  *
- *
- * $Source: /cvs_backup/e107_0.8/e107_plugins/import/languages/English_admin_import.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
-
-
-/**
- *	e107 Import plugin
- *
- *	@package	e107_plugins
- *	@subpackage	import
- *	@version 	$Id$;
- */
+*/
+//TODO translate
 
 if (!defined("e107_INIT")) { exit; }
 

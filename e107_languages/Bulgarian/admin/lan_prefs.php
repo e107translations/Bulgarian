@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("PRFLAN_1", "Информация за сайта");
 define("PRFLAN_2", "Име на сайта");
 define("PRFLAN_3", "Сайт URL");

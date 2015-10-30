@@ -1,17 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * Plugin - newsfeeds
- *
- * $URL$
- * $Id$
+ * Language File
  *
 */
+//TODO translate
 define("NFLAN_03", "Настройка на модул за излъчване на новини");
 define("NFLAN_04", "Модулът а излъчване на новини е успешно инсталиран. За добавяне на излъчвани новини и конфигурация, оридете на главната страница в администрация и щракнете върху иконата за излъчвания на новини.");
 define("NFLAN_07", "Съществуващи новини за излъчване");

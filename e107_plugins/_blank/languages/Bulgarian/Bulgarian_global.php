@@ -1,13 +1,13 @@
 <?php
 /*
-+---------------------------------------------------------------+
-|        e107 website content management system Bulgarian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/10/30 08:38:09
-|
-|        $Author: Administrator $
-+---------------------------------------------------------------+
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
 
 define("LAN_PLUGIN__BLANK_NAME", "Празен модул");

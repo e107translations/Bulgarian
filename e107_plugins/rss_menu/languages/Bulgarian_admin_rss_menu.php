@@ -1,10 +1,15 @@
 <?php
 /*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Language File.
-|
-+----------------------------------------------------------------------------+
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
+
 define("RSS_LAN05", "Брой публикации (0=неактивно)");
 define("RSS_MENU_L1", "могат да бъдат синдикирани с помощта на тези RSS канали");
 define("RSS_MENU_L2", "RSS канали");

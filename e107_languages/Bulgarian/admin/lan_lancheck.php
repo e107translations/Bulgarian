@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("LAN_CHECK_2", "Провери");
 define("LAN_CHECK_3", "Проверка на");
 define("LAN_CHECK_4", "Файлът липсва!");

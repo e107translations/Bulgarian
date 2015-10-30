@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian_install.php 942 2013-02-07 14:14:37Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/calendar_menu/languages/Bulgarian_install.php $
- * $Revision: 942 $
- * $Author: veskoto $
+ * Language File
+ *
 */
+//TODO translate
 define("EC_ADINST_LAN_01", "Предстоящо събитие:\n\n{EC_MAIL_CATEGORY}\n\n{EC_MAIL_TITLE} на {EC_MAIL_HEADING_DATE}{EC_MAIL_TIME_START}\n\n{EC_MAIL_DETAILS}\n\nЗа повече детайли: {EC_EVENT_LINK=Кликни тук}\n\nили {EC_MAIL_CONTACT} за повече информация.");
 define("EC_ADINST_LAN_02", "Непосредствено предстоящо събитие:\n\n{EC_MAIL_CATEGORY}\n\n{EC_MAIL_TITLE} на {EC_MAIL_HEADING_DATE}{EC_MAIL_TIME_START}\n\n{EC_MAIL_DETAILS}\n\nЗа повече детайли виж в календара на сайта:\n{EC_MAIL_LINK=Кликни тук}\n\n {EC_MAIL_CONTACT} за повече детайли");
 define("EC_ADINST_LAN_03", "По подразбиране категория - изходящи съобщения се използва, ако няма определено за всяка друга категория");

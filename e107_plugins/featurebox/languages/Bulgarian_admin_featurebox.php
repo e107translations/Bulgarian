@@ -1,10 +1,15 @@
 <?php
 /*
-* Copyright (c) e107 Inc 2009 - e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
-* $Id$
-*
-* Featurebox back-end language defines
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
+
 
 /*
 TODO LAN - cleanup constants not in use

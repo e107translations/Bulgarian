@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("PAGE_NAME", "Регистрация");
 define("LAN_EMAIL_01", "Уважаеми");
 define("LAN_EMAIL_04", "Моля пазете този имейл за Ваша лична информация.");

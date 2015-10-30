@@ -9,5 +9,6 @@
  * Language File
  *
 */
+
 define("LAN_SITELINKS_183", "Меню");
 define("LAN_SITELINKS_502", "Администрация");

@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("LAN_DOCS", "Документация на системата");
 define("LAN_DOCS_SECTIONS", "Секция");
 define("LAN_DOCS_GOTOP", "Иди най-горе");

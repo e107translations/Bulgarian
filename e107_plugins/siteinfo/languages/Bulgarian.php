@@ -1,14 +1,15 @@
 <?php
 /*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Language File.
-|
-|     $Source: /cvs_backup/e107_0.8/e107_plugins/siteinfo/languages/English.php,v $
-|     $Revision$
-|     $Date$
-|     $Author$
-+----------------------------------------------------------------------------+
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
+
 
 define("COMPLIANCE_L1", "W3C Съответствие");
 define("SITEBUTTON_MENU_L1", "Линк към нас");

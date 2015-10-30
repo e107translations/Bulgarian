@@ -1,28 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * Private Messenger - language file for cron-related routines
- *
- * $Source: /cvs_backup/e107_0.8/e107_plugins/pm/languages/English_mailer.php,v $
- * $Revision$
- * $Date$
- * $Author$
+ * Language File
  *
 */
-
-
-/**
- *	e107 Private messenger plugin
- *
- *	@package	e107_plugins
- *	@subpackage	pm
- *	@version 	$Id$;
- */
+//TODO translate
 define("LAN_EC_PM_01", "");
 define("LAN_EC_PM_02", "");
 define("LAN_EC_PM_03", "");

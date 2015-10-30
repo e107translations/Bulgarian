@@ -1,16 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2010 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * Linkwords plugin - language file (only needed for admin)
+ * Language File
  *
- * $Id*
- */
-
+*/
+//TODO translate
 //define("LWLAN_1", "Оставени са празни полета.");
 //define("LWLAN_2", "Линк-думата е записана.");
 //define("LWLAN_3", "Линк-думата е обновена.");
@@ -59,8 +58,8 @@ define("LWLAN_41", "Текст вписан от потребители (нап�
 define("LWLAN_50", "Подсказки");
 define("LWLAN_51", "Неактивно");
 define("LWLAN_52", "Линк думи само");
-define("LWLAN_53", "Tooltip само");
-define("LWLAN_54", "Линк думи и Tooltip");
+define("LWLAN_53", "Само подсказки");
+define("LWLAN_54", "Линк думи и подсказки");
 define("LWLAN_55", "Отвори линка в нов прозорец");
 define("LWLAN_56", "Отвори линка в нова страница");
 //define("LWLAN_57", "Грешка при записване на новата стойност");

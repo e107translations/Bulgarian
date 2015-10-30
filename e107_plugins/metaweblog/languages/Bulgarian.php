@@ -1,15 +1,15 @@
 <?php
 /*
-+ -----------------------------------------------------------------------------+
-|     e107 website system - Language File.
-|
-|     $Source: /cvs_backup/e107_0.8/e107_plugins/metaweblog/languages/English.php,v $
-|     $Revision$
-|     $Date$
-|     $Author$
-|     Italian Translation: e107 Italian Team http://www.e107it.org	
-+-----------------------------------------------------------------------------+
-*/ //TODO Translate this
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
+*/
+//TODO translate
 define("XMLRPC_ADMIN_001", "Основно меню");
 define("XMLRPC_CONFIG_001", "Metaweblog :: Configuration");
 define("XMLRPC_PREFS_001", "eXMLRPC - Options");

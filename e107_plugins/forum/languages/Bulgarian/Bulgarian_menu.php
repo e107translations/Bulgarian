@@ -1,13 +1,15 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- */
-
+ * Language File
+ *
+*/
+//TODO translate
 
 define("LAN_FORUM_MENU_001", "Posted by");
 define("LAN_FORUM_MENU_002", "No posts yet");

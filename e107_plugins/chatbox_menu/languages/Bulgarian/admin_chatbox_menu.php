@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: admin_chatbox_menu.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/chatbox_menu/languages/Bulgarian/admin_chatbox_menu.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("CHBLAN_11", "Чат съобщения за показване");
 define("CHBLAN_12", "брой съобщения за показване в чат менюто");
 define("CHBLAN_20", "Натройки на чата");

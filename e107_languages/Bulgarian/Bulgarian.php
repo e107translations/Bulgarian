@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 setlocale(LC_ALL, 'bg_BG.utf8', 'bg_BG.UTF-8', 'bg_bg.utf8', 'bg');
 define("CORE_LC", "bg");
 define("CORE_LC2", "BG");

@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("CORE_DATE_ORDER", "дмг");
 define("LAN_MAILOUT_01", "От име");
 define("LAN_MAILOUT_02", "От имейл");

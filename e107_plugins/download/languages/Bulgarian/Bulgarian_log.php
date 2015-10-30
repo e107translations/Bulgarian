@@ -2,13 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
  * Language File
  *
 */
+
 
 define("LAN_AL_DOWNL_01", "Настройките на файловете са променени");
 define("LAN_AL_DOWNL_02", "Настройките на качване на файловете са променени");

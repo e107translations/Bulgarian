@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("NWSLAN_4", "Новини - Съществуващи новини");
 define("NWSLAN_6", "Категория");
 define("NWSLAN_10", "Няма категории новини");

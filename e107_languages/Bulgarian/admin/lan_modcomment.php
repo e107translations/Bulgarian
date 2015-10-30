@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("MDCLAN_1", "Редактирано.");
 define("MDCLAN_2", "Няма коментари");
 define("MDCLAN_3", "Потребител");

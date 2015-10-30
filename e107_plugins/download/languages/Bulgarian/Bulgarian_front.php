@@ -1,10 +1,15 @@
 <?php
 /*
- * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
+ * e107 website system - Bulgarian Translation
  *
- * Language file - download plugin
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
  *
 */
+
 
 define("LAN_dl_1", "(Ограничен)");
 //define(("LAN_dl_2", "Все още няма качени файлове");

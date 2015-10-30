@@ -1,18 +1,14 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
+ * Language File
  *
- *
- * $Source: /cvs_backup/e107_0.8/e107_plugins/log/languages/English_log_help.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
+*/
 
 define("LAN_STAT_HELP_01", "Записване на статистика");
 define("LAN_STAT_HELP_02", "Тази опция изтрива историята от базата данни. Не се отразява на \'цялата статистика\'.<br /><br />Внимавайте! Веднъж изтрита, не може да се възстанови. Първо си направете резервно копие и/или си експортирайте необходимата информация.");

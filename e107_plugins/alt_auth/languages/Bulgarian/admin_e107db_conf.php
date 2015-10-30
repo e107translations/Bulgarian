@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: admin_e107db_conf.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/alt_auth/languages/Bulgarian/admin_e107db_conf.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("E107DB_LAN_1", "e107 формат на базата");
 define("E107DB_LAN_9", "Метод на Паролата:");
 define("E107DB_LAN_10", "Конфигуриране на е107 бд ауторизация");

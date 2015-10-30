@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("LAN_IMA_M_01", "Медия");
 define("LAN_IMA_M_02", "Качване/добавяне");
 define("LAN_IMA_M_03", "Категории");
