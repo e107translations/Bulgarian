@@ -84,7 +84,7 @@ define("LAN_NEXT", "Следващ");
 define("LAN_PREVIOUS", "Предишен");
 define("LAN_LOGIN", "Вход");
 define("LAN_LOGOUT", "Изход");
-define("LAN_SETTINGS", "Основни настройки");
+define("LAN_SETTINGS", "Настройки");
 define("LAN_PASSWORD", "Парола");
 define("LAN_TYPE", "Тип");
 define("LAN_SCREENSHOT", "Изображение");
