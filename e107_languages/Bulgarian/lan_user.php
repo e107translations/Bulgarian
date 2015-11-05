@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("LAN_USER_01", "Име за показване в сайта");
 define("LAN_USER_02", "Потребителско име");
 define("LAN_USER_03", "Истинско име");

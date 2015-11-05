@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian_admin_calendar_menu.php 942 2013-02-07 14:14:37Z veskoto $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/calendar_menu/languages/Bulgarian_admin_calendar_menu.php $
- * $Revision: 942 $
- * $Author: veskoto $
+ * Language File
+ *
 */
+
 define("EC_ADLAN_1", "Календар на събитията");
 define("EC_LAN_12", "Понеделник");
 define("EC_LAN_13", "Вторник");

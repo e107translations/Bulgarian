@@ -2,15 +2,15 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2012 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian.php 917 2012-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/pm/languages/Bulgarian.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
+
 define("LAN_PM", "Лични съобщения");
 define("LAN_PM_1", "Изпрати лично съобщение");
 define("LAN_PM_2", "До");
@@ -52,6 +52,7 @@ define("LAN_PM_38", "ЛС е изпратено до клас потребите
 define("LAN_PM_39", "Невъзможно да изпрати ЛС до");
 define("LAN_PM_40", "ЛС изпратено до потребител");
 define("LAN_PM_41", "Невъзможно да запази ЛС във Вашите Изходящи");
+
 define("LAN_PM_42", "ЛС е изтрито от Входящи");
 define("LAN_PM_43", "ЛС е изтрито от Изходящи");
 define("LAN_PM_44", "Блокирането е премахнато: {UNAME} вече може да Ви изпраща ЛС");
@@ -81,12 +82,9 @@ define("LAN_PM_67", "Няма блокирани потребители");
 define("LAN_PM_68", "Потребителско име");
 define("LAN_PM_69", "Дата на блокиране");
 define("LAN_PM_70", "Премахване на блокирането");
-define("LAN_PM_71", "--GOOD-- прикачени файлове са изтрити. --FAIL-- провалено");
-define("LAN_PM_72", "");
-define("LAN_PM_73", "");
-define("LAN_PM_74", "");
-define("LAN_PM_75", "");
-define("LAN_PM_76", "");
+define("LAN_PM_71", "[x] прикачени файлове са изтрити. [y] провалени");
+
+
 define("LAN_PM_100", "Ново ЛС от ");
 define("LAN_PM_101", "Имате ново Лично съобщение в ");
 define("LAN_PM_102", "Съобщението е изпратено от: ");
@@ -97,5 +95,5 @@ define("LAN_PM_106", "ЛС е прочетено от ");
 define("LAN_PM_107", "Личното съобщение което пратихте до {UNAME} бе прочетено на ");
 define("LAN_PM_108", "Съобщението е изпратено на: ");
 define("LAN_PM_109", "ново съобщение(я)");
-define("LAN_PM_110", "Ок");
 define("LAN_PM_111", "Прочети");
+?>

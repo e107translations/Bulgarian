@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("RATELAN_0", "глас");
 define("RATELAN_1", "гласа");
 define("RATELAN_2", "Как оценявате тази публикация?");

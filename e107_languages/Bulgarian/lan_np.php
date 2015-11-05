@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("NP_1", "Предишна страница");
 define("NP_2", "Следваща страница");
 define("LAN_NP_FIRST", "първа");

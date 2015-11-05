@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 // define("FLALAN_1", "Failed login attempts");
 define("FLALAN_2", "Няма грешки при влизане в системата");
 define("FLALAN_3", "Грешка(и) изтрити");

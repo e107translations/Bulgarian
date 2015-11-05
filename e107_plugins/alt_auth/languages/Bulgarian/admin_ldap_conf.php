@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: admin_ldap_conf.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/alt_auth/languages/Bulgarian/admin_ldap_conf.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("LDAPLAN_1", "Адрес на сървъра");
 define("LDAPLAN_2", "Base DN или домейн<br />LDAP - Въведете BaseDN<br />AD - въведете FQDN например ad.mydomain.co.uk");
 define("LDAPLAN_3", "LDAP сърфиращ потребител <br /> Пълен контекст на потребител, който е в състояние да търси в директория.");

@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("PAGE_NAME", "Търсене");
 define("LAN_140", "Потребители");
 define("LAN_192", "Всички категории");

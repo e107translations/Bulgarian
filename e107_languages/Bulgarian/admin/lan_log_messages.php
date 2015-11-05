@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+//TODO translate
 define("LAN_AUDIT_LOG_001", "Достъп от блокирани потребители");
 define("LAN_AUDIT_LOG_002", "Активирана е защитата срещу много заявки към сайта");
 define("LAN_AUDIT_LOG_003", "Достъп от блокиран IP адрес");

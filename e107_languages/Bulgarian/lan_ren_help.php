@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("LANHELP_1", "Черен");
 define("LANHELP_2", "Син");
 define("LANHELP_3", "Кафяв");

@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("PAGE_NAME", "Добавяне на новини");
 define("LAN_7", "Име: ");
 define("LAN_62", "Заглавие на новината: ");

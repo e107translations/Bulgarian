@@ -2,25 +2,35 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian_admin_poll.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/poll/languages/Bulgarian_admin_poll.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
-define("POLL_ADLAN01", "Анкета");
-define("POLL_ADLAN02", "Модула Анкети Ви позволява да публикувате анкети във форума и сайта Ви.");
+
+
+//define("POLL_ADLAN01", "Анкета");
+//define("POLL_ADLAN02", "Модула Анкети Ви позволява да публикувате анкети във форума и сайта Ви.");
 define("POLL_ADLAN03", "Настройки на модул Анкета");
 define("POLL_ADLAN04", "Модул Анкети е успешно инсталиран.. За да добавите анкета, натиснете върху иконата на модул Анкети, която се намира във вашия Админ панел, и активирайте менюто от страницата с менютата.");
+
 define("POLL_ADLAN05", "Основна анкета: ");
 define("POLL_ADLAN06", "Мнение от форума: ");
 define("POLL_ADLAN07", "Тип");
-define("POLL_ADLAN08", "Анкетата е изтрита");
+//define("POLL_ADLAN08", "Анкетата е изтрита");
+
 define("POLLAN_MENU_CAPTION", "Анкета");
+
+//define("POLLAN_1", "Existing polls");
+//define("POLLAN_2", "Create / edit polls");
+//define("POLLAN_3", "Poll Question");
+//define("POLLAN_4", "Poll Options");
+//define("POLLAN_5", "Edit");
+//define("POLLAN_6", "Delete");
 define("POLLAN_7", "Все още няма анкети.");
+/*
 define("POLLAN_8", "Добави нов отговор");
 define("POLLAN_9", "Разреши повече от един отговор?");
 define("POLLAN_10", "Да");
@@ -58,9 +68,14 @@ define("POLLAN_41", "Тази анкета е предназначена сам�
 define("POLLAN_42", "Тази анкета е предназначена само за Администратори");
 define("POLLAN_43", "Нямате права за да гласувате в тази анкета");
 define("POLLAN_44", "Изтриване на анкетата?");
-define("POLLAN_46", "Оставени са празни полета");
+*/
+
+//define("POLLAN_46", "Оставени са празни полета");
+
+// Log messages
 define("LAN_AL_POLL_01", "Анкетата е изтрита");
 define("LAN_AL_POLL_02", "Анкетата е обновена");
 define("LAN_AL_POLL_03", "Анкетата е добавена");
 define("LAN_AL_POLL_04", "");
 define("LAN_AL_POLL_05", "");
+

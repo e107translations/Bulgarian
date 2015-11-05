@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("LAN_UPDATE_2", "Действие");
 define("LAN_UPDATE_3", "Не е необходимо");
 define("LAN_UPDATE_4", "Обновяване от [x] на [y]	");

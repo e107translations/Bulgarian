@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("LCLAN_15", "Име на линка");
 define("LCLAN_19", "Начин на отваряне на линка");
 define("LCLAN_20", "В същият прозорец");

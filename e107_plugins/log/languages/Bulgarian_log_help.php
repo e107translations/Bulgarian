@@ -2,15 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian_log_help.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/log/languages/Bulgarian_log_help.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("LAN_STAT_HELP_01", "Записване на статистика");
 define("LAN_STAT_HELP_02", "Тази опция изтрива историята от базата данни. Не се отразява на \'цялата статистика\'.<br /><br />Внимавайте! Веднъж изтрита, не може да се възстанови. Първо си направете резервно копие и/или си експортирайте необходимата информация.");
 define("LAN_STAT_HELP_03", "Тази опция Ви дава възможност да изтриете данните свързани със специфична страница от сайта Ви.");

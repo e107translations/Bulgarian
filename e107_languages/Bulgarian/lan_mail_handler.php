@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("LANMAILH_1", "Генерирано от e107 уебсайт система");
 define("LANMAILH_2", "Това е multi-part съобщение в MIME формат.");
 define("LANMAILH_3", " е неправилно форматирано");

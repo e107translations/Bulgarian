@@ -2,16 +2,16 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2014 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
- * $Id: Bulgarian.php 917 2014-04-13 18:07:02Z nickypn $
- * $URL: http://dev.clabteam.com/svn/e107bg/main/langpack/e107_0.8/e107_plugins/log/languages/Bulgarian.php $
- * $Revision: 917 $
- * $Author: nickypn $
+ * Language File
+ *
 */
+
 define("PAGE_NAME", "Статистика на сайта");
+
 define("ADSTAT_L1", "Този плъгин записва всички визити на сайта ви, и изгражда детайлна статистика, базирана на взетата информация.");
 define("ADSTAT_L2", "Статистиката за сайта ви беше успешно инсталирана. За да конвертирате съществуваща статистика за нова система, моля <a href='".e_PLUGIN."log/update_routine.php'>кликнете тук за да стартирате обновяване на статистиката</a>.");
 define("ADSTAT_L3", "Статистика на сайта");
@@ -52,8 +52,9 @@ define("ADSTAT_L37", "Посещения по месеци");
 define("ADSTAT_L38", "Уникални визити на месец");
 define("ADSTAT_L39", "изтрий тези данни");
 define("ADSTAT_L40", "дни");
-define("ADSTAT_L41", "Грешка");
+//define("ADSTAT_L41", "Грешка");
 define("ADSTAT_L42", "Все още няма месечна статистика.");
+
 define("ADSTAT_L43", "Грешки за страници - днес");
 define("ADSTAT_L44", "Грешки за страници - общо");
 define("ADSTAT_L45", "Статистиката е изтрита за:");
@@ -72,3 +73,5 @@ define("ADSTAT_L57", "");
 define("ADSTAT_L58", "");
 define("ADSTAT_L59", "");
 define("ADSTAT_L60", "");
+
+?>

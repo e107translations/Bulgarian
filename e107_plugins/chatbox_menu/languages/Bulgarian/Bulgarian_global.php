@@ -1,27 +1,28 @@
 <?php
 /*
- * e107 website system
+ * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
  * Language File
  *
- * $Source: /Estate/e107_plugins/chatbox_menu/languages/Bulgarian/Bulgarian_global.php $
- * $Revision: 1.0 $
- * $Date: 2013/02/07 15:38:33 $
- *  $Author: admin $
- *
 */
 
 define("LAN_PLUGIN_CHATBOX_MENU_NAME", "Чатбокс");
 define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "Чатбокс мену");
+define("LAN_PLUGIN_CHATBOX_MENU_POSTS", "Чатбокс съобщения");
 define("LAN_AL_CHBLAN_01", "Настройките на чатбокса са обновени");
 define("LAN_AL_CHBLAN_02", "Изчистено");
 define("LAN_AL_CHBLAN_03", "Постовете са пресметнати");
 define("LAN_AL_CHBLAN_04", "");
 define("LAN_AL_CHBLAN_05", "");
+define("NT_LAN_CB_1", "Чатбокс събития");
+define("NT_LAN_CB_2", "Съобщения");
+define("NT_LAN_CB_3", "от");
+define("NT_LAN_CB_5", "Съобщение");
+define("NT_LAN_CB_6", "Нови чатбокс съобщения");
 
 
 ?>

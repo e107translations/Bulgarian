@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("NWSLAN_4", "Новини - Съществуващи новини");
 define("NWSLAN_6", "Категория");
 define("NWSLAN_10", "Няма категории новини");
@@ -127,7 +128,7 @@ define("LAN_NEWS_89", "Известяване на тези услуги, ког
 define("LAN_NEWS_90", "Едно на ред");
 define("LAN_NEWS_91", "Брой новини за показване на страница");
 define("LAN_NEWS_92", "в страници: news.php?all или news.php?cat.1 или news.php?tag=xxx");
-define("LAN_NEWS_93", "List-view content");
+define("LAN_NEWS_93", "Показване на списък");
 define("LAN_NEWS_94", "Новини, с избрани тези шаблони ще бъдат показани в списъка.");
 
 

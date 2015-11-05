@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Изглед за печат"); }
 define("LAN_PRINT_1", "изглед за печат");
 define("LAN_PRINT_86", "Категория:");

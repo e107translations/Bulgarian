@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("LANCONTACT_00", "Връзка с нас");
 define("LANCONTACT_01", "Данни за контакт");
 define("LANCONTACT_02", "Директна връзка");

@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("NT_LAN_US_1", "Регистрация на потребител");
 define("NT_LAN_UV_1", "Регистрацията е потвърдена");
 define("NT_LAN_UV_2", "Потребителско ID: ");

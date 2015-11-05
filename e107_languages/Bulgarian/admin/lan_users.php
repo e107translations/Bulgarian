@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("USRLAN_1", "Настройките са запазени.");
 define("USRLAN_3", " е в списъка на Администраторите - за да задаване на права за достъп отидете в");
 define("USRLAN_4", "Администратори");
@@ -166,7 +167,7 @@ define("LAN_BANNED", "Блокиран");
 define("LAN_BOUNCED", "Отхвърлен");
 define("USRLAN_220", "Всички потреб. класове");
 define("USRLAN_221", "Редактирай администраторски права");
-define("USRLAN_222", "Ще изтриете [x] ([y]) с ID #[z]. Сигурни ли сте?	");
+define("USRLAN_222", "Ще изтриете [x] ([y]) с ID #[z]. Сигурни ли сте?");
 define("USRLAN_223", "Потребителя не е намерен.");
 define("USRLAN_224", "Изпратен е имейл до:");
 define("USRLAN_225", "Не е изпратен е имейл до:");
@@ -188,8 +189,8 @@ define("USRLAN_240", "Активиране, без уведомяване");
 define("USRLAN_241", "Активиране, уведомяване (парола)");
 define("USRLAN_242", "Изисква активиране, уведомяване (парола и линк за активиране)");
 define("USRLAN_243", "Достъп до сайта");
-define("USRLAN_244", "Security violation (not enough permissions) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) tried to remove admin status from --UID-- (--NAME--, --EMAIL--)	");
-define("USRLAN_245", "Security violation (not enough permissions) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) tried to make --UID-- (--NAME--, --EMAIL--) system admin	");
+define("USRLAN_244", "Security violation (not enough permissions) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) tried to remove admin status from --UID-- (--NAME--, --EMAIL--)");
+define("USRLAN_245", "Security violation (not enough permissions) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) tried to make --UID-- (--NAME--, --EMAIL--) system admin");
 define("USRLAN_246", "Us");
 define("USRLAN_247", "Us");
 define("USRLAN_248", "Us");

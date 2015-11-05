@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("LAN_LOGIN_1", "Потребителско име");
 define("LAN_LOGIN_2", "Парола");
 define("LAN_LOGIN_3", "Защитен сървър");

@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("COMLAN_0", "[забранено от администратора]");
 define("COMLAN_1", "Деблокирай");
 define("COMLAN_2", "Блокирай");

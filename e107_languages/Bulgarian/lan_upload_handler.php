@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("LANUPLOAD_1", "Видът файл");
 define("LANUPLOAD_2", "не е позволен и беше изтрит.");
 define("LANUPLOAD_3", "Успешно качен");

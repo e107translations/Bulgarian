@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("BANLAN_2", "Няма блокирани.");
 define("BANLAN_3", "Списък блокирани");
 define("BANLAN_5", "IP, имейл или хост");

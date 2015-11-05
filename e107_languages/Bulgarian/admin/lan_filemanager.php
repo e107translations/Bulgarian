@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("FMLAN_10", "Грешка");
 define("FMLAN_12", "файл");
 define("FMLAN_13", "файла");

@@ -10,7 +10,6 @@
  *
 */
 
-
 define("LANDT_01", "година");
 define("LANDT_02", "месец");
 define("LANDT_03", "седмица");

@@ -1,11 +1,16 @@
 <?php
 /*
-* Copyright (C) 2008-2011 e107 Inc (e107.org), Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
-* $Id$
-*
-* Tagwords Language File
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
-define("LAN_TAG_INS_1", "bla");
+//TODO translate
+define("LAN_TAG_INS_1", "Tagwords");
 define("LAN_TAG_INS_2", "A fully featured Tagword system");
 define("LAN_TAG_INS_3", "Configure TagWords");
 define("LAN_TAG_INS_4", "Tagwords is installed<br />To configure please click on the link in the plugins section of the admin front page");
@@ -36,7 +41,7 @@ define("LAN_TAG_19", "choose sort");
 define("LAN_TAG_20", "choose style");
 define("LAN_TAG_21", "each tag on a separate line");
 
-define("LAN_TAG_ADMIN_1", "preferences updated");
+//define("LAN_TAG_ADMIN_1", "preferences updated");
 
 define("LAN_TAG_OPT_1", "tagwords preferences");
 define("LAN_TAG_OPT_2", "minimum word appearance needed for tagcloud/taglist");

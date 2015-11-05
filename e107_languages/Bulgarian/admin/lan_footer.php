@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("FOOTLAN_1", "Сайт");
 define("FOOTLAN_2", "Главен Администратор");
 define("FOOTLAN_3", "Версия");

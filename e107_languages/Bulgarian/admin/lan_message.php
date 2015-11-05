@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("MESSLAN_1", "Получени съобщения");
 define("MESSLAN_2", "Изтрити съобщения");
 define("MESSLAN_3", "Съобщенията са изтрити.");

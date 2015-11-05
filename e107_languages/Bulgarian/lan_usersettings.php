@@ -9,6 +9,7 @@
  * Language File
  *
 */
+
 define("PAGE_NAME", "Потребителски настройки");
 define("MAX_AVWIDTH", "Максималната големина на аватара (ДхВ) е");
 define("MAX_AVHEIGHT", " x");

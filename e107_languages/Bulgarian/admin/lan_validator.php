@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define('LAN_VALIDATE_0', 'Непозната грешка');
 define('LAN_VALIDATE_101', 'Липсваща стойност');
 define('LAN_VALIDATE_102', 'Неочакван вид стойност');

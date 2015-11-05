@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("EMOLAN_1", "Активиране на емоциите");
 define("EMOLAN_3", "Емоции");
 define("EMOLAN_4", "Активиране на емоциите?");

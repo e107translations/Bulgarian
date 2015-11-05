@@ -9,12 +9,11 @@
  * Language File
  *
 */
+
 setlocale(LC_ALL, 'bg_BG.utf8', 'bg_BG.UTF-8', 'bg_bg.utf8', 'bg');
 define("CORE_LC", "bg");
 define("CORE_LC2", "BG");
 define("CORE_LAN1", "Грешка: Темата липсва.\\n\\nСменете използваната тема от настройките ( Администрация ) или качете файловете на тази тема на сървъра.");
-//obsolete define("CORE_LAN2'," \\1 wrote:");// "\\1" represents the username.
-//obsolete define("CORE_LAN3", "file attachment disabled");				// Not used in 0.8
 define("CORE_LAN4", "Моля изтрийте install.php от Вашият сървър!");
 define("CORE_LAN5", "Ако не го направите има потенциален риск за сигурността на сайта Ви.");
 define("CORE_LAN6", "Защитата от много заявки към сайта е активирана! Внимавайте със Вашите заявки, за да не Ви бъде забранен достъпът до сайта.");
@@ -22,25 +21,19 @@ define("CORE_LAN7", "Ядрото се опитва да възстанови н
 define("CORE_LAN8", "Грешка в настройките на ядрото.");
 define("CORE_LAN9", "Ядрото не може да възстанови настройките от автоматично записаното резервно копие.. Изпълнението е спряно.");
 define("CORE_LAN10", "Повредената бисквитка е изтрита - влезте отново в профила си.");
-
-// Footer
 define("CORE_LAN11", "Време за зареждане:");
 define("CORE_LAN12", " секунди (");
 define("CORE_LAN13", "% от това за заявки)");
 define("CORE_LAN14", "%2.3f cpu сек. (%2.2f%% load, %2.3f startup). Натоварване:");
 define("CORE_LAN15", "DB заявки:");
 define("CORE_LAN16", "Памет:");
-
-// img.bb
 define("CORE_LAN17", "[ изображенията са забранени ]");
 define("CORE_LAN18", "Изображение:");
-
 define("CORE_LAN_B", "B");
 define("CORE_LAN_KB", "kB");
 define("CORE_LAN_MB", "MB");
 define("CORE_LAN_GB", "GB");
 define("CORE_LAN_TB", "TB");
-
 define("EMESSLAN_TITLE_INFO", "Системна информация");
 define("EMESSLAN_TITLE_ERROR", "Грешка");
 define("EMESSLAN_TITLE_SUCCESS", "Успешно");
@@ -49,8 +42,8 @@ define("EMESSLAN_TITLE_DEBUG", "Системен дебъг");
 define("LAN_EDIT", "Редакция");
 define("LAN_DELETE", "Изтриване");
 define("LAN_DEFAULT", "По подразбиране");
-define("LAN_MORE", "Още...");
-define("LAN_READ_MORE", "Прочети още...");
+define("LAN_MORE", "Още");
+define("LAN_READ_MORE", "Прочети още");
 define("LAN_GOPAGE", "Иди на страница");
 define("LAN_GOTOPAGEX", "Иди на страница [x]");
 define("LAN_GO", "Иди");
@@ -70,7 +63,7 @@ define("LAN_ENTER", "Вход");
 define("LAN_ENTER_CODE", "Въведете кода");
 define("LAN_INVALID_CODE", "Въведен е неправилен код.");
 define("LAN_SEARCH", "Търси");
-define("LAN_VIEW", "Прехлед");
+define("LAN_VIEW", "Преглед");
 define("LAN_SORT", "Сортиране");
 define("LAN_ORDER_BY", "Подредеи по");
 define("LAN_ASCENDING", "Възходящо");
@@ -107,12 +100,13 @@ define("LAN_LOCATION", "Местоположение");
 define("LAN_NO_RECORDS_FOUND", "Не са намерени записи");
 define("LAN_RATING", "Рейтинг");
 define("LAN_IMAGE", "Картинка");
-define("LAN_ABOUT", "Отностно");
+define("LAN_ABOUT", "Относно");
 define("LAN_TITLE", "Заглавие");
 define("LAN_USER", "Потребител");
 define("LAN_EMAIL", "Имейл адрес");
 define("LAN_WROTE", "написа");
 define("LAN_RE_ORDER", "Подреди отново");
+define("LAN_RELATED", "Свързани");
 define("LAN_ENTER_USRNAME_EMAIL", "Моля, въведете потребителско име или имейл адрес");
 define("LAN_PWD_REQUIRED", "Паролата е задължителна");
 

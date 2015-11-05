@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("METLAN_00", "Мета тагове"); 
 
 define("METLAN_1", "Допълнителни мета тагове");

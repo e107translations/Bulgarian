@@ -8,7 +8,8 @@
  *
  * Language File
  *
- */
+*/
+
 define("ADLAN_0", "Новини");
 define("ADLAN_1", "Управление на новините");
 define("ADLAN_2", "Създаване");
@@ -78,7 +79,7 @@ define("ADLAN_106", "Настройки на картинки");
 define("ADLAN_110", "Регистрирани потребители");
 define("ADLAN_111", "Непотвърдени потребители");
 define("ADLAN_112", "Блокирани потребители");
-define("ADLAN_116", "Административен лог...");
+define("ADLAN_116", "Административен лог");
 define("ADLAN_117", "Показване на всички записи");
 define("ADLAN_118", "Изчистване на лога");
 define("ADLAN_119", "Непроверени добавени линкове");
@@ -198,7 +199,7 @@ define("LAN_HELP", "Помощ");
 define("LAN_CUSTOM", "Потребителска конфигурация");
 define("LAN_MENULAYOUT", "Позиции на менютата");
 define("LAN_MEDIAMANAGER", "Медия");
-define("LAN_MOREINFO", "Още информация...");
+define("LAN_MOREINFO", "Още информация");
 define("LAN_COMMENTMAN", "Коментари");
 define("LAN_LIST", "Списък");
 define("LAN_FILTER", "Филтър");
@@ -218,13 +219,13 @@ define("LAN_CATEGORIES", "Категории");
 define("LAN_DEMO_FORBIDDEN", "Пормените на тази страница не са позволени в демо мод.");
 define("LAN_COPYRIGHT", "Права за позлване");
 define("LAN_MANAGER", "Определяне на достъпа");
-define("LAN_PING", "Ping");
+define("LAN_PING", "Известяване");
 define("LAN_START", "Начало");
 define("LAN_END", "Край");
 define("LAN_PREVIEW", "Преглед");
 define("LAN_CREATE_CATEGORY", "Създай категория");
 define("LAN_CREATE_ITEM", "Създаване");
-define("LAN_SECURITYL_0", "Търсите си проблеми ( няма защита )");
+define("LAN_SECURITYL_0", "Търсите си проблеми (няма)");
 define("LAN_SECURITYL_5", "Балансирана");
 define("LAN_SECURITYL_7", "Висока");
 define("LAN_SECURITYL_9", "Параноична");
