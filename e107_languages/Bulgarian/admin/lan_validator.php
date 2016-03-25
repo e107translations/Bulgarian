@@ -31,4 +31,19 @@ define('LAN_VALIDATE_201', 'Файлът не съществува');
 define('LAN_VALIDATE_202', 'Файлът няма права за писане');
 define('LAN_VALIDATE_203', 'Файлът надхвърля разрешената максимална големина');
 define('LAN_VALIDATE_204', 'Файлът е по-малък от разрешената минимална големина');
-define('LAN_VALIDATE_FAILMSG', '<strong>%1$s</strong> грешка при валидиране: [#%2$d] %3$s.');
+//define("LAN_VALIDATE_", "");
+
+/*
+ * TRANSLATION INSTRUCTIONS:
+ * Don"t translate %1$s, %2$s, %3$s, etc.
+ *
+ * These are substituted by validator handler:
+ * %1$s - field name
+ * %2$d - validation error code (number)
+ * %3$s - validation error message (string)
+ */
+
+// define("LAN_VALIDATE_FAILMSG", "<strong>&quot;%1$s&quot;</strong> validation error: [#%2$d] %3$s.");
+
+//FIXME - use this instead:
+define('LAN_VALIDATE_FAILMSG', '[x] грешка при валидиране: [y] [z].');
