@@ -21,28 +21,36 @@ define("CORE_LAN7", "Ядрото се опитва да възстанови н
 define("CORE_LAN8", "Грешка в настройките на ядрото.");
 define("CORE_LAN9", "Ядрото не може да възстанови настройките от автоматично записаното резервно копие.. Изпълнението е спряно.");
 define("CORE_LAN10", "Повредената бисквитка е изтрита - влезте отново в профила си.");
+
+// Footer
 define("CORE_LAN11", "Време за зареждане:");
 define("CORE_LAN12", " секунди (");
 define("CORE_LAN13", "% от това за заявки)");
 define("CORE_LAN14", "%2.3f cpu сек. (%2.2f%% load, %2.3f startup). Натоварване:");
 define("CORE_LAN15", "DB заявки:");
 define("CORE_LAN16", "Памет:");
+
+// img.bb
 define("CORE_LAN17", "[ изображенията са забранени ]");
 define("CORE_LAN18", "Изображение:");
+
 define("CORE_LAN_B", "B");
 define("CORE_LAN_KB", "kB");
 define("CORE_LAN_MB", "MB");
 define("CORE_LAN_GB", "GB");
 define("CORE_LAN_TB", "TB");
+
 define("EMESSLAN_TITLE_INFO", "Системна информация");
 define("EMESSLAN_TITLE_ERROR", "Грешка");
 define("EMESSLAN_TITLE_SUCCESS", "Успешно");
 define("EMESSLAN_TITLE_WARNING", "Внимание");
 define("EMESSLAN_TITLE_DEBUG", "Системен дебъг");
+
 define("LAN_EDIT", "Редакция");
 define("LAN_DELETE", "Изтриване");
 define("LAN_DEFAULT", "По подразбиране");
 define("LAN_MORE", "Още");
+define("LAN_LESS", "..по-малко");
 define("LAN_READ_MORE", "Прочети още");
 define("LAN_GOPAGE", "Иди на страница");
 define("LAN_GOTOPAGEX", "Иди на страница [x]");
@@ -86,6 +94,7 @@ define("LAN_LOGIN", "Вход");
 define("LAN_LOGOUT", "Изход");
 define("LAN_SETTINGS", "Настройки");
 define("LAN_PASSWORD", "Парола");
+define("LAN_INCORRECT_PASSWORD", "Невалидна парола");
 define("LAN_TYPE", "Тип");
 define("LAN_SCREENSHOT", "Изображение");
 define("LAN_FILE", "Файл");
@@ -107,8 +116,13 @@ define("LAN_EMAIL", "Имейл адрес");
 define("LAN_WROTE", "написа");
 define("LAN_RE_ORDER", "Подреди отново");
 define("LAN_RELATED", "Свързани");
+
 define("LAN_ENTER_USRNAME_EMAIL", "Моля, въведете потребителско име или имейл адрес");
 define("LAN_PWD_REQUIRED", "Паролата е задължителна");
+define("LAN_SHOW", "Полажи");
+define("LAN_GENERATE", "Генерирай");
+define("LAN_SUMMARY", "Обобщение");  // TODO   more files use summary replace
+define("LAN_REQUIRED_BLANK", "Не е попълнено задължително поле");
 
 
 ?>

@@ -12,9 +12,10 @@
 //TODO translate
 
 define("LAN_PLUGIN_FORUM_NAME", "Форум");
-define("LAN_PLUGIN_FORUM_DESC", "This plugin is a fully featured forum system.");
-define("LAN_PLUGIN_FORUM_POSTS", "Forum posts");
-define("LAN_PLUGIN_FORUM_ALLFORUMS", "All Forums");
+define("LAN_PLUGIN_FORUM_DESC", "Този плъгин е напълно функционална форум система .");
+define("LAN_PLUGIN_FORUM_POSTS", "Постове");
+define("LAN_PLUGIN_FORUM_ALLFORUMS", "Всички форуми");
+define("LAN_PLUGIN_FORUM_LATESTPOSTS", "Последни постове");
 // Notify
 // TODO - LAN cleanup (see e_notify)
 

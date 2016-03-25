@@ -10,8 +10,8 @@
  *
 */
 
-define("DOWLAN_29", "Файлове");
-define("DOWLAN_30", "Напълно функционална система за сваляне на файлове");
+define("LAN_PLUGIN_DOWNLOAD_NAME", "Файлове");
+define("LAN_PLUGIN_DOWNLOAD_DIZ", "Напълно функционална система за сваляне на файлове");
 
 
 ?>

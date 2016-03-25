@@ -37,4 +37,8 @@ define("CACLAN_24", "Изчисти ДБ структура кеш");
 define("CACLAN_25", "Изчисти Картинки кеш");
 define("CACLAN_26", "Изчисти всички кешове");
 define("CACLAN_27", "Изчисти кеша на браузъра");
+
+define("CACLAN_28", "JS/CSS кеш");
+define("CACLAN_29", "Консолидиране и кеш файлове с JavaScript и CSS файлове.");
+define("CACLAN_30", "Изтрийте JS/CSS кеша");
 ?>

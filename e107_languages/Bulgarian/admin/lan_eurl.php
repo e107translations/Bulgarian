@@ -34,7 +34,8 @@ define("LAN_EURL_FORM_HELP_EXAMPLE", "Базов URL: ");
 
 // messages
 define("LAN_EURL_ERR_ALIAS_MODULE", "Псевдоним &quot;%1\$s&quot; неможе да бъде записан - съществува системен URL профил със същото име. Моля, изберете друг псевдоним за системен URL профил &quot;%2\$s&quot;");
-
+define("LAN_EURL_SURL_UPD",    "&nbsp; SEF URL адреси бяха актуализирани.");
+define("LAN_EURL_SURL_NUPD",    "&nbsp; SEF URL адреси не са били актуализирани.");
 // settings
 define("LAN_EURL_SETTINGS_PATHINFO", "Премахнете името на файла от URL-то");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Асоциирайте Root пространство от имена на сайта");
@@ -52,7 +53,7 @@ define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREC", "Долна_Черта_И_Гл
 define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Долна_черта_без_главни_букви_СМЕНИ");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "с+разделите+плюс+и+малки+букви");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "С+Разделител+Плюс+И+Главни+Букви");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "С+разделител+плюс+без+главни+букви+СМЕНИ");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plus+separator+with+no+case+CHANGE");
 
 define("LAN_EURL_MODREWR_DESCR", "Премахва вписването на името на файла (index.php) от вашите URL-та. Трябва да имате инсталирана и стартирана функцията mod_rewrite на вашият сървър (Apache Web Server). След като активирате тази настройка, отидете в главната директория на сайта си, преименувайте файла htaccess.txt на .htaccess модифицирайте <em>&quot;RewriteBase&quot;</em> директивата, ако е необходимо.");
 
@@ -62,7 +63,7 @@ define("LAN_EURL_MENU_CONFIG", "URL Профили");
 define("LAN_EURL_MENU_ALIASES", "Псевдоними");
 define("LAN_EURL_MENU_SETTINGS", "Настройки");
 define("LAN_EURL_MENU_HELP", "Помощ");
-define("LAN_EURL_MENU_REDIRECTS", "Пренасочвания");
+define("LAN_EURL_MENU_PROFILES", "Профили");
 
 define("LAN_EURL_UC", "В процес на изграждане");
 
@@ -133,4 +134,5 @@ define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL-та за страници като
 // System
 define("LAN_EURL_CORE_INDEX", "Начална страница");
 define("LAN_EURL_CORE_INDEX_INFO", "Началната страница не може да има псевдоним.");
+define("LAN_EURL_REBUILD",    "Възстановяване");
 //define("LAN_EURL_", "");
