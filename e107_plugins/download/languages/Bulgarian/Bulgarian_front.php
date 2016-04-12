@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -39,7 +39,7 @@ define("LAN_dl_16", "тегления от");
 //define("LAN_dl_26", "Низходящ");
 //define("LAN_dl_27", "ОК");
 //define("LAN_dl_28", "Име");
-define("LAN_dl_29", "Файлове за сваляне");
+define("LAN_dl_29", "Сваляния");
 define("LAN_dl_30", "Имейл на автора");
 define("LAN_dl_31", "Уебсайт на автора");
 //define("LAN_dl_32", "Файл");

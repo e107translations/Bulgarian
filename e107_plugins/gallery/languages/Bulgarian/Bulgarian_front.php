@@ -10,4 +10,5 @@
  *
 */
 
-define("CM_SCH_LAN_1", "Календар");
+
+define("LAN_GALLERY_FRONT_01", "Десен бутон > Запази линка");

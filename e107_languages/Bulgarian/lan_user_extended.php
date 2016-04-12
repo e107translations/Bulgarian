@@ -2,14 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2015 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
  * Language File
  *
 */
-
 define("UE_LAN_1", "Текстово поле");
 define("UE_LAN_2", "Радио бутони");
 define("UE_LAN_3", "Падащо Меню");
@@ -50,6 +49,8 @@ define("UE_LAN_GENDER", "Пол");
 define("UE_LAN_GENDER_DESC", "Пол");
 define("UE_LAN_MALE", "Мъж");
 define("UE_LAN_FEMALE", "Жена");
+define("UE_LAN_COMMENT", "Коментари");
+define("UE_LAN_COMMENT_DESC", "Бокс коментари");
 
 
 ?>
