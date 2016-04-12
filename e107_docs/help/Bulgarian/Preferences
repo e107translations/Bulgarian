@@ -13,3 +13,9 @@ A>	Това е ваш избор, ако сайта Ви работи добре
 
 Q>	За какво е опцията за стартиране на сайта в стандартен режим?
 A>	Ако разработвате тема и имате проблем с изобразяването и коректно във Firefox/Mozilla и IE, опитайте да включите тази опция. IE ще се стартира в стандартен режим и ще използва правилен модел за изобразяване на темата ви.
+
+Q>  What is meant with PLAINTEXT?
+A>  A string of text that is displayed with one value for each text attribute.
+
+Q>  What is meant with CHAP?
+A>  Challenge-Handshake Authentication Protocol (CHAP) authenticates a user or network host to an authenticating entity. That entity may be, for example, an Internet service provider.
