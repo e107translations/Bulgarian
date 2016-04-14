@@ -11,7 +11,7 @@
 */
 
 define("LAN_PLUGIN_CHATBOX_MENU_NAME", "Чатбокс");
-define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "Чатбокс мену");
+define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "Чатбокс меню");
 define("LAN_PLUGIN_CHATBOX_MENU_POSTS", "Чатбокс съобщения");
 define("LAN_AL_CHBLAN_01", "Настройките на чатбокса са обновени");
 define("LAN_AL_CHBLAN_02", "Изчистено");

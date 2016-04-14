@@ -14,6 +14,6 @@
 define("FOR_SCH_LAN_2", "Избери форум");
 // define("FOR_SCH_LAN_3", "All Forums");
 define("FOR_SCH_LAN_4", "Целият пост");
-define("FOR_SCH_LAN_5", "Като част от тем");
+define("FOR_SCH_LAN_5", "Като част от тема");
 
 ?>

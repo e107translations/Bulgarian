@@ -12,7 +12,12 @@
 setlocale(LC_ALL, 'bg_BG.utf8', 'bg_BG.UTF-8', 'bg_bg.utf8', 'bg');
 define("CORE_LC", "bg");
 define("CORE_LC2", "BG");
-define("CORE_LAN1", "Грешка: Темата липсва.\\n\\nСменете използваната тема от настройките ( Администрация ) или качете файловете на тази тема на сървъра.");
+// define("TEXTDIRECTION","rtl");
+// deprecated: all language packs must be UTF-8
+//define("CHARSET", "utf-8");  // for a true multi-language site. :)
+define("CORE_LAN1", "Грешка: Темата липсва.<br />Сменете използваната тема от настройките ( Администрация ) или качете файловете на тази тема на сървъра.");
+//obsolete define("CORE_LAN2'," \\1 wrote:");// "\\1" represents the username.
+//obsolete define("CORE_LAN3", "file attachment disabled");				// Not used in 0.8
 define("CORE_LAN4", "Моля изтрийте install.php от Вашият сървър!");
 define("CORE_LAN5", "Ако не го направите има потенциален риск за сигурността на сайта Ви.");
 define("CORE_LAN6", "Защитата от много заявки към сайта е активирана! Внимавайте със Вашите заявки, за да не Ви бъде забранен достъпът до сайта.");
@@ -112,7 +117,7 @@ define("LAN_CLOSE", "Затворете");
 define("LAN_EXPAND", "Разгънете");
 define("LAN_ENTER_USRNAME_EMAIL", "Моля, въведете потребителско име или имейл адрес");
 define("LAN_PWD_REQUIRED", "Паролата е задължителна");
-define("LAN_SHOW", "Полажи");
+define("LAN_SHOW", "Покажи");
 define("LAN_GENERATE", "Генерирай");
 define("LAN_SUMMARY", "Обобщение");
 define("LAN_REQUIRED_BLANK", "Не е попълнено задължително поле");
