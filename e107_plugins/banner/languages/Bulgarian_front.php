@@ -9,13 +9,8 @@
  * Language File
  *
 */
-
-
-define("PAGE_NAME", "Реклама");
-
 define("BANNERLAN_16", "Потребителско име:");
 define("BANNERLAN_17", "Парола:");
-//define("BANNERLAN_18", "Continue"); // English LAN_CONTINUE
 define("BANNERLAN_19", "Моля въведете потребителско име и парола, за да продължите");
 define("BANNERLAN_20", "За съжаление, не могат да намерят тези данни в базата данни. Моля, свържете се с администратора на сайта за повече подробности.");
 define("BANNERLAN_21", "Статистика на банерите");
@@ -29,10 +24,11 @@ define("BANNERLAN_28", "Оставащи импресии");
 define("BANNERLAN_29", "Няма банери");
 define("BANNERLAN_30", "Неограничено");
 define("BANNERLAN_31", "Не е приложимо");
-//define("BANNERLAN_32", "Yes"); // English LAN_YES
-//define("BANNERLAN_33", "No"); // English LAN_NO
 define("BANNERLAN_34", "Завършва:");
 define("BANNERLAN_35", "Кликвания от IP адреси");
 define("BANNERLAN_36", "Активно:");
 define("BANNERLAN_37", "Стартира:");
-//define("BANNERLAN_38", "Error"); // English LAN_ERROR
+define("BANNERLAN_39", "Няма картинка към този банер.");
+
+
+?>

@@ -9,9 +9,9 @@
  * Language File
  *
 */
-
 define("CHATBOX_L1", "Невъзможно е приемането на това съобщение, понеже това е регистрирано потребителско име - ако е вашето потребителско име моля логнете се за да публикувате съобщение.");
-define("CHATBOX_L3", "Трябва да сте логнат за да пишете коментари на този сайт. За да се регистрирате моля  <a href='".e_SIGNUP."'>натиснете тук</a> ако нямате регистрация");
+define("CHATBOX_L3", "You must be logged in to post comments on this site - please either log in from the Login box or from [here].");
+define("CHATBOX_L3b", "Ако не сте регистрирани натиснете [here] за регистрация.");
 define("CHATBOX_L4", "Добави");
 define("CHATBOX_L5", "Изчисти");
 define("CHATBOX_L6", "[блокирано от админ]");

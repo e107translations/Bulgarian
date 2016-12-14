@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("UPLLAN_1", "Добавения файл е премахнат от списъка.");
 define("UPLLAN_2", "Настройките са запазени в базата данни");
 define("UPLLAN_4", "Нищо не е променено - не е обновено");
@@ -50,8 +49,8 @@ define("UPLLAN_63", "Записа е преместен във Файлове. [
 define("UPLLAN_64", "Управление на Файлове");
 define("UPLLAN_66", "Грешка в пътя за изтегляне");
 define("UPLLAN_68", "SQL грешка:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_69", "Imported");
+define("UPLLAN_70", "Send to [x]");
 
 
 ?>

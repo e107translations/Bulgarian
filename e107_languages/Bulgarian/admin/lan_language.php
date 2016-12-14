@@ -9,11 +9,11 @@
  * Language File
  *
 */
-
 define("LANG_LAN_00", "[x] не може да бъде създадена.(вече съществува).");
 define("LANG_LAN_01", "[x] бе изтрита (ако е съществувала) и е създадена отново.");
 define("LANG_LAN_02", "[x] не може да бъде изтрита.");
 define("LANG_LAN_03", "Таблици");
+define("LANG_LAN_04", "Deprecated LANs");
 define("LANG_LAN_05", "Не е инсталиран");
 define("LANG_LAN_06", "Създаване на таблици");
 define("LANG_LAN_07", "Премахване на съществуващите таблици?");
@@ -32,6 +32,7 @@ define("LANG_LAN_21", "Езикови пакети");
 define("LANG_LAN_25", "Статус на създаването на езиковия пакет");
 define("LANG_LAN_26", "Зареждане на езикови файлове само от избрания език");
 define("LANG_LAN_27", "Ако е избрано и необходимият език не може да бъде намерен, могат да се получат грешки");
+define("LANG_LAN_28", "Check this box if you're an [e107 certified translator].");
 define("LANG_LAN_EML", "Моля изпратете Вашият езиков пакет на:");
 define("LANG_LAN_32", "Инсталирани езици");
 define("LANG_LAN_33", "Показване само на грешките по време на проверка");
@@ -51,6 +52,16 @@ define("LANG_LAN_131", "Липсва от езиковия файл");
 define("LANG_LAN_132", "е обща фраза");
 define("LANG_LAN_133", "Използвай");
 define("LANG_LAN_134", "вместо.");
+define("LANG_LAN_135", "Overwriting");
+define("LANG_LAN_136", "Couldn't overwrite");
+define("LANG_LAN_137", "Processed");
+define("LANG_LAN_140", "Hold down CTRL key to select multiple.[br]e.g. To check [b]lan_signup.php[/b] you'll want to also select [b]signup_shortcodes.php[/b] and [b]signup_template.php[/b].	");
+define("LANG_LAN_141", "Select Script...");
+define("LANG_LAN_142", "Auto-Detect");
+define("LANG_LAN_143", "Specific LAN file:");
+define("LANG_LAN_144", "Must be re-enabled");
+define("LANG_LAN_149", "Value");
+define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]");
 
 
 ?>

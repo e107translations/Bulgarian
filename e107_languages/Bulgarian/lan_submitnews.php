@@ -9,14 +9,12 @@
  * Language File
  *
 */
-
 define("PAGE_NAME", "Добавяне на новини");
-define("LAN_7", "Име: ");
-define("LAN_62", "Заглавие на новината: ");
-define("LAN_112", "Имейл Адрес: ");
+define("LAN_7", "Име:");
+define("LAN_112", "Имейл Адрес:");
 define("LAN_133", "Благодарим ви");
 define("LAN_134", "Вашата публикация е записана и ще бъде прегледана от администратор на сайта в най-скоро време.");
-define("LAN_135", "Новина: ");
+define("LAN_135", "Новина:");
 define("LAN_136", "Добави новина");
 define("NWSLAN_6", "Категория");
 define("NWSLAN_10", "Няма Създадени Категории");
@@ -30,3 +28,11 @@ define("SUBNEWSLAN_5", "Файл Картинка");
 define("SUBNEWSLAN_6", "(jpg, gif или png)");
 define("SUBNEWSLAN_7", "Трябва да напишете Вашето име и имейл адрес");
 define("SUBNEWSLAN_8", "Грешка при качване на картинка");
+define("SUBNEWSLAN_9", "Ключови думи");
+define("SUBNEWSLAN_10", "Обобщение");
+define("SUBNEWSLAN_11", "Мета описание");
+define("SUBNEWSLAN_12", "Използва се от Facebook и други.");
+define("SUBNEWSLAN_13", "Media URLs");
+
+
+?>

@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("CORE_DATE_ORDER", "дмг");
 define("LAN_MAILOUT_01", "От име");
 define("LAN_MAILOUT_02", "От имейл");
@@ -250,12 +249,10 @@ define("LAN_MAILOUT_254", "Виж шаблонни имейли");
 define("LAN_MAILOUT_255", "Шаблонен имейл, ID:");
 define("LAN_MAILOUT_256", "Обратно");
 define("LAN_MAILOUT_257", "Генерирани шаблони");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Изпрати");
 define("LAN_HOLD", "Задръж");
 define("LAN_MAILOUT_260", "Потребителски тип");
-define("LAN_BASIC", "Основен");
-define("LAN_ADVANCED", "Разширен");
+define("LAN_MAILOUT_261", "SMTP порт");
 
 
 ?>

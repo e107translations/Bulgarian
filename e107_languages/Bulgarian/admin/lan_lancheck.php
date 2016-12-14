@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("LAN_CHECK_2", "Провери");
 define("LAN_CHECK_3", "Проверка на");
 define("LAN_CHECK_4", "Файлът липсва!");
@@ -21,12 +20,11 @@ define("LAN_CHECK_18", "Езикови файлове в стандартния 
 define("LAN_CHECK_19", "Намерен е символ, който не е кодиран в UTF-8!");
 define("LAN_CHECK_20", "Генериране на езиков пакет");
 define("LAN_CHECK_21", "Проверете отново");
-define("LAN_CHECK_22", "Теми");
 define("LAN_CHECK_23", "Намерени грешки");
-define("LAN_CHECK_24", "Обобщение");
-define("LAN_CHECK_25", "Теми");
+define("LAN_CHECK_26", "Потребителска част");
 define("LAN_CHECK_PAGE_TITLE", "Езици");
 define("LAN_CHECK_27", "Брой намерени грешки в езиковия файл:");
+define("LAN_CHECK_28", "Идентични");
 define("LANG_LAN_23", "Създаване на езиков пакет (zip)");
 define("LANG_LAN_30", "Дата на създаване");
 define("LANG_LAN_31", "Съвместимост");

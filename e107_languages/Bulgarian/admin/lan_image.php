@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("LAN_IMA_M_01", "Медия");
 define("LAN_IMA_M_02", "Качване/добавяне");
 define("LAN_IMA_M_03", "Категории");
@@ -81,7 +80,7 @@ define("IMALAN_74", "Задайте тази най-ниска, колкото �
 define("IMALAN_75", "Дължина на аватарите");
 define("IMALAN_76", "Аватарите ще бъдат ограничени до тези размери (в пиксели)");
 define("IMALAN_77", "Височина на аватарите");
-define("IMALAN_78", "");
+define("IMALAN_78", "General");
 define("IMALAN_79", "Пропорции на оразмеряване");
 define("IMALAN_80", "Активиране на воден знак");
 define("IMALAN_81", "Всички снимки с ширина или височина по-голяма от тази стойност ще бъдат маркирани с воден знак по време на преоразмеряване.");
@@ -92,7 +91,7 @@ define("IMALAN_85", "Фонт на водния знак (по желание). 
 define("IMALAN_86", "Големина на водния знак");
 define("IMALAN_87", "Големина на фонта в pts");
 define("IMALAN_88", "Позиция на водния знак");
-define("IMALAN_89", "");
+define("IMALAN_89", "Воден знак");
 define("IMALAN_90", "Отстояния на водния знак");
 define("IMALAN_91", "Отстоянието на водния знак");
 define("IMALAN_92", "Цвят на водния знак");
@@ -113,7 +112,7 @@ define("IMALAN_106", "Оставете празно за да забраните
 define("IMALAN_107", "Не може да се генерира път от качване на данни");
 define("IMALAN_108", "Не може да се премести от [x] в [y]");
 define("IMALAN_109", "Не можа да се намери пътя");
-define("IMALAN_110", "");
+define("IMALAN_110", "Път");
 define("IMALAN_111", "Не може да се открие разширението ([x]). Качването не е успешно.");
 define("IMALAN_112", "Не може да се създаде папка ([x]).");
 define("IMALAN_113", "Сканиране за нови медии (снимки, видео, файлове) в папка:");
@@ -131,6 +130,51 @@ define("IMALAN_125", "Изтрий избраните файлове");
 define("IMALAN_126", "Моля изберете поне един файл.");
 define("IMALAN_127", "Не може да се подаде информация от:");
 define("IMALAN_128", "Импортиране на медия:");
+define("IMALAN_129", "You are about to delete [x] records and <strong>ALL CORRESPONDING FILES</strong>! Please confirm to continue!	");
+define("IMALAN_130", "Previous page");
+define("IMALAN_131", "Next page");
+define("IMALAN_132", "Tags/Keywords");
+define("IMALAN_133", "Bottom Right");
+define("IMALAN_134", "Bottom Left");
+define("IMALAN_135", "Top Right");
+define("IMALAN_136", "Top Left");
+define("IMALAN_137", "Center");
+define("IMALAN_138", "Right");
+define("IMALAN_139", "Left");
+define("IMALAN_140", "Top");
+define("IMALAN_141", "Bottom");
+define("IMALAN_142", "Tile");
+define("IMALAN_143", "Image");
+define("IMALAN_144", "File");
+define("IMALAN_145", "<h4>From your computer</h4>");
+define("IMALAN_146", "No HTML5 support.");
+define("IMALAN_147", "<h4>From a remote location</h4>");
+define("IMALAN_148", "Image/File URL");
+define("IMALAN_149", "Start Upload");
+define("IMALAN_150", "Upload a File");
+define("IMALAN_151", "Choose from Library");
+define("IMALAN_152", "Appearance");
+define("IMALAN_153", "Image in use");
+define("IMALAN_154", "Not in use");
+define("IMALAN_155", "Avatar Pre-selection Folder");
+define("IMALAN_156", "Delete all unused images");
+define("IMALAN_157", "Text flow");
+define("IMALAN_158", "Margin-Left");
+define("IMALAN_159", "Margin-Right");
+define("IMALAN_160", "Margin-Top");
+define("IMALAN_161", "Margin-Bottom");
+define("IMALAN_162", "Displaying [x] - [y] of [z] images.");
+define("IMALAN_163", "Video");
+define("IMALAN_164", "");
+define("IMALAN_165", "No images");
+define("IMALAN_166", "Upload images or files");
+define("IMALAN_167", "Choose file");
+define("IMALAN_168", "Click on the avatar to change it");
+define("IMALAN_169", "No Avatars Available");
+define("IMALAN_170", "Choose this avatar");
+define("IMALAN_171", "Admin-Only Notice: The folder");
+define("IMALAN_172", "is empty. Upload some default avatars images to this folder for users to choose avatars from.");
+define("IMALAN_173", "No media owner found.");
 
 
 ?>
