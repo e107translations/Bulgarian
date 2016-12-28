@@ -101,12 +101,14 @@ define("TPVLAN_CONV_14", "Enable this stylesheet as a selectable option in the T
 define("TPVLAN_CONV_15", "Give this stylesheet a name");
 define("TPVLAN_81", "Downloading...");
 define("TPVLAN_82", "Download Complete!");
-define("TPVLAN_83", "Automated download not possible.");
-define("TPVLAN_84", "Please Download Manually");
+define("TPVLAN_83", "Automated download not possible!");
+define("TPVLAN_84", "[Please Download Manually]");
 define("TPVLAN_85", "Connecting...");
 define("TPVLAN_86", "Could not change site theme.");
 define("TPVLAN_87", "Rendering Theme Config");
 define("TPVLAN_88", "Converter");
+define("TPVLAN_89", "Apply dashboard preferences to all administrators");
+define("TPVLAN_90", "Unable to connect. Please check firewall and/or internet connection.");
 
 
 ?>

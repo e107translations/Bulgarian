@@ -1,13 +1,13 @@
 <?php
 /*
-+---------------------------------------------------------------+
-|        e107 website content management system Bulgarian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/12/28 12:31:09
-|
-|        $Author: veskoto $
-+---------------------------------------------------------------+
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
 
 define('CLOCK_MENU_L1', 'Настройките на менюто са запазени');
@@ -33,6 +33,4 @@ define('CLOCK_MENU_L20', 'Септември');
 define('CLOCK_MENU_L21', 'Октомври');
 define('CLOCK_MENU_L22', 'Ноември');
 define('CLOCK_MENU_L23', 'Декември');
-
-
-?>
+define('CLOCK_MENU_L24', '');

@@ -130,7 +130,7 @@ define("IMALAN_125", "Изтрий избраните файлове");
 define("IMALAN_126", "Моля изберете поне един файл.");
 define("IMALAN_127", "Не може да се подаде информация от:");
 define("IMALAN_128", "Импортиране на медия:");
-define("IMALAN_129", "You are about to delete [x] records and <strong>ALL CORRESPONDING FILES</strong>! Please confirm to continue!	");
+define("IMALAN_129", "You are about to delete [x] records and <strong>ALL CORRESPONDING FILES</strong>! Please confirm to continue!");
 define("IMALAN_130", "Previous page");
 define("IMALAN_131", "Next page");
 define("IMALAN_132", "Tags/Keywords");
@@ -165,7 +165,7 @@ define("IMALAN_160", "Margin-Top");
 define("IMALAN_161", "Margin-Bottom");
 define("IMALAN_162", "Displaying [x] - [y] of [z] images.");
 define("IMALAN_163", "Video");
-define("IMALAN_164", "");
+define("IMALAN_164", "Deleted Icons from Media-Manager");
 define("IMALAN_165", "No images");
 define("IMALAN_166", "Upload images or files");
 define("IMALAN_167", "Choose file");
@@ -175,6 +175,12 @@ define("IMALAN_170", "Choose this avatar");
 define("IMALAN_171", "Admin-Only Notice: The folder");
 define("IMALAN_172", "is empty. Upload some default avatars images to this folder for users to choose avatars from.");
 define("IMALAN_173", "No media owner found.");
+define("IMALAN_174", " 	Youtube search requires a (free) YouTube v3 api key.[br]This key is not required unless you wish to perform a keyword, playlist or channel search.[br]Entering a Youtube video URL directly into the box above will still work without having an api key.[br][x]");
+define("IMALAN_175", "Search Youtube. Paste any YouTube URL here for a specific video/playlist/channel");
+define("IMALAN_176", "There was a problem grabbing the file");
+define("IMALAN_177", "Click here for more information and to enter your api key");
+define("IMALAN_178", "Avatars Folder (user selectable)");
+define("IMALAN_179", "Avatars Folder (private)");
 
 
 ?>

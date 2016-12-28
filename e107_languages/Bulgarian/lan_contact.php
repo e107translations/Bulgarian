@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("LANCONTACT_00", "Връзка с нас");
 define("LANCONTACT_01", "Данни за контакт");
 define("LANCONTACT_02", "Директна връзка");
@@ -27,6 +26,10 @@ define("LANCONTACT_13", "Моля напишете относно.");
 define("LANCONTACT_14", "Изпрати съобщение до:");
 define("LANCONTACT_15", "Въведен е неправилен код");
 define("LANCONTACT_16", "Трябва да сте [registered] или логнат потребител за да използвате тази форма.");
+define("LANCONTACT_17", "Моля, попълнете Вашето име.");
+define("LANCONTACT_18", "Моля, попълнете Вашият имейл адрес.");
+define("LANCONTACT_19", "Моля, попълнете теме за имейла.");
+define("LANCONTACT_20", "Моля, попълнете Вашето съобщение.");
 
 
 ?>

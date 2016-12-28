@@ -9,6 +9,8 @@
  * Language File
  *
 */
+//TODO TRANSLATE
+
 
 define("LAN_THEMEPREF_00", "Branding:");
 define("LAN_THEMEPREF_01", "Navbar Alignment:");
@@ -21,6 +23,6 @@ define("LAN_THEMEPREF_07", "left");
 define("LAN_THEMEPREF_08", "right");
 define("LAN_THEMEPREF_09", "top");
 define("LAN_THEMEPREF_10", "bottom");
- 
+
 
 ?>

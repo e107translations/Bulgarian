@@ -76,7 +76,8 @@ define("LAN_CANCEL", "Отказ");
 define("LAN_DATE", "Дата");
 define("LAN_DATE_POSTED", "Дата на публикуване");
 define("LAN_JSCONFIRM", "Сигурни ли сте?");
-define("LAN_IP", "IP адрес");
+define("LAN_IP", "IP");
+define("LAN_IP_ADDRESS", "IP адрес");
 define("LAN_AUTHOR", "Автор");
 define("LAN_CATEGORY", "Категория");
 define("LAN_GUEST", "Гост");
@@ -117,6 +118,7 @@ define("LAN_GENERATE", "Генерирай");
 define("LAN_SUMMARY", "Обобщение");
 define("LAN_REQUIRED_BLANK", "Не е попълнено задължително поле");
 define("LAN_PLEASEWAIT", "Моля изчакайте");
+define("LAN_CHOOSE_FILE", "Изберете файл");
 
 
 ?>

@@ -21,7 +21,7 @@ define("LAN_ONLINE_7", "преглежда");
 define("LAN_ONLINE_8", "Най-много онлайн:");
 define("LAN_ONLINE_9", "на");
 define("LAN_ONLINE_10", "Онлайн");
-define("LAN_ONLINE_11", "Всичко регистрирани потребители:");
+define("LAN_ONLINE_11", "Общо регистрирани потребителя:");
 define("LAN_ONLINE_ADMIN_1", "Меню Последно видян");
 define("LAN_ONLINE_ADMIN_2", "Заглавие меню Последно видян:");
 define("LAN_ONLINE_ADMIN_3", "брой записи за показване:");
