@@ -89,9 +89,9 @@ define("LAN_PM_108", "Съобщението е изпратено на:");
 define("LAN_PM_109", "ново съобщение(я)");
 define("LAN_PM_111", "Прочети");
 define("LAN_PM_112", "Потребител(и)");
-define("LAN_PM_113", "Read Message	");
-define("LAN_PM_114", "You do not have access to send to this user.	");
-define("LAN_PM_115", "User Not Found");
+define("LAN_PM_113", "Прочети съобщение");
+define("LAN_PM_114", "Нямате права за изпращане до този потребител.");
+define("LAN_PM_115", "Потребителят не е намерен");
 
 
 ?>

@@ -9,7 +9,8 @@
  * Language File
  *
 */
-//TODO translate
-define("LAN_PLUGIN_IMPORT_NAME", "Import plugin");
-define("LAN_PLUGIN_IMPORT_DESCRIPTION", "Import data from Wordpress, Joomla, Drupal, Blogpost, RSS and other formats.");
+define("LAN_PLUGIN_IMPORT_NAME", "Импортиране в е107");
+define("LAN_PLUGIN_IMPORT_DESCRIPTION", "Импортиране от Wordpress, Joomla, Drupal, Blogpost, RSS или друг формат.");
+
+
 ?>

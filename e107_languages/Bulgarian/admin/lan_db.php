@@ -107,16 +107,16 @@ define("DBLAN_108", "Създадено:");
 define("DBLAN_109", "Копирано:");
 define("DBLAN_110", "Не се копира:");
 define("DBLAN_111", "Таблиците изглеждат добре!");
-define("DBLAN_112", "Sync with Github");
-define("DBLAN_113", "Overwrite Files");
-define("DBLAN_114", "Developer Mode Only");
-define("DBLAN_115", "Overwrite local files with the latest from github.");
-define("DBLAN_116", "This will download the latest .zip file from github to	");
-define("DBLAN_117", "and then unzip it, overwriting any existing files that it finds on your server. It will take into account any custom folders you may have set in e107_config.php.");
-define("DBLAN_118", "Couldn't download .zip file");
-define("DBLAN_119", "Backup");
-define("DBLAN_120", "Starting backup....");
-define("DBLAN_121", "Moving [x] to [y].");
+define("DBLAN_112", "Синхронизиране с Github");
+define("DBLAN_113", "Презаписване на файловете");
+define("DBLAN_114", "Само в режим на разработчици");
+define("DBLAN_115", "Презаписване на локалните файлове с последните от GItHub");
+define("DBLAN_116", "Това ще изтегли последния .zip файл от GitHub в");
+define("DBLAN_117", "след което го разархивирайте и презапишете съществуващите файлове на Вашият сървър. Запазете Вашият e107_config.php файл.");
+define("DBLAN_118", "Изтеглянето на .zip файла беше неуспешно");
+define("DBLAN_119", "Резервно копие");
+define("DBLAN_120", "Стартиране на резервно копие...");
+define("DBLAN_121", "Преместване на [x] в [y].");
 
 
 ?>

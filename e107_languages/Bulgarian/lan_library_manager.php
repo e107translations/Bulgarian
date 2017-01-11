@@ -33,9 +33,9 @@ define("LAN_LIBRARY_MANAGER_21", "Провайдър");
 define("LAN_LIBRARY_MANAGER_22", "модул");
 define("LAN_LIBRARY_MANAGER_23", "дизайн");
 define("LAN_LIBRARY_MANAGER_24", "ядро");
-define("LAN_LIBRARY_MANAGER_25", "Third-party libraries");
+define("LAN_LIBRARY_MANAGER_25", "Библиотеки на трети страни");
 define("LAN_LIBRARY_MANAGER_26", "Не е намерена библиотека");
-define("LAN_LIBRARY_MANAGER_27", "Machine name: [x]");
+define("LAN_LIBRARY_MANAGER_27", "Име на машина: [x]");
 
 
 ?>

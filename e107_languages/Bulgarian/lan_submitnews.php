@@ -17,22 +17,22 @@ define("LAN_134", "Вашата публикация е записана и ще
 define("LAN_135", "Новина:");
 define("LAN_136", "Добави новина");
 define("NWSLAN_6", "Категория");
-define("NWSLAN_10", "Няма Създадени Категории");
+define("NWSLAN_10", "Няма създадени категории");
 define("NWSLAN_11", "Нямате достъп до тази секция.");
 define("NWSLAN_12", "Достъпът е отказан.");
 define("SUBNEWSLAN_1", "Трябва да въведете заглавие.\\n");
 define("SUBNEWSLAN_2", "Трябва да въведете текст за новината.\\n");
 define("SUBNEWSLAN_3", "Вашия прикачен файл може да бъде jpg, gif или png");
 define("SUBNEWSLAN_4", "Файлът е прекалено голям");
-define("SUBNEWSLAN_5", "Файл Картинка");
+define("SUBNEWSLAN_5", "Изображение");
 define("SUBNEWSLAN_6", "(jpg, gif или png)");
 define("SUBNEWSLAN_7", "Трябва да напишете Вашето име и имейл адрес");
-define("SUBNEWSLAN_8", "Грешка при качване на картинка");
+define("SUBNEWSLAN_8", "Грешка при качване на изображение");
 define("SUBNEWSLAN_9", "Ключови думи");
 define("SUBNEWSLAN_10", "Обобщение");
 define("SUBNEWSLAN_11", "Мета описание");
 define("SUBNEWSLAN_12", "Използва се от Facebook и други.");
-define("SUBNEWSLAN_13", "Media URLs");
+define("SUBNEWSLAN_13", "Медия линкове");
 
 
 ?>

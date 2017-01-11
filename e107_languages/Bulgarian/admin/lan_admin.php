@@ -330,7 +330,7 @@ define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "Настройките не с
 define("LAN_DASHBOARD_LAYOUT", "Оформлението на табло за управление");
 define("LAN_AFTER_SUBMIT", "След запис:");
 define("LAN_UNAVAILABLE", "Не е на разположение");
-define("LAN_READY_UP_FOLDER_FIELDS", "Ready to use upload form fields, optional - file list view");
+define("LAN_READY_UP_FOLDER_FIELDS", "Ready to use upload form fields, optional - file list view	Ready to use upload form fields, optional - file list view - преведи ме!");
 define("LAN_NO_LABEL_PROVIDED", "Няма заглавие");
 define("LAN_NOT_FOUND", "Не е намерено");
 define("LAN_QUICK_VIEW", "Бърз преглед");

@@ -9,8 +9,7 @@
  * Language File
  *
 */
-
-define("CUSLAN_9", 	"Текст");
+define("CUSLAN_9", "Текст");
 define("CUSLAN_11", "Мета описание");
 define("CUSLAN_12", "Създаване");
 define("CUSLAN_29", "Списък на страници, ако няма избрана страница");
@@ -22,7 +21,6 @@ define("CUSLAN_50", "Списък категории");
 define("CUSLAN_51", "Създаване на категория");
 define("CUSLAN_52", "Категория");
 define("CUSLAN_53", "Име на категорията");
-
 define("CUSLAN_55", "Може да се редактира от");
 define("CUSLAN_56", "Главна категория");
 define("CUSLAN_57", "Моля изберете уникално SEF URL.");
@@ -43,13 +41,11 @@ define("CUSLAN_71", "Картика/Видео");
 define("CUSLAN_72", "Списък на шаблони за категории");
 define("CUSLAN_73", "Менюто е създадено");
 define("CUSLAN_74", "Менюто е обновено");
-define("CUSLAN_75", "Missing Menu-id detected:"); //TODO кога се появява?
-define("CUSLAN_76", "Menu with path #"); //TODO кога се появява?
+define("CUSLAN_75", "Засечено е липсващи меню ID:");
+define("CUSLAN_76", "Меню с път #");
 define("CUSLAN_77", "изтрито");
-define("CUSLAN_78", "Менюто с път не можа да се изтрие ");
+define("CUSLAN_78", "Менюто с път не можа да се изтрие");
 define("CUSLAN_79", "Трябва да въведете или заглавие на страница или име на меню.");
-
-
 
 
 ?>

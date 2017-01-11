@@ -15,7 +15,7 @@ define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "По подразбиране");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "По подразбиране");
 define("LAN_PLUGIN_PM_INBOX", "Входящи");
 define("LAN_PLUGIN_PM_OUTBOX", "Изходящи");
-define("LAN_PLUGIN_PM_NEW", "Send New Message");
+define("LAN_PLUGIN_PM_NEW", "Изпрати ново съобщение");
 define("LAN_PLUGIN_PM_TO", "До");
 define("LAN_PLUGIN_PM_FROM", "От");
 define("LAN_PLUGIN_PM_SUB", "Тема");

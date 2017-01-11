@@ -33,7 +33,7 @@ define("LIST_NEWS_2", "Няма нови новини");
 define("LIST_COMMENT_1", "Коментари");
 define("LIST_COMMENT_2", "Няма нови коментари");
 define("LIST_COMMENT_3", "Новини");
-define("LIST_COMMENT_4", "Често Задавани Въпроси");
+define("LIST_COMMENT_4", "Често задавани въпроси");
 define("LIST_COMMENT_5", "Анкети");
 define("LIST_COMMENT_6", "Документация");
 define("LIST_COMMENT_7", "Грешки");
@@ -58,8 +58,8 @@ define("LIST_FORUM_4", "отговаряно:");
 define("LIST_FORUM_5", "последно съобщение:");
 define("LIST_FORUM_6", "на:");
 define("LIST_LAN_1", "няма нищо ново в");
-define("LIST_DOWNLOAD_1", "downloads");
-define("LIST_DOWNLOAD_2", "no downloads");
+define("LIST_DOWNLOAD_1", "файлове");
+define("LIST_DOWNLOAD_2", "няма файлове");
 
 
 ?>
