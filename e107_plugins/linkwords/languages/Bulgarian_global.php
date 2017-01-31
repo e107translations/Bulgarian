@@ -9,10 +9,8 @@
  * Language File
  *
 */
-//TODO translate
-
 define("LAN_PLUGIN_LINKWORDS_NAME", "Линкнати думи");
-define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "This plugin will link specified words with a defined link and/or tooltip.");
+define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Този модул ще свързва определени думи с определена връзка и/или подсказка.");
 
 
 ?>

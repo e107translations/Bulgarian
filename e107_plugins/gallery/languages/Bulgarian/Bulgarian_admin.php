@@ -9,40 +9,36 @@
  * Language File
  *
 */
-//TODO TRANSLATE
-
-define("LAN_GALLERY_ADMIN_01", "[x] is active. Simply import and assign images to the gallery categories using the [y]");
-define("LAN_GALLERY_ADMIN_02", "General");
-define("LAN_GALLERY_ADMIN_03", "Slideshow Menu");
-define("LAN_GALLERY_ADMIN_04", "Image Max. Width");
-define("LAN_GALLERY_ADMIN_05", "Images will be auto-resized if greater than the width given here");
-define("LAN_GALLERY_ADMIN_06", "Image Max. Height");
-define("LAN_GALLERY_ADMIN_07", "Images will be auto-resized if greater than the height given here");
-define("LAN_GALLERY_ADMIN_08", "Show \"download\" link");
-define("LAN_GALLERY_ADMIN_09", "A download option will be shown next to the popup caption");
-define("LAN_GALLERY_ADMIN_10", "Slideshow category");
-define("LAN_GALLERY_ADMIN_11", "Images from this category will be used in the sliding menu.");
-define("LAN_GALLERY_ADMIN_12", "Slide duration");
-define("LAN_GALLERY_ADMIN_13", "The duration (in seconds) of a full jump.");
-define("LAN_GALLERY_ADMIN_14", "Slide auto-start");
-define("LAN_GALLERY_ADMIN_15", "When enabled image-rotation begins automatically when the page is loaded.");
-define("LAN_GALLERY_ADMIN_16", "Slide frequency");
-define("LAN_GALLERY_ADMIN_17", "When auto-start is enabled, this dictates how long a slides stays put before the next jump.");
-define("LAN_GALLERY_ADMIN_18", "Slide effect");
-define("LAN_GALLERY_ADMIN_19", "Type of effect.");
-define("LAN_GALLERY_ADMIN_20", "Images per page");
-define("LAN_GALLERY_ADMIN_21", "Number of images to be shown per page");
-define("LAN_GALLERY_ADMIN_22", "Order images by");
-define("LAN_GALLERY_ADMIN_23", "Media ID ASC");
-define("LAN_GALLERY_ADMIN_24", "Media ID DESC");
-define("LAN_GALLERY_ADMIN_25", "Media Name ASC");
-define("LAN_GALLERY_ADMIN_26", "Media Name DESC");
-define("LAN_GALLERY_ADMIN_27", "Media Caption ASC");
-define("LAN_GALLERY_ADMIN_28", "Media Caption DESC");
-define("LAN_GALLERY_ADMIN_29", "slide left");
-define("LAN_GALLERY_ADMIN_30", "slide down");
-define("LAN_GALLERY_ADMIN_31", "fade");
-
+define("LAN_GALLERY_ADMIN_01", "[x] е активен. Просто добавете изображения в категориите галерия с помощта на [y]");
+define("LAN_GALLERY_ADMIN_03", "Слайдер меню");
+define("LAN_GALLERY_ADMIN_04", "Максимална широчина на изображенията");
+define("LAN_GALLERY_ADMIN_05", "Изображенията ще бъдат автоматично оразмеряват, ако ширината е по-голяма от зададената тук");
+define("LAN_GALLERY_ADMIN_06", "Максимална височина на изображенията");
+define("LAN_GALLERY_ADMIN_07", "Изображенията ще бъдат автоматично оразмеряват, ако височината е по-голяма от зададената тук");
+define("LAN_GALLERY_ADMIN_08", "Показване на лик за \"изтегляне\"");
+define("LAN_GALLERY_ADMIN_09", "Опцията за изтегляне ще бъде показана в непосредствена близост до надписа на изскачащия прозорец");
+define("LAN_GALLERY_ADMIN_10", "Слайдер категория");
+define("LAN_GALLERY_ADMIN_11", "Изображенията от тази категория ще бъдат използвани в слайдер меню.");
+define("LAN_GALLERY_ADMIN_12", "Продължителност на слайдера");
+define("LAN_GALLERY_ADMIN_13", "Продължителност на един слайд (в секунди)");
+define("LAN_GALLERY_ADMIN_14", "Автоматично стартиране на слайдера");
+define("LAN_GALLERY_ADMIN_15", "При активиране слайдера започва автоматично, когато страницата е заредена.");
+define("LAN_GALLERY_ADMIN_16", "Честота на слайдера");
+define("LAN_GALLERY_ADMIN_17", " 	When auto-start is enabled, this dictates how long a slides stays put before the next jump.");
+define("LAN_GALLERY_ADMIN_18", "Ефект на слайдера");
+define("LAN_GALLERY_ADMIN_19", "Тип ефект");
+define("LAN_GALLERY_ADMIN_20", "Изображения на страница");
+define("LAN_GALLERY_ADMIN_21", "Брой изображения за показване на страница");
+define("LAN_GALLERY_ADMIN_22", "Подредба");
+define("LAN_GALLERY_ADMIN_23", "Възходящо, по ID");
+define("LAN_GALLERY_ADMIN_24", "Низходящо, по ID");
+define("LAN_GALLERY_ADMIN_25", "Възходящо по име");
+define("LAN_GALLERY_ADMIN_26", "Низходящо по име");
+define("LAN_GALLERY_ADMIN_27", "Възходящо по заглавие");
+define("LAN_GALLERY_ADMIN_28", "Низходящо по заглавие");
+define("LAN_GALLERY_ADMIN_29", "слайдване от ляво");
+define("LAN_GALLERY_ADMIN_30", "слайдване от долу");
+define("LAN_GALLERY_ADMIN_31", "избледняване");
 define("LAN_GALLERY_ADMIN_32", "prettyPhoto settings");
 define("LAN_GALLERY_ADMIN_33", "Animation speed");
 define("LAN_GALLERY_ADMIN_34", "Slideshow: Interval time");
@@ -56,7 +52,6 @@ define("LAN_GALLERY_ADMIN_41", "Default width");
 define("LAN_GALLERY_ADMIN_42", "Default height");
 define("LAN_GALLERY_ADMIN_43", "Counter separator label");
 define("LAN_GALLERY_ADMIN_44", "The separator for the gallery counter 1 \"of\" 2");
-define("LAN_GALLERY_ADMIN_45", "Theme");
 define("LAN_GALLERY_ADMIN_46", "Horizontal padding");
 define("LAN_GALLERY_ADMIN_47", "The padding on each side of the picture.");
 define("LAN_GALLERY_ADMIN_48", "Hide flash");
@@ -73,16 +68,16 @@ define("LAN_GALLERY_ADMIN_58", "If set to true, a gallery will overlay the fulls
 define("LAN_GALLERY_ADMIN_59", "Keyboard shortcuts");
 define("LAN_GALLERY_ADMIN_60", "Set to false if you open forms inside prettyPhoto.");
 define("LAN_GALLERY_ADMIN_61", "IE6 fallback");
-
 define("LAN_GALLERY_ADMIN_62", "fast");
 define("LAN_GALLERY_ADMIN_63", "slow");
 define("LAN_GALLERY_ADMIN_64", "normal");
-
 define("LAN_GALLERY_ADMIN_65", "Light rounded");
 define("LAN_GALLERY_ADMIN_66", "Dark rounded");
 define("LAN_GALLERY_ADMIN_67", "Light square");
 define("LAN_GALLERY_ADMIN_68", "Dark square");
 define("LAN_GALLERY_ADMIN_69", "Facebook");
-
 define("LAN_GALLERY_ADMIN_70", "Load prettyPhoto globally");
 define("LAN_GALLERY_ADMIN_71", "prettyPhoto attribute (hook)");
+
+
+?>

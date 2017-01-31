@@ -36,7 +36,7 @@ define("BNRLAN_48", "Всички избрани кампании (без рен
 define("BNRLAN_50", "Локален");
 define("BNRLAN_51", "Отдалечен");
 define("BNRLAN_HELP_01", "Помощ");
-define("BNRLAN_HELP_02", "Use this plugin to manage advertising on your website.<br /><br />When creating a new banner you can create a username and password for your client to login and check the progress of the campaign. <br /><br />You can enable the banner menu using the menu manager and perform further configuration from there.	");
+define("BNRLAN_HELP_02", "Използвайте този плъгин за управление на реклама на вашия сайт. <br /> <br /> При създаване на нов банер можете да създадете потребителско име и парола за вашия клиент, с които да влиза и да проверява напредъка на кампанията. <br /> <br /> Можете да активирате менюто банер с помощта на мениджъра на менюто и да извършвате допълнителни настройки.");
 
 
 ?>

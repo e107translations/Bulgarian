@@ -9,6 +9,8 @@
  * Language File
  *
 */
-
-
 define("LAN_GALLERY_FRONT_01", "Десен бутон > Запази линка");
+define("LAN_GALLERY_FRONT_02", "Разширяване на изображението");
+
+
+?>
