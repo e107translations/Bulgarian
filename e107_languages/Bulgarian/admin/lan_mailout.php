@@ -49,7 +49,6 @@ define("LAN_MAILOUT_38", "Отказ");
 define("LAN_MAILOUT_39", "Изпращане");
 define("LAN_MAILOUT_40", "Необходимо е преименуването от <b>e107.htaccess</b> на <b>.htaccess</b> в");
 define("LAN_MAILOUT_41", "преди изпращане на имейл от тази страница.");
-define("LAN_MAILOUT_42", "Внимание");
 define("LAN_MAILOUT_43", "Име за показване");
 define("LAN_MAILOUT_44", "Потребителско име");
 define("LAN_MAILOUT_45", "Потребителски имейл");
@@ -91,7 +90,6 @@ define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Използвай SSL за gmail/googlemail)");
 define("LAN_MAILOUT_95", "Използвай VERP за групово изпращане");
-define("LAN_MAILOUT_96", "няма");
 define("LAN_MAILOUT_97", "Резултати подател");
 define("LAN_MAILOUT_98", "Записи сираци");
 define("LAN_MAILOUT_99", "Потвърди повтарянето на групово изпращане");
@@ -128,7 +126,6 @@ define("LAN_MAILOUT_129", "Дата на валидност");
 define("LAN_MAILOUT_130", "Дата на създаване");
 define("LAN_MAILOUT_131", "Изпращането започна");
 define("LAN_MAILOUT_132", "Изпращането завърши");
-define("LAN_MAILOUT_133", "Източник");
 define("LAN_MAILOUT_134", "Приоритет");
 define("LAN_MAILOUT_136", "Статус на групово изпращане");
 define("LAN_MAILOUT_137", "Поща код");
@@ -253,6 +250,14 @@ define("LAN_SEND", "Изпрати");
 define("LAN_HOLD", "Задръж");
 define("LAN_MAILOUT_260", "Потребителски тип");
 define("LAN_MAILOUT_261", "SMTP порт");
+define("LAN_MAILOUT_262", "Template Preview");
+define("LAN_MAILOUT_263", "Total Recipients");
+define("LAN_MAILOUT_264", "Embed Media");
+define("LAN_MAILOUT_265", "Pending");
+define("LAN_MAILOUT_266", "Max Active");
+define("LAN_MAILOUT_267", "Generate Public/Private keys");
+define("LAN_MAILOUT_268", "Developer Mode Only");
+define("LAN_MAILOUT_269", "Изпратете по-късно");
 
 
 ?>

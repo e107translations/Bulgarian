@@ -129,18 +129,22 @@ define("LAN_NEWS_92", "в страници: news.php?all или news.php?cat.1 �
 define("LAN_NEWS_93", "Показване на списък");
 define("LAN_NEWS_94", "Новини, с избрани тези шаблони ще бъдат показани в списъка.");
 define("LAN_NEWS_95", "Друга новина използва URL SEF: [x]");
-define("LAN_NEWS_96", "Approve");
-define("LAN_NEWS_97", "News Grid Menu");
-define("LAN_NEWS_98", "Ping Services");
-define("LAN_NEWS_99", "Only accept images larger than");
-define("LAN_NEWS_100", "Any Size");
-define("LAN_NEWS_101", "Submit News");
-define("LAN_NEWS_102", "Open in new tab");
-define("LAN_NEWS_103", "Email notification");
-define("LAN_NEWS_104", "Trigger an email notification when you submit this form.");
-define("LAN_NEWS_105", "Email notification triggered!");
-define("LAN_NEWS_106", "News item visibility must include 'everyone' for email notifications to work.");
-define("LAN_NEWS_107", "Checking for Ping Status");
+define("LAN_NEWS_96", "Одобряване");
+define("LAN_NEWS_97", "Грид меню на новини");
+define("LAN_NEWS_98", "Уведоми услуга");
+define("LAN_NEWS_99", "Позволени изображения по-големи от");
+define("LAN_NEWS_100", "Всякаква гоемина");
+define("LAN_NEWS_101", "Добави новина");
+define("LAN_NEWS_102", "Отвори в нов таб");
+define("LAN_NEWS_103", "Имейл известяване");
+define("LAN_NEWS_104", "Стартиране на известяване по имейл, когато запишете този формуляр.");
+define("LAN_NEWS_105", "Стартирано е известяване по имейл!");
+define("LAN_NEWS_106", "Видимостта на новината трябва да е публична, за да работи имейл известяване");
+define("LAN_NEWS_107", "Проверка за пинг статуса");
+define("LAN_NEWS_108", "SEF URL е различен от заглавието на новината.");
+define("LAN_NEWS_109", "Изпълни известие по имейл, когато запишете тази форма.");
+define("LAN_NEWS_110", "Време за изчакване на кеша за новините");
+define("LAN_NEWS_111", "Време в минути. Важи само когато кеша на системата е активиран.");
 
 
 ?>

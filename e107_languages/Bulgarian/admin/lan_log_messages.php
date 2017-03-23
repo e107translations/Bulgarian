@@ -9,7 +9,6 @@
  * Language File
  *
 */
-//TODO translate
 define("LAN_AUDIT_LOG_001", "Достъп от блокирани потребители");
 define("LAN_AUDIT_LOG_002", "Активирана е защитата срещу много заявки към сайта");
 define("LAN_AUDIT_LOG_003", "Достъп от блокиран IP адрес");
@@ -247,12 +246,12 @@ define("LAN_AL_MISC_04", "Обновени настройки на меню ко
 define("LAN_AL_MISC_05", "Обновени настройки на меню час и дата");
 define("LAN_AL_MISC_06", "Обновени настройки на меню блог календар");
 define("LAN_AL_MISC_07", "");
-define("LAN_AL_PING_01", "Ping to service");
+define("LAN_AL_PING_01", "Уведомяване на услуга");
 define("LAN_AL_ADMINUI_01", "Admin-UI DB Table Insert: [x]");
 define("LAN_AL_ADMINUI_02", "Admin-UI DB Table Update: [x]");
 define("LAN_AL_ADMINUI_03", "Admin-UI DB Table Delete: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-UI DB Error: [x]");
-define("LAN_AL_BACKUP", "Database backup");
+define("LAN_AL_BACKUP", "Резервно копие на базата данни");
 
 
 ?>

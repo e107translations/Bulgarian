@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("BANLAN_2", "Няма блокирани.");
 define("BANLAN_3", "Списък блокирани");
 define("BANLAN_5", "IP, имейл или хост");
@@ -81,7 +80,7 @@ define("BANLAN_74", "Списък с блокирани");
 define("BANLAN_75", "Премахни изтеклите блокировки от списъка");
 define("BANLAN_76", "Изпълни");
 define("BANLAN_77", "Съобщения/Периоди на блокиране");
-define("BANLAN_78", "Hit count exceeded ([x] requests within allotted time)");
+define("BANLAN_78", "Надвишени брой заявки ([x] заявки в зададеното време)");
 define("BANLAN_79", "Експортирай в CSV формат:");
 define("BANLAN_80", "Импортирай от CSV формат:");
 define("BANLAN_81", "Лог на действия по блокирания");

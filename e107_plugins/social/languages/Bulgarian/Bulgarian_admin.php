@@ -46,6 +46,10 @@ define("LAN_SOCIAL_ADMIN_35", "Light");
 define("LAN_SOCIAL_ADMIN_36", "Dark");
 define("LAN_SOCIAL_ADMIN_37", "Open Graph Meta");
 define("LAN_SOCIAL_ADMIN_38", "Scope");
+define("LAN_SOCIAL_ADMIN_39", "Доставчици");
+define("LAN_SOCIAL_ADMIN_40", "Обновяване на потребителското име");
+define("LAN_SOCIAL_ADMIN_41", "Обновяване на аватара");
+define("LAN_SOCIAL_ADMIN_42", "Потребителско изображение");
 
 
 ?>

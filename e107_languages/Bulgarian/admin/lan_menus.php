@@ -37,18 +37,21 @@ define("MENLAN_41", "Позициите на всички менюта за то
 define("MENLAN_43", "Меню предв. зададени е активирано");
 define("MENLAN_44", "Параметри за менюто");
 define("MENLAN_45", "Параметри (стринг заявка формат):");
-define("MENLAN_46", "[x] object not found. Try re-scanning plugin directories in Tools > Database.");
-define("MENLAN_47", "No Fields Set in");
-define("MENLAN_48", "Menu could not be loaded");
-define("MENLAN_49", "Your Menus");
-define("MENLAN_50", "Plugin Menus");
-define("MENLAN_51", "This layout does NOT contain any dynamic {MENU} areas.	");
-define("MENLAN_52", "It DOES contain the following custom menus:");
-define("MENLAN_53", "Go to Custom-Menu Area");
-define("MENLAN_54", "Theme Layout");
-define("MENLAN_55", "Menu Layout");
-define("MENLAN_56", "Custom Pages");
-define("MENLAN_57", "Drag-and-Drop Menus");
+define("MENLAN_46", "[x] не е намерено. Пробвайте да сканирате модул директорията от Инструменти > База даннни.");
+define("MENLAN_47", "Не са зададени полета в");
+define("MENLAN_48", "Менюто не може да бъде заредено");
+define("MENLAN_49", "Вашите менюта");
+define("MENLAN_50", "Менюта на модули");
+define("MENLAN_51", "Този шаблон в дизайна не съдържа никакви {MENU} зони.");
+define("MENLAN_52", "Съдържа следните потребителски менюта:");
+define("MENLAN_53", "Потребителски менюта");
+define("MENLAN_54", "Шаблони на темата");
+define("MENLAN_55", "Шаблони на менютата");
+define("MENLAN_56", "Потребителски страници");
+define("MENLAN_57", "Придърпайте менюта");
+define("MENLAN_58", "Меню мениджърът ви позволява да поставите и подредите вашите менюта в шаблоните на вашата тема. Задръжте мишката върху под области за промяна на съществуващите елементи на менюто.");
+define("MENLAN_59", "Зона [x]");
+define("MENLAN_60", "Този дизайн използва неодобрени елементи. Всички [x]HEADER и [x]FOOTER променливи трябва да бъдат премахнати от theme.php.");
 
 
 ?>

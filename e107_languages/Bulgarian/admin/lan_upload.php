@@ -49,8 +49,8 @@ define("UPLLAN_63", "Записа е преместен във Файлове. [
 define("UPLLAN_64", "Управление на Файлове");
 define("UPLLAN_66", "Грешка в пътя за изтегляне");
 define("UPLLAN_68", "SQL грешка:");
-define("UPLLAN_69", "Imported");
-define("UPLLAN_70", "Send to [x]");
+define("UPLLAN_69", "Импортирани");
+define("UPLLAN_70", "Изпратени в [x]");
 
 
 ?>

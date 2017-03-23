@@ -130,7 +130,7 @@ define("IMALAN_125", "Изтрий избраните файлове");
 define("IMALAN_126", "Моля изберете поне един файл.");
 define("IMALAN_127", "Не може да се подаде информация от:");
 define("IMALAN_128", "Импортиране на медия:");
-define("IMALAN_129", "You are about to delete [x] records and <strong>ALL CORRESPONDING FILES</strong>! Please confirm to continue!");
+define("IMALAN_129", "Ще изтриете [x] записа и <strong>И ВСИЧКИ ФАЙЛОВЕ</strong>! Моля потвърдете!");
 define("IMALAN_130", "Предишна страница");
 define("IMALAN_131", "Следваща страница");
 define("IMALAN_132", "Тагове/Ключови думи");

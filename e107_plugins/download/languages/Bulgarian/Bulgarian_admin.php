@@ -41,7 +41,7 @@ define("DOWLAN_23", "Типове файлове");
 define("DOWLAN_24", "Обнови файл");
 define("DOWLAN_25", "Добави файл");
 define("DOWLAN_27", "Файл");
-define("DOWLAN_28", "Няма");
+define("DOWLAN_29", "Изтеглян");
 define("DOWLAN_31", "Категории");
 define("DOWLAN_32", "Файлове");
 define("DOWLAN_33", "Сигурни ли сте, че искате да изтриете този файл?");

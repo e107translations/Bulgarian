@@ -38,6 +38,7 @@ define("EMESSLAN_TITLE_ERROR", "Грешка");
 define("EMESSLAN_TITLE_SUCCESS", "Успешно");
 define("EMESSLAN_TITLE_WARNING", "Внимание");
 define("EMESSLAN_TITLE_DEBUG", "Системен дебъг");
+define("LAN_NO_PERMISSIONS", "Вие нямате права за преглед на тази страница.");
 define("LAN_EDIT", "Редакция");
 define("LAN_DELETE", "Изтриване");
 define("LAN_DEFAULT", "По подразбиране");

@@ -14,24 +14,10 @@ define("LAN_PLUGIN_FORUM_DESC", "Този плъгин е напълно фун�
 define("LAN_PLUGIN_FORUM_POSTS", "Постове");
 define("LAN_PLUGIN_FORUM_ALLFORUMS", "Всички форуми");
 define("LAN_PLUGIN_FORUM_LATESTPOSTS", "Последни постове");
-// Notify
-// TODO - LAN cleanup (see e_notify)
-
-//define('FORUM_NT_1', 'Forum Events');
-//define('FORUM_NT_2', 'Thread');
-//define('FORUM_NT_3', 'Post');
-//define('FORUM_NT_4', 'added by');
-//define('FORUM_NT_5', 'moved by');
-// define('FORUM_NT_6', 'Forum - Thread created');
-
-
-
 define("FORUM_LAN_URL_DEFAULT_LABEL", "URL адреси по подразбиране за форума");
-//TODO translate
-
 define("FORUM_LAN_URL_DEFAULT_DESCR", "URLs of 'GET type' with no single entry point. Examples:<br />http://yoursite.com/e107_plugins/forum/forum.php (forum index)<br />http://yoursite.com/e107_plugins/forum/forum_viewtopic.php?id=2 (thread view)");
+define("FORUM_LAN_URL_REWRITE_LABEL", "Форум SEF URL (UNDER DEVELOPMENT)");
+define("FORUM_LAN_URL_REWRITE_DESCR", "Например:<br />UNDER DEVELOPMENT");
 
-define("FORUM_LAN_URL_REWRITE_LABEL", "SEF Forum URLs (UNDER DEVELOPMENT)");
-define("FORUM_LAN_URL_REWRITE_DESCR", "Examples:<br />UNDER DEVELOPMENT");
 
 ?>

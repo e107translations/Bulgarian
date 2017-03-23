@@ -111,6 +111,7 @@ define("LAN_SIGNUP_116", "Преглед след попълване на фор
 define("LAN_SIGNUP_117", "Изпращане на тестова активация");
 define("LAN_SIGNUP_118", "До [x]");
 define("LAN_SIGNUP_119", "Не изпращай имейл");
+define("LAN_SIGNUP_120", "ИЛИ");
 
 
 ?>

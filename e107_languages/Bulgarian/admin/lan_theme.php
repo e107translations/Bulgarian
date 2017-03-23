@@ -67,14 +67,14 @@ define("TPVLAN_60", "[x] запис(а) в [y] таблица");
 define("TPVLAN_61", "Бихте ли искали да [b]замени [/] сегашното съдържание с примерното съдържание, предоставено от темата?");
 define("TPVLAN_62", "Намерете дизайни");
 define("TPVLAN_63", "Конвертиране");
-define("TPVLAN_64", "This Wizard will build a theme.xml meta file for your theme.");
-define("TPVLAN_65", "Before you start :");
-define("TPVLAN_66", "Make sure your theme's directory is writable");
-define("TPVLAN_67", "Select your theme's folder to begin.");
-define("TPVLAN_68", "Select your theme's folder");
-define("TPVLAN_69", "Available for Download");
-define("TPVLAN_70", "Preview/Live-demo :");
-define("TPVLAN_71", "Not Specified");
+define("TPVLAN_64", "Този съветник ще изгради theme.xml мета файл за вашата тема.");
+define("TPVLAN_65", "Преди да започнете :");
+define("TPVLAN_66", "Бъдете сигурни, че папката на темата има права за писане");
+define("TPVLAN_67", "Изберете папка на темата за започване");
+define("TPVLAN_68", "Изберете папка на темата");
+define("TPVLAN_69", "Достъпна за изтегляне");
+define("TPVLAN_70", "Работещо демо:");
+define("TPVLAN_71", "Неопределено");
 define("TPVLAN_72", "Set pages which should automatically use this layout. One per line.");
 define("TPVLAN_73", "Activate Menus");
 define("TPVLAN_74", "Activates the following:");
@@ -99,16 +99,17 @@ define("TPVLAN_CONV_12", "A full description of the theme (Must be written in En
 define("TPVLAN_CONV_13", "What category of theme is this?");
 define("TPVLAN_CONV_14", "Enable this stylesheet as a selectable option in the Theme Manager.");
 define("TPVLAN_CONV_15", "Give this stylesheet a name");
+define("TPVLAN_CONV_16", "URL демо на този дизайн.");
 define("TPVLAN_81", "Downloading...");
 define("TPVLAN_82", "Download Complete!");
 define("TPVLAN_83", "Automated download not possible!");
 define("TPVLAN_84", "[Please Download Manually]");
 define("TPVLAN_85", "Connecting...");
 define("TPVLAN_86", "Could not change site theme.");
-define("TPVLAN_87", "Rendering Theme Config");
 define("TPVLAN_88", "Converter");
 define("TPVLAN_89", "Apply dashboard preferences to all administrators");
-define("TPVLAN_90", "Unable to connect. Please check firewall and/or internet connection.");
+define("TPVLAN_91", "Създаване на нов дизайн базиран на");
+define("TPVLAN_92", "Папка на новия дизайн");
 
 
 ?>

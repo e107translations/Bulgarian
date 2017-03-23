@@ -60,6 +60,7 @@ define("LANG_LAN_141", "Изберете скрипт...");
 define("LANG_LAN_142", "Автоматично засичане");
 define("LANG_LAN_143", "Определен LAN файл:");
 define("LANG_LAN_144", "Трябва да се активира отново");
+define("LANG_LAN_148", "Нормален режим");
 define("LANG_LAN_149", "Стойност");
 define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]");
 

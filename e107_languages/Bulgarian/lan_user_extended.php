@@ -18,6 +18,7 @@ define("UE_LAN_6", "Цяло число");
 define("UE_LAN_8", "Език");
 define("UE_LAN_9", "Име");
 define("UE_LAN_10", "Тип");
+define("UE_LAN_13", "Държава");
 define("UE_LAN_21", "Име");
 define("UE_LAN_22", "Тип");
 define("UE_LAN_23", "Използвай");
