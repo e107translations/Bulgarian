@@ -13,5 +13,5 @@
 * e107 is released under the terms and conditions of the GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
 
 ### Официални сайтове
+* http://e107.org
 * http://e107.bg
-* http://www.e107.bg
