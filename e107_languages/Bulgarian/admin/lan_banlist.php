@@ -122,6 +122,7 @@ define("BANLAN_122", "Черен списък");
 define("BANLAN_123", "Добави в Черен списък");
 define("BANLAN_124", "Изтича");
 define("BANLAN_125", "Използвай моето IP");
+define("BANLAN_126", "IP / Имейл адрес");
 
 
 ?>

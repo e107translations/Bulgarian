@@ -9,7 +9,6 @@
  * Language File
  *
 */
-
 define("LAN_LOGIN_1", "Потребителско име");
 define("LAN_LOGIN_2", "Парола");
 define("LAN_LOGIN_3", "Защитен сървър");
@@ -41,6 +40,10 @@ define("LAN_LOGIN_28", "Имейл");
 define("LAN_LOGIN_29", "Потребителско име или имейл");
 define("LAN_LOGIN_30", "Грешка при добавянето на нов alt_auth потребител в БД");
 define("LAN_LOGIN_31", "Вашите удостоверения за самоличност не могат да бъдат добавени в системата.");
+define("LAN_LOGIN_32", "Вие ви виждате това съобщение защото в момента сте се вписали като главен администратор");
+define("LAN_LOGIN_33", "[Return to the homepage]");
+define("LAN_LOGIN_34", "Регистрацията и вписването не са активни");
+define("LAN_LOGIN_35", "[Enable it]");
 
 
 ?>

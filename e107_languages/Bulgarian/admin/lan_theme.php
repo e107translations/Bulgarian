@@ -76,8 +76,8 @@ define("TPVLAN_69", "Достъпна за изтегляне");
 define("TPVLAN_70", "Работещо демо:");
 define("TPVLAN_71", "Неопределено");
 define("TPVLAN_72", "Set pages which should automatically use this layout. One per line.");
-define("TPVLAN_73", "Activate Menus");
-define("TPVLAN_74", "Activates the following:");
+define("TPVLAN_73", "Активиране на менюта");
+define("TPVLAN_74", "Активира следното:");
 define("TPVLAN_75", "Цена");
 define("TPVLAN_76", "Безплатна");
 define("TPVLAN_77", "Препоръчан");
@@ -91,8 +91,8 @@ define("TPVLAN_CONV_4", "If you have a language file, enter the LAN_XXX value fo
 define("TPVLAN_CONV_5", "The version of your theme. Format: x.x");
 define("TPVLAN_CONV_6", "Creation date of your theme");
 define("TPVLAN_CONV_7", "Compatible with this version of e107");
-define("TPVLAN_CONV_8", "Author Name");
-define("TPVLAN_CONV_9", "Author Website Url");
+define("TPVLAN_CONV_8", "Автор");
+define("TPVLAN_CONV_9", "Сайт на автора");
 define("TPVLAN_CONV_10", "A short one-line description of the plugin. (!@#$%^&* characters not permitted)(Must be written in English)");
 define("TPVLAN_CONV_11", "Keyword/Tag for this theme (Must be written in English)");
 define("TPVLAN_CONV_12", "A full description of the theme (Must be written in English)");
@@ -110,6 +110,8 @@ define("TPVLAN_88", "Converter");
 define("TPVLAN_89", "Apply dashboard preferences to all administrators");
 define("TPVLAN_91", "Създаване на нов дизайн базиран на");
 define("TPVLAN_92", "Папка на новия дизайн");
+define("TPVLAN_93", "Избор");
+define("TPVLAN_94", "Дизайна на сайта е сменен на [x].");
 
 
 ?>

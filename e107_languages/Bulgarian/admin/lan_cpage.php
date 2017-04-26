@@ -9,6 +9,11 @@
  * Language File
  *
 */
+define("CUSLAN_1", "Преглед");
+define("CUSLAN_2", "Заглавие на страницата");
+define("CUSLAN_3", "Брой на страница");
+define("CUSLAN_4", "Персонализирани полета");
+define("CUSLAN_5", "(Нова категория)");
 define("CUSLAN_9", "Текст");
 define("CUSLAN_11", "Мета описание");
 define("CUSLAN_12", "Създаване");

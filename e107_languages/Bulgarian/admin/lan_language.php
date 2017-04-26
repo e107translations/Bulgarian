@@ -63,6 +63,8 @@ define("LANG_LAN_144", "Трябва да се активира отново");
 define("LANG_LAN_148", "Нормален режим");
 define("LANG_LAN_149", "Стойност");
 define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]");
+define("LANG_LAN_151", "Достъпни");
+define("LANG_LAN_152", "С любезното съдействие на [e107 translations team]");
 
 
 ?>
