@@ -258,6 +258,8 @@ define("LAN_MAILOUT_266", "Max Active");
 define("LAN_MAILOUT_267", "Generate Public/Private keys");
 define("LAN_MAILOUT_268", "Developer Mode Only");
 define("LAN_MAILOUT_269", "Изпратете по-късно");
+define("LAN_MAILOUT_270", "Тестване на SMTP връзката");
+define("LAN_MAILOUT_271", "Удостоверяването не бе успешно с потребителско име ([x]) и парола ([y]):");
 
 
 ?>

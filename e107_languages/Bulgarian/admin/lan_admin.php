@@ -124,6 +124,9 @@ define("ADLAN_170", "Тези статистики са само за демон
 define("ADLAN_171", "Инсталирайте модул статистика");
 define("ADLAN_185", "Превключване на странична лента");
 define("ADLAN_186", "Следните стари файлове могат безопасно да бъдат изтрити от системата ви:");
+define("ADLAN_187", "Не може да се създаде [x]. Моля, проверете правата на папките си.");
+define("ADLAN_188", "Настройката ви за часова зона [x] е невалидна. Върната е на UTC. За да промените, моля, отворете Админ -> Настройки -> Настройки на час и дата");
+define("ADLAN_189", "Следните модули не са съвместими с тази версия на e107 и трябва да бъдат деинсталирани:");
 define("ADLAN_CL_2", "Потребители");
 define("ADLAN_CL_3", "Съдържание");
 define("ADLAN_CL_4", "Запетаи");
@@ -222,6 +225,7 @@ define("LAN_OPTIONAL", "незадължителен");
 define("LAN_INACTIVE", "неактивен");
 define("LAN_ACTIVATE", "Активиране");
 define("LAN_ACCEPT", "Приети");
+define("LAN_PASSWORD_WARNING", "Препоръчително е да  [change your password encoding] на PHP по подразбиране. (Паролите за хеш ще бъдат автоматично надстроени при влизане в системата.)");
 define("LAN_PENDING", "Чакащи");
 define("LAN_SUBMITTED", "Добавени");
 define("LAN_POSTED_BY_X", "Публикувано от [x] [y]");
@@ -366,6 +370,7 @@ define("LAN_PERSONALIZE", "Персонализирай");
 define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "Настройките не са записани защото не са направени никакви промени.");
 define("LAN_DASHBOARD_LAYOUT", "Оформлението на табло за управление");
 define("LAN_UNAVAILABLE", "Не е на разположение");
+define("LAN_UNINSTALL", "Деинсталиране");
 define("LAN_NO_LABEL_PROVIDED", "Няма заглавие");
 define("LAN_NOT_FOUND", "Не е намерено");
 define("LAN_FIELD", "Поле");
@@ -380,7 +385,7 @@ define("LAN_SYSTEM_USER", "Системен потребител");
 define("LAN_ENGINE", "Машина");
 define("LAN_SOURCE", "Източник");
 define("LAN_ERROR_CONNECTION", "Не може да се свърже за актуализация. Моля, проверете Вашата защитна стена и/или Вашата интернет връзка.");
-define("LAN_UI_X_CANT_EQUAL_Y", "[x] не може да бъде същото като [y]	");
+define("LAN_UI_X_CANT_EQUAL_Y", "[x] не може да бъде същото като [y]");
 
 
 ?>
