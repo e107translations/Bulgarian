@@ -27,7 +27,7 @@ define("LAN_EURL_FORM_HELP_DEFAULT", "Псевдоним, когато е в е�
 define("LAN_EURL_FORM_HELP_ALIAS_0", "Стойност по подразбиране е");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Псевдоним, когато е в");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Базов URL:");
-define("LAN_EURL_ERR_ALIAS_MODULE", "Alias "%1\$s" can't be saved - there is a system URL profile with the same name. Please choose another alias value for system URL profile "%2\$s"");
+define("LAN_EURL_ERR_ALIAS_MODULE", "Alias \"%1\$s\" can't be saved - there is a system URL profile with the same name. Please choose another alias value for system URL profile \"%2\$s\"");
 define("LAN_EURL_SURL_UPD", "  SEF URL адреси бяха актуализирани.");
 define("LAN_EURL_SURL_NUPD", "  SEF URL адреси не са били актуализирани.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Премахнете името на файла от URL-то");
