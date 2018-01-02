@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -263,6 +263,6 @@ define("LAN_INSTALL_SUCCESSFUL", "Инсталацията завърши усп
 define("LAN_INSTALL_FAIL", "Инсталацията не беше успешна");
 define("LAN_UNINSTALL_FAIL", "Unable to uninstall!");
 define("LAN_PLUGIN_IS_USED", "[x] plugin is used by:");
-
-
-?>
+define("EPL_ADLAN_254", "Това ще провери езиковите файлове на модула Ви за грешки и общи или дублиращи се дефиниции на LAN.");
+define("EPL_ADLAN_255", "Презаписване на файловете");
+define("EPL_ADLAN_256", "Пропуснати [x] (вече съществуват)");

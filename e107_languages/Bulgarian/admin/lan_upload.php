@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -36,7 +36,7 @@ define("UPLAN_IS", "е");
 define("UPLAN_ARE", "са");
 define("UPLAN_COPYTODLS", "Копиране във Файлове");
 define("UPLLAN_51", "Списък файлове");
-define("UPLLAN_52", "Тази страница ви помага при създаване на файл за управление на разрешения за качване на файлове. Файлът се записва като --SOURCE-- и трябва да се копира в --DEST-- преди влизането му в сила.");
+define("UPLLAN_52", "Тази страница ви помага при създаване на файл за управление на разрешения за качване на файлове. Файлът се записва като [x] и трябва да се копира в [y] преди влизането му в сила.");
 define("UPLLAN_54", "Файлови разширения");
 define("UPLLAN_55", "Максимален размер за качване");
 define("UPLLAN_56", "Генерирай файл");
@@ -51,6 +51,3 @@ define("UPLLAN_66", "Грешка в пътя за изтегляне");
 define("UPLLAN_68", "SQL грешка:");
 define("UPLLAN_69", "Импортирани");
 define("UPLLAN_70", "Изпратени в [x]");
-
-
-?>

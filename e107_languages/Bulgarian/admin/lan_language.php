@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -65,6 +65,4 @@ define("LANG_LAN_149", "Стойност");
 define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]");
 define("LANG_LAN_151", "Достъпни");
 define("LANG_LAN_152", "С любезното съдействие на [e107 translations team]");
-
-
-?>
+define("LANG_LAN_153", "Предварителна версия");

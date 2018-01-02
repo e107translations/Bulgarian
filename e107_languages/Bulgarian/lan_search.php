@@ -2,14 +2,13 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
  * Language File
  *
 */
-
 define("PAGE_NAME", "Търсене");
 define("LAN_140", "Потребители");
 define("LAN_192", "Всички категории");
@@ -21,7 +20,7 @@ define("LAN_197", "Файлове");
 define("LAN_198", "Няма резултати, задоволяващи търсенето");
 define("LAN_199", "Търси за:");
 define("LAN_416", "Трябва да влезе в профила си, за да имате достъп до тази страница");
-define("LAN_417", "Ключовите думи за търсене трябва да са най-малко 3 символа.");
+define("LAN_417", "Ключовите думи за търсене трябва да са най-малко [x] символа.");
 define("LAN_418", "Страници");
 define("LAN_SEARCH_1", "Избери Всичко");
 define("LAN_SEARCH_2", "Откажи всичко");
@@ -100,6 +99,3 @@ define("LAN_SEARCH_77", "Публикувано на профил страниц
 define("LAN_SEARCH_98", "Новини");
 define("LAN_SEARCH_201", "Моля предефинирайте заявката си за търсене");
 define("LAN_SEARCH_202", "Разширени режим на търсене");
-
-
-?>

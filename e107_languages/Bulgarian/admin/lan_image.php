@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -183,6 +183,5 @@ define("IMALAN_178", "Папка за аватари (избор от потре
 define("IMALAN_179", "Папка за аватари (частна)");
 define("IMALAN_180", "Файлове с големина 0 байта са намерени в:");
 define("IMALAN_181", "Моля премахнете ги преди да продължите.");
-
-
-?>
+define("IMALAN_182", "Конвертиране в jpeg формат при импортирането");
+define("IMALAN_183", "PNG и GIF файловете автоматично ще се конвертират в jpeg формат (без иконите)");

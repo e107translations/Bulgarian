@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -51,10 +51,10 @@ define("BANLAN_44", "Използване на дата/час на изтича
 define("BANLAN_45", "Импортиране");
 define("BANLAN_46", "Файл за импортиране:");
 define("BANLAN_47", "Грешка при прочитането на файла");
-define("BANLAN_48", "Изтрити са --NUM-- записи с изтекъл срок за блокиране");
+define("BANLAN_48", "Изтрити са [y] записи с изтекъл срок за блокиране");
 define("BANLAN_49", "CSV импортиране: Не балансирани кавички във файла");
 define("BANLAN_50", "CSV импортиране: Грешка при записване на блокиран запис на ред");
-define("BANLAN_51", "CSV импортиране: Успешно, --NUM-- записана са импортирани от файла");
+define("BANLAN_51", "CSV импортиране: Успешно,[y] записана са импортирани от файла");
 define("BANLAN_52", "Позволени");
 define("BANLAN_53", "Добавяне към позволени");
 define("BANLAN_54", "Няма записи в позволени");
@@ -89,13 +89,12 @@ define("BANLAN_83", "Дата/Час");
 define("BANLAN_84", "ИП Адрес");
 define("BANLAN_85", "Допълнителна информация");
 define("BANLAN_86", "Задачи свързани с блокирането");
-define("BANLAN_87", "Общо --NUM-- записа в списъка");
+define("BANLAN_87", "Общо [y] записа в списъка");
 define("BANLAN_88", "Изчисти Лога на действия по блокирания");
 define("BANLAN_89", "Лог файлът е изтрит");
 define("BANLAN_90", "Грешка при изтриване на лог файла");
 define("BANLAN_91", "Формат за Дата/Час в Лога за блокировки");
 define("BANLAN_92", "Погледни strftime функцията на страницата на php.net");
-define("BANLAN_93", "");
 define("BANLAN_100", "Непознат");
 define("BANLAN_101", "Ръчно");
 define("BANLAN_102", "Много заявки за кратко време");
@@ -123,6 +122,3 @@ define("BANLAN_123", "Добави в Черен списък");
 define("BANLAN_124", "Изтича");
 define("BANLAN_125", "Използвай моето IP");
 define("BANLAN_126", "IP / Имейл адрес");
-
-
-?>

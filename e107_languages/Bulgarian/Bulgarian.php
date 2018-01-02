@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -119,6 +119,7 @@ define("LAN_RE_ORDER", "Подреди отново");
 define("LAN_RELATED", "Свързани");
 define("LAN_CLOSE", "Затворете");
 define("LAN_EXPAND", "Разгънете");
+define("LAN_LIST", "Списък");
 define("LAN_ENTER_USRNAME_EMAIL", "Моля, въведете потребителско име или имейл адрес");
 define("LAN_PWD_REQUIRED", "Паролата е задължителна");
 define("LAN_SHOW", "Покажи");
@@ -127,6 +128,3 @@ define("LAN_SUMMARY", "Обобщение");
 define("LAN_REQUIRED_BLANK", "Не е попълнено задължително поле");
 define("LAN_PLEASEWAIT", "Моля изчакайте");
 define("LAN_CHOOSE_FILE", "Изберете файл");
-
-
-?>

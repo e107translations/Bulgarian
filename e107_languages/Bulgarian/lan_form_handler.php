@@ -1,13 +1,13 @@
 <?php
 /*
-+---------------------------------------------------------------+
-|        e107 website content management system Bulgarian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/30 16:46:18
-|
-|        $Author: veskoto $
-+---------------------------------------------------------------+
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
 define("LAN_EFORM_001", "Кликнете върху аватара за да го промените");
 define("LAN_EFORM_002", "Изберете аватар");

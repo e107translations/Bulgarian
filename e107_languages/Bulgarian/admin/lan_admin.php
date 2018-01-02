@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -267,7 +267,6 @@ define("LAN_MENULAYOUT", "Позиции на менютата");
 define("LAN_MEDIAMANAGER", "Медия");
 define("LAN_MOREINFO", "Още информация");
 define("LAN_COMMENTMAN", "Коментари");
-define("LAN_LIST", "Списък");
 define("LAN_FILTER", "Филтър");
 define("LAN_STATUS", "Статус");
 define("LAN_URL", "URL");
@@ -386,6 +385,6 @@ define("LAN_ENGINE", "Машина");
 define("LAN_SOURCE", "Източник");
 define("LAN_ERROR_CONNECTION", "Не може да се свърже за актуализация. Моля, проверете Вашата защитна стена и/или Вашата интернет връзка.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] не може да бъде същото като [y]");
-
-
-?>
+define("LAN_UI_VIEW_GRID_LABEL", "Грид");
+define("LAN_UI_VIEW_LIST_LABEL", "Списък");
+define("LAN_CHECKING_FOR_UPDATES", "Проверка за обновяване");

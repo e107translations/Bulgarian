@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -112,6 +112,4 @@ define("TPVLAN_91", "Създаване на нов дизайн базиран 
 define("TPVLAN_92", "Папка на новия дизайн");
 define("TPVLAN_93", "Избор");
 define("TPVLAN_94", "Дизайна на сайта е сменен на [x].");
-
-
-?>
+define("TPVLAN_95", "Дизайн");

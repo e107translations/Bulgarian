@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -18,9 +18,7 @@ define("LAN_FORUM_MENU_006", "Брой знаци за показване?");
 define("LAN_FORUM_MENU_007", "Постфикс за прекалено дълги постове?");
 define("LAN_FORUM_MENU_008", "Покажи името на темата в менюто?");
 define("LAN_FORUM_MENU_009", "Обновяване");
-define("LAN_FORUM_MENU_0010", "Конфигурацията на меню последни форум постове");
-define("LAN_FORUM_MENU_0012", "Максимална възраст на показваните съобщения");
-define("LAN_FORUM_MENU_0013", "Използвайте нула на сайтове с малка натовареност; задаване на стойност в дни ще се намали времето за реакция на база данни при сайтове с висока натовареност");
-
-
-?>
+define("LAN_FORUM_MENU_012", "Максимална възраст на показваните публикации");
+define("LAN_FORUM_MENU_013", "Използвайте нула в тих район; задаването на стойност в дни ще намали времето за зареждане на базата данни (за натоварен сайт)");
+define("LAN_FORUM_MENU_014", "Скрул (в пиксели)");
+define("LAN_FORUM_MENU_015", "Оставете празно за да няма скрул");

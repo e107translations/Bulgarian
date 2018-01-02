@@ -2,14 +2,17 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
  * Language File
  *
 */
+
+//define("ADLAN_PM", "Private Messenger");
 define("ADLAN_PM_1", "To activate please go to your menus screen and select the private_msg into one of your menu areas. <br /><br />If you need to convert messages from a previous version, please go to the main config page for this plugin and select the 'convert' link.");
+//define("ADLAN_PM_2", "Configure Private Messenger");
 define("ADLAN_PM_3", "PM settings not found, default values set");
 define("ADLAN_PM_4", "Options Updated");
 define("ADLAN_PM_5", "Limit for selected userclass already exists");
@@ -39,41 +42,54 @@ define("ADLAN_PM_28", "Maximum attachment size");
 define("ADLAN_PM_29", "Allow sending to all members");
 define("ADLAN_PM_30", "Userclass which may send to more than one user at a time");
 define("ADLAN_PM_31", "Userclass which may to send to entire userclasses");
+//define("ADLAN_PM_32", "Update Settings");
 define("ADLAN_PM_33", "Inactive (no limits)");
 define("ADLAN_PM_34", "PM counts");
 define("ADLAN_PM_35", "PM box sizes");
+// define("ADLAN_PM_36", "Userclass");
 define("ADLAN_PM_37", "Count limits");
 define("ADLAN_PM_38", "Size limits (in KB)");
+// define("ADLAN_PM_39", "Inbox");
+// define("ADLAN_PM_40", "Outbox");
 define("ADLAN_PM_41", "There are currently no limits set.");
+//define("ADLAN_PM_42", "Update Limits");
+//define("ADLAN_PM_43", "Add New Limit");
 define("ADLAN_PM_44", "seconds");
-define("ADLAN_PM_45", "Limit PM By:");
+define("ADLAN_PM_45", "Limit PM By: ");
+
 define("ADLAN_PM_54", "Main settings");
 define("ADLAN_PM_55", "Limits");
+
+//define("ADLAN_PM_57", "This plugin is a fully featured Private Messaging system.");
+// define("ADLAN_PM_58", "Private Messenger");
 define("ADLAN_PM_59", "Maintenance");
 define("ADLAN_PM_60", "PM Maintenance");
+//define("ADLAN_PM_61", "Execute");
 define("ADLAN_PM_62", "These options remove transactions concerned with deleted users from the PM database tables");
 define("ADLAN_PM_63", "Messages sent");
 define("ADLAN_PM_64", "Messages received");
 define("ADLAN_PM_65", "User blocks");
 define("ADLAN_PM_66", "No maintenance tasks specified");
 define("ADLAN_PM_67", "PM DB maintenance started");
-define("ADLAN_PM_68", "--COUNT-- blocks to deleted users removed");
-define("ADLAN_PM_69", "--COUNT-- blocks from deleted users removed");
-define("ADLAN_PM_70", "Database error --NUM--: --TEXT-- removing user blocks");
+define("ADLAN_PM_68", "[x] blocks to deleted users removed");
+define("ADLAN_PM_69", "[x] blocks from deleted users removed");
+define("ADLAN_PM_70", "Database error [y]: [z] removing user blocks");
 define("ADLAN_PM_71", "Time-expired messages");
 define("ADLAN_PM_72", "No PM timeouts set");
-define("ADLAN_PM_73", "--COUNT-- time-expired PMs deleted");
-define("ADLAN_PM_74", "Removed --COUNT-- messages sent by deleted users");
-define("ADLAN_PM_75", "Removed --COUNT-- messages received by deleted users");
+define("ADLAN_PM_73", "[x] time-expired PMs deleted");
+define("ADLAN_PM_74", "Removed [x] messages sent by deleted users");
+define("ADLAN_PM_75", "Removed [x] messages received by deleted users");
+//define("ADLAN_PM_76", "No changes made - nothing logged");
 define("ADLAN_PM_77", "(Empty all fields and Update to delete a limit)");
 define("ADLAN_PM_78", "Check attachments");
-define("ADLAN_PM_79", "--ORPHANS-- unused attachments deleted. --MISSING-- missing attachments noted");
+define("ADLAN_PM_79", "[x] unused attachments deleted. [y] missing attachments noted");
 define("ADLAN_PM_80", "Preference formats updated");
 define("ADLAN_PM_81", "Maximum number of PMs to send immediately");
 define("ADLAN_PM_82", "If sending more than this, they are added to a queue and sent out using the cron task");
 define("ADLAN_PM_83", "Users may only send messages to users in this class");
 define("ADLAN_PM_84", "Maximum message length");
 define("ADLAN_PM_85", "0 = unlimited");
+
 define("ADLAN_PM_86", "VIP Class");
 define("ADLAN_PM_87", "Users in this class can only receive messages from others in this class. Overrides the above preference.");
 define("ADLAN_PM_88", "User may send PMs to");
@@ -82,6 +98,3 @@ define("ADLAN_PM_90", "Please enter a recipient in the 'To' field.");
 define("ADLAN_PM_91", "Test");
 define("ADLAN_PM_92", "Test Email Sent!");
 define("ADLAN_PM_93", "Test Email Failed!");
-
-
-?>

@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria e107.bg
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -40,8 +40,8 @@ define("LAN_CONVERT_30", "Import routine Information");
 define("LAN_CONVERT_31", "CSV data file does not exist, or invalid permissions");
 define("LAN_CONVERT_32", "Error reading CSV data file");
 define("LAN_CONVERT_33", "Error in CSV data line");
-define("LAN_CONVERT_34", "Error: --ERRNUM-- while writing to user database, line");
-define("LAN_CONVERT_35", "CSV import completed. --LINES-- read, --USERS-- users added, --ERRORS-- errors");
+define("LAN_CONVERT_34", "Error: [x] while writing to user database, line");
+define("LAN_CONVERT_35", "CSV import completed. [x] read, [y] users added, [z] errors	CSV import completed. --LINES-- read, --USERS-- users added, --ERRORS-- errors");
 define("LAN_CONVERT_36", "Filename for CSV data");
 define("LAN_CONVERT_37", "Invalid format specification for import type");
 define("LAN_CONVERT_38", "Delete existing data");
@@ -52,8 +52,8 @@ define("LAN_CONVERT_42", "Error in definition file - required class does not exi
 define("LAN_CONVERT_43", "Error connecting to source database");
 define("LAN_CONVERT_44", "Query setup error for");
 define("LAN_CONVERT_45", "Cannot read import code file");
-define("LAN_CONVERT_46", "Error: --ERRNUM-- while writing to --DB-- database, line");
-define("LAN_CONVERT_47", "Batch --BLOCK-- import completed. --LINES-- read, --USERS-- added, --ERRORS-- errors");
+define("LAN_CONVERT_46", "Error: [x] while writing to [y] database, line");
+define("LAN_CONVERT_47", "Batch [w] import completed. [x] read, [y] added, [z] errors	Batch --BLOCK-- import completed. --LINES-- read, --USERS-- added, --ERRORS-- errors");
 define("LAN_CONVERT_48", "Forum posts");
 define("LAN_CONVERT_49", "Drupal");
 define("LAN_CONVERT_50", "Basic import");
@@ -66,7 +66,7 @@ define("LAN_CONVERT_56", "Drupal Base Path");
 define("LAN_CONVERT_57", "No error");
 define("LAN_CONVERT_58", "Can\'t change main admin data");
 define("LAN_CONVERT_59", "invalid field passed");
-define("LAN_CONVERT_60", "Mandatory field not set	");
+define("LAN_CONVERT_60", "Mandatory field not set");
 define("LAN_CONVERT_61", "User already exists");
 define("LAN_CONVERT_62", "Invalid characters in user or login name");
 define("LAN_CONVERT_63", "Error saving extended user fields");
@@ -81,6 +81,3 @@ define("LAN_CONVERT_71", "Forum Posts");
 define("LAN_CONVERT_72", "Forum Track");
 define("LAN_CONVERT_73", "Userclasses");
 define("LAN_CONVERT_74", "News Categories");
-
-
-?>

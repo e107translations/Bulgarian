@@ -1,13 +1,13 @@
 <?php
 /*
-+---------------------------------------------------------------+
-|        e107 website content management system Bulgarian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/23 10:53:39
-|
-|        $Author: veskoto $
-+---------------------------------------------------------------+
+ * e107 website system - Bulgarian Translation
+ *
+ * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Language File
+ *
 */
 
 define("LAN_NEWS_ADMIN_00", "Последно новини");
