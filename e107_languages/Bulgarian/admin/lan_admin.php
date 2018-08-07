@@ -241,6 +241,7 @@ define("LAN_UPLOAD_CONFIRM", "Всички незаписани промени �
 define("LAN_UPLOAD_777", "Папката липсва или няма права за запис. За да продължите е необходимо да CHMOD 777 тази папка:");
 define("LAN_UPLOAD_SERVEROFF", "Тази възможност е забранена или качването на файлове на този сървър е забранено");
 define("LAN_WIDTH", "Широчина");
+define("LAN_HEIGHT","Височина");
 define("LAN_ON", "Вкл.");
 define("LAN_OFF", "Изкл.");
 define("LAN_DISABLED", "Непозволено");
@@ -388,3 +389,12 @@ define("LAN_UI_X_CANT_EQUAL_Y", "[x] не може да бъде същото к
 define("LAN_UI_VIEW_GRID_LABEL", "Грид");
 define("LAN_UI_VIEW_LIST_LABEL", "Списък");
 define("LAN_CHECKING_FOR_UPDATES", "Проверка за обновяване");
+
+define("LAN_UI_FILTER_NEXT_HOUR", "Следващ час");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "Следващите 24 часа");
+define("LAN_UI_FILTER_NEXT_WEEK", "Следващата седмица");
+define("LAN_UI_FILTER_NEXT_MONTH", "Следващият месец");
+define("LAN_UI_FILTER_NEXT_YEAR", "Следващата година");
+define("LAN_UI_FILTER_IS_EMPTY", "Е празно");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Преизчисляване броят на коментарите");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Коментарите са преизчислени успешно!");

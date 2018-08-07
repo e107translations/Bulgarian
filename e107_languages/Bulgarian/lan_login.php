@@ -44,6 +44,5 @@ define("LAN_LOGIN_32", "Вие ви виждате това съобщение �
 define("LAN_LOGIN_33", "[Return to the homepage]");
 define("LAN_LOGIN_34", "Регистрацията и вписването не са активни");
 define("LAN_LOGIN_35", "[Enable it]");
-
-
+define("LAN_LOGIN_36", "Имейлите до [x] се връщат обратно. Моля, проверете дали [вашият имейл адрес е правилен].");// the [ ] brackets are replaced with a button link to usersettings.php
 ?>

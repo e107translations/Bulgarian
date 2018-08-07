@@ -103,6 +103,7 @@ define("LAN_FILES", "Файлове");
 define("LAN_SIZE", "Размер");
 define("LAN_VERSION", "Версия");
 define("LAN_DOWNLOAD", "Изтегли");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Файлът не е намерен или нямате права за неговото изтегляне!");
 define("LAN_WEBSITE", "Уебсайт");
 define("LAN_COMMENTS", "Коментари");
 define("LAN_LOCATION", "Местоположение");
