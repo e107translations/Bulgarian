@@ -28,7 +28,7 @@ define("LANDT_08s", "мин");
 define("LANDT_09", "сек");
 define("LANDT_09s", "сек");
 define("LANDT_AGO", "по-рано");
+define("LANDT_IN", "в");
 define("LANDT_10", "Току що");
-
-
-?>
+define("LANDT_XAGO", "преди [x]");
+define("LANDT_INX", "в [x]");

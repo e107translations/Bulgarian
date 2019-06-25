@@ -13,6 +13,7 @@ define("LAN_DL_OPTIONS", "Настройки");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Главни");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Докладване");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Споразумения");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Защита");
 define("LAN_DL_UPLOAD", "Качване");
 define("LAN_DL_USE_PHP", "Използвай PHP");
 define("LAN_DL_USE_PHP_INFO", "Ако отметнете това, ще пренасочите всички искания за изтегляне да се контролират от PHP");
@@ -146,6 +147,15 @@ define("DOWLAN_HELP_7", "Помощ за mirror");
 define("DOWLAN_HELP_8", "Помощ за списък качени");
 define("DOWLAN_HELP_9", "Помощ за типове качени");
 define("DOWLAN_HELP_10", "Помощ за настройки качени");
+define("LAN_DL_SECURITY_DESCRIPTION", "Файловете за изтегляне могат да използват функции за защита на URL адреси от страна на сървъра, за да се предотврати връзката между връзките и / или изтичането на връзката. "." Този раздел трябва да бъде конфигуриран, преди сървърът за изтегляне да е конфигуриран да намалява вероятността от прекъсване на изтеглянето.");
+define("LAN_DL_SECURITY_MODE", "Защита на URL");
+define("LAN_DL_SECURITY_MODE_NONE", "Никаква");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5	");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Кликнете, за да превключите списък на поддържаните променливи NGINX");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Същият израз, както е конфигуриран на сървъра");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Продължителност на валидността в секунди");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Брой секунди връзката за изтегляне трябва да продължи след генерирането. "." Ефективен само ако изразът поддържа времето на изтичане. "." По подразбиране е много дълго време, ако това поле е оставено празно.");
 
 
 ?>

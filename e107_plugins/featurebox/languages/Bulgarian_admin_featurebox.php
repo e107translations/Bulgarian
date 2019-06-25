@@ -25,6 +25,9 @@ define("FBLAN_30", "Темплейт на категорията");
 define("FBLAN_31", "Разбъркано показване");
 define("FBLAN_32", "Параметри (по избор)");
 define("FBLAN_33", "Optional Javascript Parameters (format subject to change)");
+define("FBLAN_34", "Неопределен");
+define("FBLAN_35", "Въртележка");
+define("FBLAN_36", "Табове");
 
 
 ?>

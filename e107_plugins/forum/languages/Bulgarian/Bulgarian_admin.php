@@ -126,6 +126,12 @@ define("FORLAN_213", "Пост");
 define("FORLAN_214", "Оставете празно, за да го генерира автоматично от заглавието по-горе.");
 define("FORLAN_215", "Не е инсталиран!");
 define("FORLAN_216", "(Нова главна директория)");
+define("FORLAN_217", "System default");
+define("FORLAN_218", "Текстов блок");
+define("FORLAN_219", "Rich Text Editor");
+define("FORLAN_220", "Post editor");
+define("FORLAN_221", "Which editor should be used to create/edit posts?");
+define("FORLAN_222", "Quick reply editor");
 
 
 ?>
