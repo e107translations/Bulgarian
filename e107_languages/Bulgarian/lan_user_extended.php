@@ -19,6 +19,7 @@ define("UE_LAN_8", "Език");
 define("UE_LAN_9", "Име");
 define("UE_LAN_10", "Тип");
 define("UE_LAN_13", "Държава");
+define("UE_LAN_14", "Текстова област (WYSIWYG)");
 define("UE_LAN_21", "Име");
 define("UE_LAN_22", "Тип");
 define("UE_LAN_23", "Използвай");
@@ -52,6 +53,3 @@ define("UE_LAN_MALE", "Мъж");
 define("UE_LAN_FEMALE", "Жена");
 define("UE_LAN_COMMENT", "Коментари");
 define("UE_LAN_COMMENT_DESC", "Бокс коментари");
-
-
-?>

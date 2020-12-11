@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Language name="Bulgarian" compatibility="2.2.1" date="2019-06-25" >
-  <author name ="Veselin Totev" email="v.totev@corllete.com" url="http://corllete.com" />
+<e107Language name="Bulgarian" compatibility="2.3.0" date="2020-12-11" >
+  <author name ="Veselin Totev" email="v.totev@corllete.com" url="https://corllete.com" />
 </e107Language>

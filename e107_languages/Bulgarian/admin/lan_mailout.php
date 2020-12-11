@@ -241,6 +241,7 @@ define("LAN_MAILOUT_254", "Виж шаблонни имейли");
 define("LAN_MAILOUT_255", "Шаблонен имейл, ID:");
 define("LAN_MAILOUT_256", "Обратно");
 define("LAN_MAILOUT_257", "Генерирани шаблони");
+define("LAN_MAILOUT_259", "В „Предпочитания“ не са избрани „източници на имейл адреси“");
 define("LAN_SEND", "Изпрати");
 define("LAN_HOLD", "Задръж");
 define("LAN_MAILOUT_260", "Потребителски тип");

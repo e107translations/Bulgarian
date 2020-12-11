@@ -92,8 +92,8 @@ define("EXTLAN_81", "Добавяне на потребителско поле")
 define("EXTLAN_82", "Стойности");
 define("EXTLAN_83", "Placeholder");
 define("EXTLAN_84", "Подсказка");
-define("EXTLAN_86", "User Extended Column deleted from table");
-define("EXTLAN_87", "Sort values");
+define("EXTLAN_86", "Потребителската разширена колона е изтрита от таблицата");
+define("EXTLAN_87", "Сортирай стойности");
 define("EXTLAN_HELP_1", "<b><i>Параметри:</i></b><br />size - размери на полето<br />maxlength - максимална дължина на полето<br /><br />class - css клас за полето<br />style - css стил<br /><br />regex - regex валидационен код<br />regexfail - текст за грешка при валидиране");
 define("EXTLAN_HELP_2", "Въведете текст за опции в полето 'стойност' - една кутия за всеки избор. Добавете на нова клетка, ако е необходимо.");
 define("EXTLAN_HELP_3", "Въведете текст за опции в полето 'стойност' - една кутия за всеки избор. Добавете на нова клетка, ако е необходимо.");

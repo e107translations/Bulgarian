@@ -30,7 +30,7 @@ define("LANCONTACT_17", "Моля, попълнете Вашето име.");
 define("LANCONTACT_18", "Моля, попълнете Вашият имейл адрес.");
 define("LANCONTACT_19", "Моля, попълнете теме за имейла.");
 define("LANCONTACT_20", "Моля, попълнете Вашето съобщение.");
-define("LANCONTACT_21", "I consent to having this website store my submitted information so they can respond to my inquiry");
+define("LANCONTACT_21", "Съгласен съм този уебсайт да съхранява предоставената от мен информация, така че да може да отговори на моето запитване");
 define("LANCONTACT_22", "Политика за поверителност");
 define("LANCONTACT_23", "Можете да намерите нашата политика за поверителност тук: [x]");
 define("LANCONTACT_24", "GDPR съгласие");
