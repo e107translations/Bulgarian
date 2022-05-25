@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -111,7 +111,7 @@ define("LAN_SIGNUP_118", "До [x]");
 define("LAN_SIGNUP_119", "Не изпращай имейл");
 define("LAN_SIGNUP_120", "ИЛИ");
 define("LAN_SIGNUP_121", "Използвайте различен имейл адрес");
-define("LAN_SIGNUP_122", "Декларация за поверителност
-");
+define("LAN_SIGNUP_122", "Политика на поверителност");
 define("LAN_SIGNUP_123", "Условия за ползване");
-define("LAN_SIGNUP_124", "С регистрацията си приемате нашите [x] и [y].");
+define("LAN_SIGNUP_124", "С регистрацията вие се съгласяване с нашите [x] и нашите [y].");
+define("LAN_SIGNUP_125", "Мин. [x] символа.");

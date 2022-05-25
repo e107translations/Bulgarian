@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -68,9 +68,9 @@ define("LANHELP_56", "Добавяне на таблица");
 define("LANHELP_57", "Заглавие");
 define("LANHELP_58", "Блок");
 define("LANHELP_59", "Цитат");
-define("LANHELP_60", "Блок с код");
-define("LANHELP_61", "Код в редица");
+define("LANHELP_60", "Блок съдържащ код");
+define("LANHELP_61", "Вмъкнат код");
 define("LANHELP_62", "Параграф");
-define("LANHELP_63", "Поставете изображение от управление на медия");
-define("LANHELP_64", "Поставете файл от управление на медия");
-define("LANHELP_65", "Големина");
+define("LANHELP_63", "Вмъкни изображение от Медиа");
+define("LANHELP_64", "Вмъкни файл от Медиа");
+define("LANHELP_65", "Размер");

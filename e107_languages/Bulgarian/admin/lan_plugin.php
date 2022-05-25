@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -232,6 +232,8 @@ define("EPL_ADLAN_229", "Опресни");
 define("EPL_ADLAN_230", "Downloading and Installing:");
 define("EPL_ADLAN_231", "Remove icons from Media-Manager");
 define("EPL_ADLAN_232", "Create Files");
+define("TPVLAN_81", "Downloading...");
+define("TPVLAN_82", "Download Complete!");
 define("EPL_ADLAN_233", "Adding Link:");
 define("EPL_ADLAN_234", "Removing Link:");
 define("EPL_ADLAN_235", "Automated download not possible.");
@@ -265,3 +267,6 @@ define("EPL_ADLAN_254", "Това ще провери езиковите фай�
 define("EPL_ADLAN_255", "Презаписване на файловете");
 define("EPL_ADLAN_256", "Пропуснати [x] (вече съществуват)");
 define("EPL_ADLAN_257", "Само за четене");
+
+
+?>

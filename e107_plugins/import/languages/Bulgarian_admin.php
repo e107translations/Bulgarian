@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -81,3 +81,6 @@ define("LAN_CONVERT_71", "Forum Posts");
 define("LAN_CONVERT_72", "Forum Track");
 define("LAN_CONVERT_73", "Userclasses");
 define("LAN_CONVERT_74", "News Categories");
+
+
+?>

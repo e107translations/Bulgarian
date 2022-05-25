@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -44,5 +44,5 @@ define("LAN_LOGIN_32", "Вие ви виждате това съобщение �
 define("LAN_LOGIN_33", "[Return to the homepage]");
 define("LAN_LOGIN_34", "Регистрацията и вписването не са активни");
 define("LAN_LOGIN_35", "[Enable it]");
-define("LAN_LOGIN_36", "Имейлите до [x] се връщат обратно. Моля, проверете дали [вашият имейл адрес е правилен].");
-define("LAN_LOGIN_37", "Вашият профил все още не е активиран от администратор на сайта.");
+define("LAN_LOGIN_36", "Емейлите до [x] са върнати обратно. Моля, [проверете, че вашият имейл адрес е правилен].");
+define("LAN_LOGIN_37", "Вашият акаунт все още не е активиран от администратор на сайта.");

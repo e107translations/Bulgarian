@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -81,8 +81,6 @@ define("LAN_435", "XML User Protocol файл");
 define("LAN_CUSTOMTITLE", "Име");
 define("LAN_USET_5", "Абониране за");
 define("LAN_USET_6", "Абонирайте се за нашите имейл списъци и/или секциите за този сайт.");
-
-
 define("LAN_USET_50", "Изтриване на профилът");
 define("LAN_USET_51", "Сигурни ли сте? Тази процедура не може да бъде обърната! След като приключите, профилът Ви и всички лични данни, които сте въвели на този сайт, ще бъдат загубени за постоянно и няма да можете повече да влизате в профила си.");
 define("LAN_USET_52", "Имейл за потвърждение е изпратен до [x]. Моля, кликнете върху връзката в имейла, за да изтриете окончателно профила си.");

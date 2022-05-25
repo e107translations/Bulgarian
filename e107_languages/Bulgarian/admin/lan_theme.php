@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -100,6 +100,8 @@ define("TPVLAN_CONV_13", "What category of theme is this?");
 define("TPVLAN_CONV_14", "Enable this stylesheet as a selectable option in the Theme Manager.");
 define("TPVLAN_CONV_15", "Give this stylesheet a name");
 define("TPVLAN_CONV_16", "URL демо на този дизайн.");
+define("TPVLAN_81", "Downloading...");
+define("TPVLAN_82", "Download Complete!");
 define("TPVLAN_83", "Автоматично изтегляне не е възможно!");
 define("TPVLAN_84", "[Моля, изтеглете ръчно]");
 define("TPVLAN_85", "Свързване...");
@@ -118,3 +120,5 @@ define("TPVLANHELP_03", "По подразбиране филтърът за в�
 define("TPVLANHELP_04", "Крайни редове с [b]![/b], за да съвпадат точно с края на URL адреса.");
 define("TPVLANHELP_05", "Крайни редове с [b]$[/b], за да съвпадат точно с края на пътя на скрипта.");
 define("TPVLAN_97", "Тази тема изисква по-нова версия на e107.");
+
+?>

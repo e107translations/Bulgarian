@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -126,5 +126,5 @@ define("LANINS_141", "Моля, попълнете формуляра по-до�
 define("LANINS_142", "ВАЖНО: Моля преименувайте e107.htaccess на .htaccess");
 define("LANINS_144", "ВАЖНО: Моля, копирайте съдържанието на [b]e107.htaccess[/b] във вашия [b].htaccess[/b] file. Моля, внимавайте да не презапишете всички съществуващи данни.");
 define("LANINS_145", "e107 v2.x изисква PHP версия [x] .Моля, свържете се с вашия хост или прочетете информацията в [y] преди да продължите.");
-define("LANINS_146", "Дизайн на администрация");
-define("LANINS_147", "Администрация");
+define("LANINS_146", "Изглед на зоната за администриране");
+define("LANINS_147", "Адмиистриране");

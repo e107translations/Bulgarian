@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -28,7 +28,7 @@ define("LANDT_08s", "мин");
 define("LANDT_09", "сек");
 define("LANDT_09s", "сек");
 define("LANDT_AGO", "по-рано");
-define("LANDT_IN", "в");
+define("LANDT_IN", "след");
 define("LANDT_10", "Току що");
-define("LANDT_XAGO", "преди [x]");
-define("LANDT_INX", "в [x]");
+define("LANDT_XAGO", "Преди [x]");
+define("LANDT_INX", "след [x]");

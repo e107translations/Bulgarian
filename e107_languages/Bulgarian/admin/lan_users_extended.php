@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -103,3 +103,6 @@ define("EXTLAN_HELP_6", "Позволи на потребителите да в�
 define("EXTLAN_HELP_7", "Задължава потребителя да въведе дата.");
 define("EXTLAN_HELP_8", "Позволява на потребителите да изберат от инсталираните езици.");
 define("EXTLAN_HELP_9", "Определи предварително зададен списък. Стойността в полето определя вида на списъка, по настоящем \'timezones\' е валиден запис");
+
+
+?>

@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -18,6 +18,12 @@ define("LAN_IMA_001", "Промяната не е позволена.");
 define("LAN_IMA_002", "Няма достатъчно системна памет за завъртането");
 define("LAN_IMA_003", "Завъртяно");
 define("LAN_IMA_004", "Преоразмеряване");
+define("LAN_IMA_O_001", "Изображения в новини");
+define("LAN_IMA_O_002", "Новини: [img] bbcode");
+define("LAN_IMA_O_003", "Страници: [img] bbcode");
+define("LAN_IMA_O_004", "Featurebox изображения");
+define("LAN_IMA_O_005", "Featurebox: [img] ббкод");
+define("LAN_IMA_O_006", "[img] ббкод");
 define("IMALAN_1", "Разреши показването на изображения");
 define("IMALAN_2", "Показвай изображенията, това важи и за (коментари, чатбокс и т.н.) и навсякъде където се използва [img] тага");
 define("IMALAN_3", "Метод на преоразмеряване");
@@ -69,7 +75,6 @@ define("IMALAN_66", "Име на файла");
 define("IMALAN_68", "Затвори");
 define("IMALAN_69", "Папка");
 define("IMALAN_70", "Намерена е несистемна папка!");
-define("IMALAN_72", "Икони");
 define("IMALAN_73", "Качество на миниатюрите");
 define("IMALAN_74", "Задайте тази най-ниска, колкото е възможно, преди да се загуби качеството очевидна. Максимално: 100");
 define("IMALAN_75", "Дължина на аватарите");
@@ -178,8 +183,6 @@ define("IMALAN_178", "Папка за аватари (избор от потре
 define("IMALAN_179", "Папка за аватари (частна)");
 define("IMALAN_180", "Файлове с големина 0 байта са намерени в:");
 define("IMALAN_181", "Моля премахнете ги преди да продължите.");
-define("IMALAN_182", "Конвертиране в jpeg формат при импортирането");
-define("IMALAN_183", "PNG и GIF файловете автоматично ще се конвертират в jpeg формат (без иконите)");
-define("IMALAN_184", "Стандартни размери на изображенията");
-define("IMALAN_185", "Максимална височина в пиксели");
-define("IMALAN_186", "Въведете малко текст, за да филтрирате резултатите");
+
+
+?>

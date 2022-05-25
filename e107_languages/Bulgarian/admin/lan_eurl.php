@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -62,6 +62,7 @@ define("LAN_EURL_REWRITE_LABEL", "Приятелски URL-та");
 define("LAN_EURL_REWRITE_DESCR", "Удобни за ползване URL-та.");
 define("LAN_EURL_CORE_NEWS", "Новини");
 define("LAN_EURL_NEWS_REWRITEF_LABEL", "Напълно Приятелско URL без ID (ниска производителност, още по-приятелско)");
+define("LAN_EURL_NEWS_REWRITEF_DESCR", "");
 define("LAN_EURL_NEWS_REWRITE_LABEL", "Приятелско URL без ID (ниска производителност, по-приятелско)");
 define("LAN_EURL_NEWS_REWRITE_DESCR", "Demonstrates manual link parsing and assembling.");
 define("LAN_EURL_NEWS_REWRITEX_LABEL", "Приятелско URL с ID (за производителност)");
@@ -89,3 +90,6 @@ define("LAN_EURL_REBUILD", "Възстановяване");
 define("LAN_EURL_REGULAR_EXPRESSION", "Регулярен израз");
 define("LAN_EURL_KEY", "Ключ");
 define("LAN_EURL_TABLE", "Таблица");
+
+
+?>

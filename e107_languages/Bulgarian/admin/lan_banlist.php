@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -95,6 +95,7 @@ define("BANLAN_89", "Лог файлът е изтрит");
 define("BANLAN_90", "Грешка при изтриване на лог файла");
 define("BANLAN_91", "Формат за Дата/Час в Лога за блокировки");
 define("BANLAN_92", "Погледни strftime функцията на страницата на php.net");
+define("BANLAN_93", "");
 define("BANLAN_100", "Непознат");
 define("BANLAN_101", "Ръчно");
 define("BANLAN_102", "Много заявки за кратко време");
@@ -123,3 +124,5 @@ define("BANLAN_124", "Изтича");
 define("BANLAN_125", "Използвай моето IP");
 define("BANLAN_126", "IP / Имейл адрес");
 define("BANLAN_127", "Изтриване на всички [x] грешни опити за вход от базата");
+
+?>

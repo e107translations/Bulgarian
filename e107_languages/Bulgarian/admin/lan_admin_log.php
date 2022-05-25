@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -73,6 +73,7 @@ define("RL_LAN_092", "Времеви период");
 define("RL_LAN_093", "(мин.)");
 define("RL_LAN_094", "Анализ на детайлни времена");
 define("RL_LAN_096", "Разлика (ки)");
+define("RL_LAN_098", "Източник");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Относно");
@@ -100,3 +101,6 @@ define("RL_LAN_132", "Информативен");
 define("RL_LAN_133", "Известие");
 define("RL_LAN_134", "Предупреждение");
 define("RL_LAN_135", "Фатално");
+
+
+?>

@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -42,6 +42,7 @@ define("LAN_CRON_20_3", "Препоръчително да запазите си
 define("LAN_CRON_20_4", "Актуализирайте това хранилище на Git");
 define("LAN_CRON_20_5", "Актуализирайте тази инсталация e107 с най-новите файлове от github.");
 define("LAN_CRON_20_6", "Препоръчва се само за разработчици.");
+define("LAN_CRON_20_7", "Внимание!");
 define("LAN_CRON_20_8", "Може да причини нестабилност!");
 define("LAN_CRON_30", "Всяка минута");
 define("LAN_CRON_31", "Всяка следваща минута");
@@ -74,3 +75,4 @@ define("LAN_CRON_RUNNING", "Изпълнение");
 define("LAN_CRON_65", "Актуализирайте хранилището за теми на git");
 define("LAN_CRON_66", "Не е намерен git репо");
 define("LAN_CRON_67", "Не е намерен git repo в папката с теми");
+?>

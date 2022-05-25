@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -215,12 +215,13 @@ define("LAN_ONLINE", "На линия");
 define("LAN_ORDER", "Подредба");
 define("LAN_ASC", "възх.");
 define("LAN_DESC", "низх.");
-define("LAN_SELECT", "Избор");
+define("LAN_SELECT", "Избор...");
 define("LAN_ADMIN", "Администратор");
 define("LAN_ROOT", "Root");
 define("LAN_LINE", "Линия");
 define("LAN_SHORTCODES", "Шорткодове");
 define("LAN_DISPLAYOPT", "Редакция на Настройките за показване");
+define("LAN_DATESTAMP", "Дата на печат");
 define("LAN_TIMESTAMP", "Клеймо за време");
 define("LAN_PAGE", "Страница");
 define("LAN_AGENT", "Браузър");
@@ -273,6 +274,7 @@ define("LAN_MENULAYOUT", "Позиции на менютата");
 define("LAN_MEDIAMANAGER", "Медия");
 define("LAN_MOREINFO", "Още информация");
 define("LAN_COMMENTMAN", "Коментари");
+define("LAN_LIST", "Списък");
 define("LAN_FILTER", "Филтър");
 define("LAN_STATUS", "Статус");
 define("LAN_URL", "URL");
@@ -292,6 +294,7 @@ define("LAN_COPY", "Копирай");
 define("LAN_KEYWORDS", "Ключови думи");
 define("LAN_TEMPLATE", "Шаблон");
 define("LAN_TEMPLATES", "Шаблони");
+define("LAN_CATEGORIES", "Категории");
 define("LAN_DEMO_FORBIDDEN", "Пормените на тази страница не са позволени в демо мод.");
 define("LAN_COPYRIGHT", "Права за позлване");
 define("LAN_MANAGEPERMS", "Управление на достъпа");
@@ -383,6 +386,7 @@ define("LAN_MAINTENANCE", "Поддръжка");
 define("LAN_RETURN_TO_FRONT_PANEL", "Обратно в началото");
 define("LAN_CHANGE_LANGUAGE", "Изберете език");
 define("LAN_NEWER_VERSION_OF_X", "Нова версия [x] [y] е достъпна за изтегляне.");
+define("LAN_SUBJECT", "Тема");
 define("LAN_ITEM", "Айтъм");
 define("LAN_LOCK", "Заключване");
 define("LAN_SYSTEM_USER", "Системен потребител");
@@ -413,3 +417,5 @@ define("LAN_ROBOTS_NOINDEX", "Предотвратете търсачките д
 define("LAN_ROBOTS_NOFOLLOW", "Предотвратете търсачките да следват връзки в този елемент.");
 define("LAN_ROBOTS_NOARCHIVE", "Предотвратете появяването на кеширани копия на този елемент в резултатите от търсенето.");
 define("LAN_ROBOTS_NOIMAGE", "Предотвратете търсачките да индексират изображения на този елемент.");
+
+?>

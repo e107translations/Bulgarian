@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -47,6 +47,7 @@ define("LAN_MAILOUT_36", "Изтриване на отхвърлените им�
 define("LAN_MAILOUT_37", "Продължи");
 define("LAN_MAILOUT_38", "Отказ");
 define("LAN_MAILOUT_39", "Изпращане");
+define("LAN_MAILOUT_40", "Необходимо е преименуването от <b>e107.htaccess</b> на <b>.htaccess</b> в");
 define("LAN_MAILOUT_41", "преди изпращане на имейл от тази страница.");
 define("LAN_MAILOUT_43", "Име за показване");
 define("LAN_MAILOUT_44", "Потребителско име");
@@ -185,6 +186,8 @@ define("LAN_MAILOUT_191", "Записани имейли");
 define("LAN_MAILOUT_192", "Приключени групови изпращания");
 define("LAN_MAILOUT_193", "Чакащи групови изпращания");
 define("LAN_MAILOUT_194", "Задържани групови изпращания");
+define("LAN_MAILOUT_195", "");
+define("LAN_MAILOUT_196", "");
 define("LAN_MAILOUT_200", "Не е написано Относно");
 define("LAN_MAILOUT_201", "Няма смислени данни за имейл");
 define("LAN_MAILOUT_202", "Няма текст в тялото на имейла");
@@ -194,6 +197,8 @@ define("LAN_MAILOUT_205", "Грешка във формата на имейла 
 define("LAN_MAILOUT_206", "Невалиден имейл ID ([x])");
 define("LAN_MAILOUT_207", "Грешка при зареждане на темплейта");
 define("LAN_MAILOUT_208", "Грешка при преобразуване на темплейта");
+define("LAN_MAILOUT_209", "");
+define("LAN_MAILOUT_210", "");
 define("LAN_MAILOUT_211", "Изпратени");
 define("LAN_MAILOUT_212", "Провалени");
 define("LAN_MAILOUT_213", "Отхвърлени");
@@ -256,3 +261,6 @@ define("LAN_MAILOUT_268", "Developer Mode Only");
 define("LAN_MAILOUT_269", "Изпратете по-късно");
 define("LAN_MAILOUT_270", "Тестване на SMTP връзката");
 define("LAN_MAILOUT_271", "Удостоверяването не бе успешно с потребителско име ([x]) и парола ([y]):");
+
+
+?>
