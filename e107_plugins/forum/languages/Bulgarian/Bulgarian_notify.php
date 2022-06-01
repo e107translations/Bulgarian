@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -20,6 +20,7 @@ define("LAN_FORUM_NT_14", "Форум - Публикация е създаден
 define("LAN_FORUM_NT_15", "Форум - Публикацията бе актуализирана");
 define("LAN_FORUM_NT_NEWTOPIC", "Създаден е нов топик");
 define("LAN_FORUM_NT_NEWTOPIC_PROB", "Създаден е нов топик от потребител в пробен период");
+define("LAN_FORUM_NT_TOPIC_DELETED", "Изтрит е топик");
 define("LAN_FORUM_NT_TOPIC_SPLIT", "Разделен е топик");
 define("LAN_FORUM_NT_TOPIC_UPDATED", "Топика е актуализиран");
 define("LAN_FORUM_NT_TOPIC_DELETED", "Изтрит е топик");

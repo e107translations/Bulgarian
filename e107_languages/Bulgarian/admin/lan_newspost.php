@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -62,7 +62,7 @@ define("NWSLAN_83", "Разширено съдържание на новинат
 define("NWSLAN_84", "Изберете кои посетители ще виждат новината");
 define("NWSLAN_86", "Показване на категориите новини в долната част на сайта Ви");
 define("NWSLAN_87", "Брой колони на категориите новини?");
-define("NWSLAN_88", "Брой новини за показване на страница");
+define("NWSLAN_88", "Брой новини за показване на страница?");
 define("NWSLAN_90", "Настройки");
 define("NWSLAN_100", "Позволете добавяне на снимки при добавянето на новини от потребителите");
 define("NWSLAN_101", "Автоматично оразмеряване на добавените снимки");

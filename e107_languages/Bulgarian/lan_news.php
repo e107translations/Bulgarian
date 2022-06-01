@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -34,8 +34,8 @@ define("LAN_NEWS_86", "По-стари новини");
 define("LAN_NEWS_87", "По-нови новини");
 define("LAN_NEWS_462", "За избрания месец няма новини");
 define("LAN_NEWS_463", "Все още няма новини, моля проверете по-късно");
-define("LAN_NEWS_464", "Няма новини за посочения ден");
-define("LAN_NEWS_100", "На");
+define("LAN_NEWS_464", "Няма новини на този ден");
+define("LAN_NEWS_300", "На");
 define("LAN_NEWS_307", "Общо новини в тази категория:");
 define("LAN_NEWS_308", "Може би търсите за една от новините по-долу?");
-define("LAN_NEWS_309", "Таг");
+define("LAN_NEWS_309", "Етикет");

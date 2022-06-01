@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -99,6 +99,7 @@ define("DOWLAN_145", "Файлът ще се вижда от");
 define("DOWLAN_146", "Съобщение за отказ за сваляне на файл или URL");
 define("DOWLAN_148", "Отметнете тук за обновяване датата на създаване на файла");
 define("DOWLAN_149", "URL");
+define("DOWLAN_150", "Пращане на имейл на администратор при докладване на невалиден файл");
 define("DOWLAN_151", "Доклад за невалиден файл е достъпен до");
 define("DOWLAN_152", "Невъзможно преместването на файла");
 define("DOWLAN_153", "Преместване на файла в директорията за сваляне");
@@ -158,3 +159,6 @@ define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' hre
 define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Същият израз, както е конфигуриран на сървъра");
 define("LAN_DL_SECURITY_LINK_EXPIRY", "Продължителност на валидността в секунди");
 define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Брой секунди връзката за изтегляне трябва да продължи след генерирането. "." Ефективен само ако изразът поддържа времето на изтичане. "." По подразбиране е много дълго време, ако това поле е оставено празно.");
+
+
+?>

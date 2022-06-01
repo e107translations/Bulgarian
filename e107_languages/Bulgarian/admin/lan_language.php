@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -32,6 +32,8 @@ define("LANG_LAN_21", "Езикови пакети");
 define("LANG_LAN_25", "Статус на създаването на езиковия пакет");
 define("LANG_LAN_26", "Зареждане на езикови файлове само от избрания език");
 define("LANG_LAN_27", "Ако е избрано и необходимият език не може да бъде намерен, могат да се получат грешки");
+define("LANG_LAN_28", "Маркирайте тази отметка, ако сте [e107 сертифициран преводач].");
+define("LANG_LAN_EML", "Моля изпратете Вашият езиков пакет на:");
 define("LANG_LAN_32", "Инсталирани езици");
 define("LANG_LAN_33", "Показване само на грешките по време на проверка");
 define("LANG_LAN_50", "Език за администрация");
@@ -65,3 +67,5 @@ define("LANG_LAN_151", "Достъпни");
 define("LANG_LAN_152", "С любезното съдействие на [e107 translations team]");
 define("LANG_LAN_153", "Предварителна версия");
 define("LANG_LAN_154", "Езиковият пакет е създаден. Сега можете да го изпратите в хранилището на Github, както е указано [тук].");
+
+?>

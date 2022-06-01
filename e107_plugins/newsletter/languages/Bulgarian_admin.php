@@ -2,13 +2,14 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
  * Language File
  *
 */
+
 define("NLLAN_04", "Модулът информационен бюлетин бе успешно инсталиран. За да конфигурирате модула, върнете се главната администраторска страница и кликнете на \'Информационен бюлетин\' в секцията Модули.");
 define("NLLAN_05", "Още няма създадени информационни бюлетини");
 define("NLLAN_07", "Абонати");
@@ -45,3 +46,6 @@ define("NLLAN_63", "Общо абонати");
 define("NLLAN_64", "Върнете се към предната страница на бюлетина");
 define("NLLAN_65", "Абонати прегледали бюлетин ID");
 define("NLLAN_66", "Вашият списък с абонати на бюлетина е редактиран.");
+
+
+?>

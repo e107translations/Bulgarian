@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -111,6 +111,7 @@ define("USRLAN_153", "Изтриване на не-отхвърлените им
 define("USRLAN_154", "Изчистване на имейла за проверените");
 define("USRLAN_155", "Намерени са общо [w] имейла. [x] са изчистени в следствие на избраните настройки.[br][y] потребителя са маркирани като 'отхвърлени' (от [z] имейла)");
 define("USRLAN_156", "Имейл адреса вече се използва");
+define("USRLAN_160", "Общо [x] потребители от тип [y] са премахнати");
 define("USRLAN_161", "Потребител с ИД [x] и име [y] е блокиран");
 define("USRLAN_162", "Потребител с ИД [x] и име [y] е премахнат от списъка с блокираните");
 define("USRLAN_164", "На потребител с ИД [x] и име [x] ([z]) са дадени администраторски права");
@@ -121,6 +122,7 @@ define("USRLAN_169", "Общо [x] отхвърлени имейли са изт
 define("USRLAN_170", "Произволно потребителско име");
 define("USRLAN_171", "Произволна парола");
 define("USRLAN_172", "Паролата зададена");
+define("USRLAN_175", "Сесия");
 define("USRLAN_179", "Блокиран потребител:");
 define("USRLAN_180", "IP адрес от {IP} е в списъка с разрешените; IP адреса не е блокиран.");
 define("USRLAN_181", "Изпрати имейл за потвърждение с паролата до новият потребител");
@@ -138,6 +140,7 @@ define("USRLAN_192", "дни");
 define("USRLAN_193", "Нищо не е променено - не е записано");
 define("USRLAN_194", "Сигнатурата може да бъде редактирана от");
 define("USRLAN_195", "Последен пост");
+define("USRLAN_197", "Източник");
 define("USRLAN_198", "Име на поле");
 define("USRLAN_199", "Операция");
 define("USRLAN_200", "Стойност");
@@ -223,3 +226,6 @@ define("USFLAN_7", "Информация за потребителя");
 define("USRLAN_AS_1", "Вляз като [x]");
 define("USRLAN_AS_2", "Изляз от акаунт [x]");
 define("USRLAN_AS_3", "Вие сте влезли с чужд акаунт. Моля излезте първо.");
+
+
+?>

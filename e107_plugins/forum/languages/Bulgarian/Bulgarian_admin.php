@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -133,3 +133,5 @@ define("FORLAN_220", "Post editor");
 define("FORLAN_221", "Which editor should be used to create/edit posts?");
 define("FORLAN_222", "Quick reply editor");
 define("FORLAN_223", "Use only plain text (no bbcode or html allowed!)");
+
+?>

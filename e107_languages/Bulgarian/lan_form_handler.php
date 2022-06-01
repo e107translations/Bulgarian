@@ -2,7 +2,7 @@
 /*
  * e107 website system - Bulgarian Translation
  *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
+ * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
  * Released under the terms and conditions of the
  * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
  *
@@ -25,3 +25,6 @@ define("LAN_EFORM_013", "иди на списък");
 define("LAN_EFORM_014", "създаване на нова");
 define("LAN_EFORM_015", "редакция на текущото");
 define("LAN_EFORM_016", "След запис:");
+
+
+?>
