@@ -1,27 +1,29 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+
 define("NFLAN_11", "Път до изображение");
-define("NFLAN_12", "Активация");
+define("NFLAN_12", "Активиране");
 define("NFLAN_13", "Никъде (неактивно)");
-define("NFLAN_14", "Само в менюто");
-define("NFLAN_18", "Интервал на обновяване (в сек.)");
-define("NFLAN_19", "напр. 3600 - така излъчването ще се обновява на всеки час");
-define("NFLAN_20", "Само на главна страница за излъчвания");
-define("NFLAN_21", "И на двете места - меню и страница за излъчвания");
-define("NFLAN_26", "Интервал на обновяване");
-define("NFLAN_43", "Помощ");
-define("NFLAN_42", "[h=4]Newsfeed Title[/h] Enter a name to identify the newsfeed accurately. [h=4]URL to RSS Feed[/h] The RSS provider will give you a web address (URL) for the newsfeed. [h=4]Path to Image[/h] If the provider specifies an image to use, enter 'default' to use it or choose use your own image by entering the immage address. Leave blank to use no image at all. [h=4]Description[/h] Enter a short description for the feed, or 'default' to use the description defined in the feed (if there is one). [h=4]Update Interval[/h] Enter the number of seconds before the feed is updated. For example, 1800 = 30 Minutes, 3600 = 1 Hour, 86400 = 1 Day. [h=4]Activation[/h] Newsfeeds can be displayed in the menu only or on the newsfeed page. Enter the details where feeds should be displayed. To see newsfeeds in e107 menus you will need to activate the [b]Newsfeeds Menu[b/] in [link=".e_ADMIN."menus.php]Menu Manager[/link]. [h=4]Tip[/h] There are many feed direcotries on the web, try [link=https://www.dmoz.org/Computers/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external]dmoz[/link] or [link=http://www.feedster.com/ external]feedster.com[/link]");
-define("NFLAN_45", "Брой излъчвания за менюто");
-define("NFLAN_46", "Брой излъчвания за страницата");
-
-
-?>
+define("NFLAN_14", "Само в меню");
+define("NFLAN_18", "Интервал за обновяване в секунди");
+define("NFLAN_19", "напр. 3600: емисията ще се обновява на всеки час");
+define("NFLAN_20", "Само на основната страница на новинарските емисии");
+define("NFLAN_21", "В менюто и на страницата с новинарски емисии");
+define("NFLAN_26", "Интервал за обновяване");
+define("NFLAN_43", "Помощ за новинарските емисии");
+define("NFLAN_42", "[h=4]Заглавие на емисията[/h]
+	Въведете име, с което емисията да бъде разпознавана лесно.
+	[h=4]URL към RSS емисията[/h]
+	Доставчикът на RSS ще ви предостави уеб адрес (URL) на емисията.
+	[h=4]Път до изображение[/h]
+	Ако доставчикът е задал изображение, въведете 'default', за да го използвате, или посочете адрес на собствено изображение. Оставете полето празно, ако не искате изображение.
+	[h=4]Описание[/h]
+	Въведете кратко описание на емисията или 'default', за да използвате описанието, зададено в самата емисия (ако има такова).
+	[h=4]Интервал за обновяване[/h]
+	Въведете броя секунди между обновяванията на емисията.
+	Например: 1800 = 30 минути, 3600 = 1 час, 86400 = 1 ден.
+	[h=4]Активиране[/h]
+	Новинарските емисии могат да се показват само в меню или и на страницата с емисии. Изберете къде да се показват. За да виждате емисиите в менютата на e107, трябва да активирате [b]Меню Новинарски емисии[/b] от [link=".e_ADMIN."menus.php]Мениджър на менюта[/link].
+	[h=4]Съвет[/h]
+	В интернет има много директории с RSS емисии. Можете да използвате [link=https://www.dmoz.org/Computers/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external]dmoz[/link] или [link=http://www.feedster.com/ external]feedster.com[/link]");
+define("NFLAN_45", "Брой елементи за показване в менюто");
+define("NFLAN_46", "Брой елементи за показване на основната страница");

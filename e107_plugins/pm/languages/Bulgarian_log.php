@@ -1,22 +1,12 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
 
-define('LAN_AL_PM_ADM_01', 'ЛС: Използват се настройки по подразбиране');
-define('LAN_AL_PM_ADM_02', 'ЛС: Настройките са обновени');
-define('LAN_AL_PM_ADM_03', 'ЛС: Поддръжката на БД е завършена');
-define('LAN_AL_PM_ADM_04', 'ЛС: Поддръжката на БД е започната');
-define('LAN_AL_PM_ADM_05', 'ЛС: Лимитът е добавен');
-define('LAN_AL_PM_ADM_06', 'ЛС: Лимитът е обновен');
-define('LAN_AL_PM_ADM_07', 'ЛС: Лимитът е изтрит');
-define('LAN_AL_PM_ADM_08', 'ЛС: Грешка при създаване на лимит');
-define('LAN_AL_PM_ADM_09', 'ЛС: Грешка при обновяването на  лимит');
-define('LAN_AL_PM_ADM_10', 'ЛС: Грешка при изтриването на лимит');
+define("LAN_AL_PM_ADM_01", "Лични съобщения: използвани са настройките по подразбиране");
+define("LAN_AL_PM_ADM_02", "Лични съобщения: настройките са обновени");
+define("LAN_AL_PM_ADM_03", "Лични съобщения: поддръжката на базата данни е завършена");
+define("LAN_AL_PM_ADM_04", "Лични съобщения: поддръжката на базата данни е стартирана");
+define("LAN_AL_PM_ADM_05", "Лични съобщения: добавено е ограничение");
+define("LAN_AL_PM_ADM_06", "Лични съобщения: ограничението е обновено");
+define("LAN_AL_PM_ADM_07", "Лични съобщения: ограничението е изтрито");
+define("LAN_AL_PM_ADM_08", "Лични съобщения: грешка при създаване на данните за ограничение");
+define("LAN_AL_PM_ADM_09", "Лични съобщения: грешка при обновяване на данните за ограничение");
+define("LAN_AL_PM_ADM_10", "Лични съобщения: грешка при изтриване на данните за ограничение");

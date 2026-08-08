@@ -1,25 +1,11 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-
 define("EMESSLAN_TITLE_INFO", "Системна информация");
-//define("EMESSLAN_TITLE_ERROR", "Error");//new > LAN_ERROR
 define("EMESSLAN_TITLE_SUCCESS", "Успешно");
-define("EMESSLAN_TITLE_WARNING", "Внимание");
-define("EMESSLAN_TITLE_DEBUG", "Системен дебъг");
+define("EMESSLAN_TITLE_WARNING", "Предупреждение");
+define("EMESSLAN_TITLE_DEBUG", "Системно отстраняване на грешки");
 
-define("LAN_THEME_1", "Коментарите са забранени");
-define("LAN_THEME_2", "коментари: ");
-define("LAN_THEME_3", "Прочети още");
-define("LAN_THEME_4", "Проследяване: ");
+define("LAN_THEME_1", "Коментарите за този елемент са изключени");
+define("LAN_THEME_2", "Преглед/публикуване на коментар: ");
+define("LAN_THEME_3", "Прочетете още...");
 define("LAN_THEME_5", "Публикувано от ");
 define("LAN_THEME_6", "на ");
-?>

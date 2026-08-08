@@ -1,15 +1,9 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+/* e107 website system - Bulgarian language file - Site Down */
+if(!defined('PAGE_NAME'))
+{
+    define("PAGE_NAME", "Сайтът е временно затворен");
+}
 
-define("PAGE_NAME", "Сайтът е временно затворен");
 define("LAN_SITEDOWN_00", "е временно затворен");
-define("LAN_SITEDOWN_01", "Сайтът е временно затворен за извършване на подобрения. Моля изчакайте и опитайте отново. Съжаляваме за създаденото неудобство.");
+define("LAN_SITEDOWN_01", "Временно затворихме сайта за необходима техническа поддръжка. Това не би трябвало да отнеме много време — моля, посетете ни отново скоро. Извиняваме се за причиненото неудобство.");

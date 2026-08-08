@@ -1,33 +1,24 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-define("FBLAN_08", "Текст");
-define("FBLAN_12", "Начин");
-define("FBLAN_13", "Случайно въртящи се съобщения");
-define("FBLAN_14", "Покажи само това съобщение");
-define("FBLAN_22", "Начин на показване");
-define("FBLAN_23", "В бокс от темата");
-define("FBLAN_24", "Извън боксовете от темата");
-define("FBLAN_25", "Няма съобщения асоциирани към [x] темплейт");
-define("FBLAN_26", "Картинка/Видео");
-define("FBLAN_27", "Линк на картинката");
-define("FBLAN_28", "Категория меню");
-define("FBLAN_29", "Категорията, която ще се показва в менюто");
-define("FBLAN_30", "Темплейт на категорията");
-define("FBLAN_31", "Разбъркано показване");
+/**
+ * Български административен езиков файл за Акценти (Featurebox) в e107 CMS v2.3.10.
+ */
+
+define("FBLAN_08", "Текст на съобщението");
+define("FBLAN_12", "Режим");
+define("FBLAN_13", "Случайно редуване на съобщенията");
+define("FBLAN_14", "Показване само на това съобщение");
+define("FBLAN_22", "Начин на визуализиране");
+define("FBLAN_23", "В контейнер на темата");
+define("FBLAN_24", "Без допълнително оформление");
+define("FBLAN_25", "Няма елементи за акценти, присвоени към шаблона [x].");
+define("FBLAN_26", "Изображение/Видео");
+define("FBLAN_27", "Връзка на изображението");
+define("FBLAN_28", "Категория за менюто с акценти");
+define("FBLAN_29", "Категория, която да се използва за менюто с акценти");
+define("FBLAN_30", "Шаблон на категорията");
+define("FBLAN_31", "Случайно");
 define("FBLAN_32", "Параметри (по избор)");
-define("FBLAN_33", "Optional Javascript Parameters (format subject to change)");
-define("FBLAN_34", "Неопределен");
-define("FBLAN_35", "Въртележка");
+define("FBLAN_33", "Допълнителни JavaScript параметри (форматът може да бъде променен)");
+define("FBLAN_34", "Неприсвоено");
+define("FBLAN_35", "Карусел");
 define("FBLAN_36", "Табове");
-
-
-?>

@@ -1,19 +1,9 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-
-define("LANMAILH_1", "Генерирано от e107 уебсайт система");
-define("LANMAILH_2", "Това е multi-part съобщение в MIME формат.");
-define("LANMAILH_3", " е неправилно форматирано");
-define("LANMAILH_4", "Сървърът отхвърля адреса");
+/* e107 website system - Bulgarian language file - Mail handler */
+define("LANMAILH_1", "Генерирано от системата e107");
+define("LANMAILH_2", "Това е съобщение от няколко части във формат MIME.");
+define("LANMAILH_3", " не е правилно форматиран");
+define("LANMAILH_4", "Сървърът отхвърли адреса");
 define("LANMAILH_5", "Няма отговор от сървъра");
-define("LANMAILH_6", "Не мога да открия имейл сървър.");
-define("LANMAILH_7", " изглежда е валиден.");
+define("LANMAILH_6", "Имейл сървърът не е намерен.");
+define("LANMAILH_7", " изглежда валиден.");

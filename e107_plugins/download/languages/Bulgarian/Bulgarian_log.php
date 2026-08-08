@@ -1,27 +1,16 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+/**
+ * Български езиков файл за административния журнал на Изтегляния в e107 CMS v2.3.10.
+ */
 
-
-define("LAN_AL_DOWNL_01", "Настройките на файловете са променени");
-define("LAN_AL_DOWNL_02", "Настройките на качване на файловете са променени");
-define("LAN_AL_DOWNL_03", "Файлове - добавен е лимит");
-define("LAN_AL_DOWNL_04", "Файлове - лог 04");
-define("LAN_AL_DOWNL_05", "Файлове - лог 05");
-define("LAN_AL_DOWNL_06", "Файлове - лог 06");
-define("LAN_AL_DOWNL_07", "Файлове - лог 07");
-define("LAN_AL_DOWNL_08", "Файлове - лог 08");
-define("LAN_AL_DOWNL_09", "Файлове - лог 09");
-define("LAN_AL_DOWNL_10", "Файлове - лимитът е обновен");
-define("LAN_AL_DOWNL_11", "Файлове - лимитът е премахнат");
-
-
-?>
+define("LAN_AL_DOWNL_01", "Изтегляния – променени настройки за изтегляне");
+define("LAN_AL_DOWNL_02", "Изтегляния – променени настройки за качване");
+define("LAN_AL_DOWNL_03", "Изтегляния – добавено ограничение");
+define("LAN_AL_DOWNL_04", "Изтегляния – журнал 04");
+define("LAN_AL_DOWNL_05", "Изтегляния – журнал 05");
+define("LAN_AL_DOWNL_06", "Изтегляния – журнал 06");
+define("LAN_AL_DOWNL_07", "Изтегляния – журнал 07");
+define("LAN_AL_DOWNL_08", "Изтегляния – журнал 08");
+define("LAN_AL_DOWNL_09", "Изтегляния – журнал 09");
+define("LAN_AL_DOWNL_10", "Изтегляния – обновено ограничение");
+define("LAN_AL_DOWNL_11", "Изтегляния – премахнато ограничение");

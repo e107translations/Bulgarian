@@ -1,18 +1,8 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
 
-define("LAN_PLUGIN__BLANK_NAME", "Празен модул");
-define("LAN_PLUGIN__BLANK_DIZ", "Празен модул, който да ви помогне с генерирането на ваш собствен модул");
-define("LAN_PLUGIN__BLANK_LINK", "Празен линк");
+// Винаги използвайте формат LAN_PLUGIN_{FOLDER}_{TYPE}, за да избегнете конфликти. В този случай "_BLANK" е директорията.
+// Този файл съдържа езиковите константи, използвани в plugin.xml.
 
-
-?>
+define("LAN_PLUGIN__BLANK_NAME", "Шаблонен плъгин");
+define("LAN_PLUGIN__BLANK_DIZ",  "Шаблонен плъгин, който служи като отправна точка при разработването на нов плъгин. Тук може да добавите допълнителна информация.");
+define("LAN_PLUGIN__BLANK_LINK", "Примерна връзка");

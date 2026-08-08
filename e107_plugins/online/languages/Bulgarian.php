@@ -1,37 +1,27 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-define("LAN_LASTSEEN_1", "Последно видян");
-define("LAN_ONLINE_TRACKING_MESSAGE", "Проследяването на потребителите в момента е забранено, може да го позволите от [here]");
-define("LAN_ONLINE_1", "Гости:");
-define("LAN_ONLINE_2", "Потребители:");
-define("LAN_ONLINE_3", "На тази странница:");
+
+define("LAN_LASTSEEN_1", "Меню „Последно видени“");
+
+define('LAN_ONLINE_TRACKING_MESSAGE', "Проследяването на онлайн потребители в момента е изключено. Активирайте го [тук]");
+define("LAN_ONLINE_1", "Гости: ");
+define("LAN_ONLINE_2", "Потребители: ");
+define("LAN_ONLINE_3", "На тази страница: ");
 define("LAN_ONLINE_4", "Онлайн");
 define("LAN_ONLINE_5", "");
-define("LAN_ONLINE_6", "Най-новият потребител:");
+define("LAN_ONLINE_6", "Най-нов потребител: ");
 define("LAN_ONLINE_7", "преглежда");
-define("LAN_ONLINE_8", "Най-много онлайн:");
-define("LAN_ONLINE_9", "на");
-define("LAN_ONLINE_10", "Онлайн");
-define("LAN_ONLINE_11", "Общо регистрирани потребителя:");
-define("LAN_ONLINE_ADMIN_1", "Меню Последно видян");
-define("LAN_ONLINE_ADMIN_2", "Заглавие меню Последно видян:");
-define("LAN_ONLINE_ADMIN_3", "брой записи за показване:");
-define("LAN_ONLINE_ADMIN_4", "Меню Онлайн");
-define("LAN_ONLINE_ADMIN_5", "Заглавие Меню Онлайн:");
-define("LAN_ONLINE_ADMIN_6", "Покажи статистика на потребителите онлайн?");
-define("LAN_ONLINE_ADMIN_7", "Покажи разширен списък на потребителите онлайнe?");
-define("LAN_ONLINE_ADMIN_8", "Покажи списък на потребителите разглеждащи страницата разделени със запетаи");
-define("LAN_ONLINE_ADMIN_9", "Покажи списък на 'потребителите разглеждащи страницата'");
-define("LAN_ONLINE_ADMIN_10", "Показване на гостите.");
+define("LAN_ONLINE_8", "Най-много онлайн досега: ");
+define("LAN_ONLINE_9", "на ");
+define("LAN_ONLINE_10", "Меню „Онлайн“");
+define("LAN_ONLINE_11", "Общо регистрирани потребители:");
 
-
-?>
+define("LAN_ONLINE_ADMIN_1", "меню „Последно видени“");
+define("LAN_ONLINE_ADMIN_2", "Заглавие на меню „Последно видени“");
+define("LAN_ONLINE_ADMIN_3", "Брой записи за показване");
+define("LAN_ONLINE_ADMIN_4", "меню „Онлайн“");
+define("LAN_ONLINE_ADMIN_5", "Заглавие на меню „Онлайн“");
+define("LAN_ONLINE_ADMIN_6", "Показване на списък с онлайн потребителите?");
+define("LAN_ONLINE_ADMIN_7", "Показване на разширен списък с онлайн потребителите?");
+define("LAN_ONLINE_ADMIN_8", "Показва списък на потребителите, разделени със запетая.");
+define("LAN_ONLINE_ADMIN_9", "Показва списък на потребителите, които разглеждат дадена страница.");
+define("LAN_ONLINE_ADMIN_10", "Показване на онлайн гостите.");

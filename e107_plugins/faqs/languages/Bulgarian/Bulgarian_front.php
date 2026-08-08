@@ -1,16 +1,21 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2016 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+/**
+ * Български публичен езиков файл за Често задавани въпроси в e107 CMS v2.3.10.
+ */
 
-define("LAN_FAQS_TAGS", "Тагове");
-define("LAN_FAQS_FILTER_ACTIVE", "Активен филтър");
-define("LAN_FAQS_NONE_AVAILABLE", "В момента няма налични често задавани въпроси.");
-define("LAN_FAQS_ASKQUESTION_AFTER", "Благодарим! Вашият въпрос е запазен и ще бъде отговорен възможно най-скоро.");
+define("LAN_FAQS_001", "Тагове");
+define("LAN_FAQS_002", "Филтър");
+define("LAN_FAQS_003", "В момента няма налични често задавани въпроси.");
+define("LAN_FAQS_004", "Благодарим. Вашият въпрос е записан и ще получи отговор възможно най-скоро.");
+define("LAN_FAQS_005", "Достигнали сте максималния брой нови въпроси. Ще можете да зададете още, след като текущите ви въпроси получат отговор.");
+define("LAN_FAQS_006", "Премахване");
+define("LAN_FAQS_007", "Нулиране");
+define("LAN_FAQS_008", "[x]: не е намерено в резултатите от търсенето.");
+define("LAN_FAQS_009", "модериране на коментари");
+define("LAN_FAQS_010", "Обратно към категориите");
+define("LAN_FAQS_011", "FAQ");
+define("LAN_FAQS_012", "Въведете въпроса си тук...");
+define("LAN_FAQS_013", "ограничение на знаците");
+define("LAN_FAQS_014", "Моля, [регистрирайте се] и/или влезте в профила си, за да зададете въпрос.");
+define("LAN_FAQS_015", "Нямате разрешение.");
+define("LAN_FAQS_016", "Поискали сте отговори на следните въпроси:");

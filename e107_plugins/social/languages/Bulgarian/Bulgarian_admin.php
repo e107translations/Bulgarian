@@ -1,71 +1,57 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-define("LAN_SOCIAL_ADMIN_SUMM", "Adds Facebook, Twitter and other social media widgets to e107.");
-define("LAN_SOCIAL_ADMIN_00", "Applications");
-define("LAN_SOCIAL_ADMIN_01", "Pages");
-define("LAN_SOCIAL_ADMIN_02", "Social Signup/Login");
-define("LAN_SOCIAL_ADMIN_03", "Signup/Login");
-define("LAN_SOCIAL_ADMIN_04", "Provider");
-define("LAN_SOCIAL_ADMIN_05", "Key/ID");
-define("LAN_SOCIAL_ADMIN_06", "Secret");
-define("LAN_SOCIAL_ADMIN_07", "Allows users to signup/login with their social media accounts. When enabled, this option will still allow users to signup/login even if the core user registration system above is disabled.");
-define("LAN_SOCIAL_ADMIN_08", "Note: In most cases you will need to obtain an id and secret key from one of the providers.\nClick the blue links to the right to configure.\n\nYou may test your configuration with the following URL:");
-define("LAN_SOCIAL_ADMIN_09", "Your callback URL is:");
-define("LAN_SOCIAL_ADMIN_10", "Get a key from the provider");
-define("LAN_SOCIAL_ADMIN_11", "Your");
-define("LAN_SOCIAL_ADMIN_12", "page");
-define("LAN_SOCIAL_ADMIN_13", "Used by some themes to provide a link to your");
-define("LAN_SOCIAL_ADMIN_14", "Share Buttons");
-define("LAN_SOCIAL_ADMIN_15", "Facebook Comments");
-define("LAN_SOCIAL_ADMIN_16", "Facebook Menu");
-define("LAN_SOCIAL_ADMIN_17", "Twitter Menu");
-define("LAN_SOCIAL_ADMIN_18", "Limit");
-define("LAN_SOCIAL_ADMIN_19", "Theme");
-define("LAN_SOCIAL_ADMIN_20", "Action");
-define("LAN_SOCIAL_ADMIN_21", "Text while loading");
-define("LAN_SOCIAL_ADMIN_22", "Width");
-define("LAN_SOCIAL_ADMIN_23", "Height");
-define("LAN_SOCIAL_ADMIN_24", "Display Mode");
-define("LAN_SOCIAL_ADMIN_25", "Normal");
-define("LAN_SOCIAL_ADMIN_26", "Dropdown");
-define("LAN_SOCIAL_ADMIN_27", "Disabled");
-define("LAN_SOCIAL_ADMIN_28", "Excluding the # symbol.");
-define("LAN_SOCIAL_ADMIN_29", "Number of comments to display.");
-define("LAN_SOCIAL_ADMIN_30", "Loading...");
-define("LAN_SOCIAL_ADMIN_31", "Width in px");
-define("LAN_SOCIAL_ADMIN_32", "Recommend");
-define("LAN_SOCIAL_ADMIN_33", "Height in px");
-define("LAN_SOCIAL_ADMIN_34", "Number of tweets to display.");
-define("LAN_SOCIAL_ADMIN_35", "Light");
-define("LAN_SOCIAL_ADMIN_36", "Dark");
-define("LAN_SOCIAL_ADMIN_37", "Open Graph Meta");
-define("LAN_SOCIAL_ADMIN_38", "Scope");
+
+define("LAN_SOCIAL_ADMIN_00", "Приложения");
+define("LAN_SOCIAL_ADMIN_01", "Страници");
+define("LAN_SOCIAL_ADMIN_02", "Настроени доставчици за вход");
+define("LAN_SOCIAL_ADMIN_03", "Регистрация/Вход");
+define("LAN_SOCIAL_ADMIN_04", "Доставчик");
+define("LAN_SOCIAL_ADMIN_05", "Ключ/ID");
+define("LAN_SOCIAL_ADMIN_06", "Таен ключ");
+define("LAN_SOCIAL_ADMIN_07", "Позволява на потребителите да се регистрират и да влизат чрез профилите си в социални мрежи. Когато е активирана, тази опция позволява регистрация/вход дори ако основната система за потребителска регистрация по-горе е изключена.");
+
+define("LAN_SOCIAL_ADMIN_10", "Получаване на ключ от доставчика");
+define("LAN_SOCIAL_ADMIN_11", "Вашата");
+define("LAN_SOCIAL_ADMIN_12", "страница");
+define("LAN_SOCIAL_ADMIN_13", "Използва се от някои теми за добавяне на линк към вашата ");
+define("LAN_SOCIAL_ADMIN_14", "Бутони за споделяне");
+define("LAN_SOCIAL_ADMIN_15", "Facebook коментари");
+define("LAN_SOCIAL_ADMIN_16", "Facebook меню");
+define("LAN_SOCIAL_ADMIN_17", "Twitter меню");
+define("LAN_SOCIAL_ADMIN_18", "Лимит");
+define("LAN_SOCIAL_ADMIN_19", "Тема");
+define("LAN_SOCIAL_ADMIN_20", "Действие");
+define("LAN_SOCIAL_ADMIN_21", "Текст при зареждане");
+define("LAN_SOCIAL_ADMIN_22", "Ширина");
+define("LAN_SOCIAL_ADMIN_23", "Височина");
+define("LAN_SOCIAL_ADMIN_24", "Режим на показване");
+define("LAN_SOCIAL_ADMIN_25", "Нормален");
+define("LAN_SOCIAL_ADMIN_26", "Падащо меню");
+define("LAN_SOCIAL_ADMIN_27", "Изключено");
+define("LAN_SOCIAL_ADMIN_28", "Без символа #.");
+define("LAN_SOCIAL_ADMIN_29", "Брой коментари за показване.");
+define("LAN_SOCIAL_ADMIN_30", "Зареждане...");
+define("LAN_SOCIAL_ADMIN_31", "Ширина в px");
+define("LAN_SOCIAL_ADMIN_32", "Препоръчване");
+define("LAN_SOCIAL_ADMIN_33", "Височина в px");
+define("LAN_SOCIAL_ADMIN_34", "Брой публикации в Twitter за показване.");
+define("LAN_SOCIAL_ADMIN_35", "Светла");
+define("LAN_SOCIAL_ADMIN_36", "Тъмна");
+define("LAN_SOCIAL_ADMIN_37", "Open Graph мета данни");
+define("LAN_SOCIAL_ADMIN_38", "Обхват");
 define("LAN_SOCIAL_ADMIN_39", "Доставчици");
-define("LAN_SOCIAL_ADMIN_40", "Обновяване на потребителското име");
-define("LAN_SOCIAL_ADMIN_41", "Обновяване на аватара");
+define("LAN_SOCIAL_ADMIN_40", "Обновяване на показваното име на потребителя");
+define("LAN_SOCIAL_ADMIN_41", "Обновяване на аватара на потребителя");
 define("LAN_SOCIAL_ADMIN_42", "Потребителско изображение");
-define("LAN_SOCIAL_ADMIN_43","A [database update] is required to continue using this plugin.");
-define("LAN_SOCIAL_ADMIN_44", "Add New Provider");
-define("LAN_SOCIAL_ADMIN_45", "These social login providers are currently configured.\nIf the master switch [b]Social Signup/Login[/b] is toggled on, each provider in this table that is also toggled on may be used for user registration and login. If you empty the fields of a provider here and save, it will move to the [b]Add New Provider[/b] section.");
-define("LAN_SOCIAL_ADMIN_46", "These are the available social login providers, which have not been configured. Once you configure and save a provider here, it will move to the [b]Configured[/b] section.");
-define("LAN_SOCIAL_ADMIN_47", "Broken Configured Providers");
-define("LAN_SOCIAL_ADMIN_48", "These social login providers were configured in the past but no longer have an adapter that can support them.[br]This may be due to them no longer existing or being replaced by a different provider.");
-define("LAN_SOCIAL_ADMIN_49", "Test Page");
-define("LAN_SOCIAL_ADMIN_50", "Enable or disable the social login test page");
 
-define("LAN_SOCIAL_ADMIN_08", "Note: In most cases, you will need to obtain an application ID and secret key from social login providers.\nIf a provider's name is a link, that link should take you to the login application configuration documentation.\n\nYou may test your configuration with the following URL after enabling the [b]Test Page[/b] option:");
-define("LAN_SOCIAL_ADMIN_09", "Your callback URL is: ");
-define("LAN_SOCIAL_ADMIN_51", "Social Login System");
+define("LAN_SOCIAL_ADMIN_43","Необходимо е [обновяване на базата данни], за да продължите да използвате този плъгин.");
+define("LAN_SOCIAL_ADMIN_44", "Добавяне на нов доставчик");
+define("LAN_SOCIAL_ADMIN_45", "Тези доставчици за социален вход в момента са настроени.\nАко главната опция [b]Социална регистрация/вход[/b] е включена, всеки активиран доставчик в тази таблица може да се използва за регистрация и вход. Ако изчистите полетата на доставчик и запишете настройките, той ще бъде преместен в секцията [b]Добавяне на нов доставчик[/b].");
+define("LAN_SOCIAL_ADMIN_46", "Това са наличните доставчици за социален вход, които все още не са настроени. След като настроите и запишете доставчик, той ще бъде преместен в секцията [b]Настроени[/b].");
+define("LAN_SOCIAL_ADMIN_47", "Неработещи настроени доставчици");
+define("LAN_SOCIAL_ADMIN_48", "Тези доставчици за социален вход са били настроени по-рано, но вече няма адаптер, който да ги поддържа.[br]Причината може да е, че услугата вече не съществува или е заменена от друг доставчик.");
+define("LAN_SOCIAL_ADMIN_49", "Тестова страница");
+define("LAN_SOCIAL_ADMIN_50", "Активиране или деактивиране на тестовата страница за социален вход");
 
-
-
-?>
+define("LAN_SOCIAL_ADMIN_08", "Забележка: в повечето случаи трябва да получите Application ID и таен ключ от доставчика за социален вход.\nАко името на доставчика е линк, той трябва да води към документацията за настройване на приложението за вход.\n\nСлед активиране на опцията [b]Тестова страница[/b] можете да проверите настройките си на следния URL:");
+define("LAN_SOCIAL_ADMIN_09", "Вашият callback URL е: ");
+define("LAN_SOCIAL_ADMIN_51", "Система за социален вход");

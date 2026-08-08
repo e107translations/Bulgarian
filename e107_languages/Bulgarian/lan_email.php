@@ -1,36 +1,28 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+ * e107 website system - Bulgarian language file
+ */
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Имейл"); }
+
 define("LAN_EMAIL_1", "От:");
 define("LAN_EMAIL_2", "IP адрес на подателя:");
-define("LAN_EMAIL_3", "Изпратено от");
-define("LAN_EMAIL_4", "Изпрати емайл");
-define("LAN_EMAIL_5", "Изпрати на приятел");
-define("LAN_EMAIL_6", "Мисля, че ще ти бъде интересно да прочетеш това от");
-define("LAN_EMAIL_7", "изпрати на приятел");
+define("LAN_EMAIL_3", "Изпратен по имейл материал от ");
+define("LAN_EMAIL_4", "Изпращане на имейл");
+define("LAN_EMAIL_5", "Изпращане на материала до приятел");
+define("LAN_EMAIL_6", "Предполагам, че този материал от следния сайт може да ви бъде интересен:");
+define("LAN_EMAIL_7", "изпращане по имейл");
 define("LAN_EMAIL_8", "Коментар");
-define("LAN_EMAIL_9", "Съжаляваме - емайлът не беше изпратен");
-define("LAN_EMAIL_10", "Изпратен е емайл до");
-define("LAN_EMAIL_11", "Емайлът е изпратен");
-define("LAN_EMAIL_13", "Изпрати статия на приятел");
-define("LAN_EMAIL_14", "Изпрати новина на приятел");
-define("LAN_EMAIL_15", "Потребителско име:");
-define("LAN_EMAIL_106", "Това не изглежда да е валиден емайл адрес");
-define("LAN_EMAIL_185", "Изпрати статия");
-define("LAN_EMAIL_186", "Изпрати новина");
-define("LAN_EMAIL_187", "Изпрати на имейл адрес");
-define("LAN_EMAIL_188", "Мисля, че ще ти бъде интересно да прочетеш тази новина от");
-define("LAN_EMAIL_189", "Мисля, че ще ти бъде интересно да прочетеш тази статия от");
-define("LAN_EMAIL_190", "Въведи код");
-define("LAN_SOCIAL_LINK_CHK", "Преглдайте тази връзка:");
-
-
-?>
+define("LAN_EMAIL_9", "Имейлът не можа да бъде изпратен");
+define("LAN_EMAIL_10", "Имейлът е изпратен до");
+define("LAN_EMAIL_11", "Имейлът е изпратен");
+define("LAN_EMAIL_13", "Изпращане на статия до приятел");
+define("LAN_EMAIL_14", "Изпращане на новина до приятел");
+define("LAN_EMAIL_15", "Потребителско име: ");
+define("LAN_EMAIL_106", "Въведеният имейл адрес не изглежда валиден");
+define("LAN_EMAIL_185", "Изпращане на статия");
+define("LAN_EMAIL_186", "Изпращане на новина");
+define("LAN_EMAIL_187", "Имейл адрес на получателя");
+define("LAN_EMAIL_188", "Предполагам, че тази новина от следния сайт може да ви бъде интересна:");
+define("LAN_EMAIL_189", "Предполагам, че тази статия от следния сайт може да ви бъде интересна:");
+define("LAN_EMAIL_190", "Въведете кода от изображението");
+define("LAN_SOCIAL_LINK_CHK", "Вижте този линк: ");

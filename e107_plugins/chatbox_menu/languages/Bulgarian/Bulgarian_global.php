@@ -1,28 +1,15 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
 
-define("LAN_PLUGIN_CHATBOX_MENU_NAME", "Чатбокс");
-define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "Чатбокс меню");
-define("LAN_PLUGIN_CHATBOX_MENU_POSTS", "Чатбокс съобщения");
-define("LAN_AL_CHBLAN_01", "Настройките на чатбокса са обновени");
-define("LAN_AL_CHBLAN_02", "Изчистено");
-define("LAN_AL_CHBLAN_03", "Постовете са пресметнати");
+define("LAN_PLUGIN_CHATBOX_MENU_NAME", "Чат кутия");
+define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "Меню за чат кутия");
+define("LAN_PLUGIN_CHATBOX_MENU_POSTS", "Публикации в чат кутията");
+define("LAN_AL_CHBLAN_01", "Настройките на чат кутията са обновени");
+define("LAN_AL_CHBLAN_02", "Чат кутията е почистена");
+define("LAN_AL_CHBLAN_03", "Броят публикации в чат кутията е преизчислен");
 define("LAN_AL_CHBLAN_04", "");
 define("LAN_AL_CHBLAN_05", "");
-define("NT_LAN_CB_1", "Чатбокс събития");
-define("NT_LAN_CB_2", "Съобщения");
-define("NT_LAN_CB_3", "от");
+define("NT_LAN_CB_1", "Събития в чат кутията");
+define("NT_LAN_CB_2", "Публикувано съобщение");
+define("NT_LAN_CB_3", "Публикувано от");
 define("NT_LAN_CB_5", "Съобщение");
-define("NT_LAN_CB_6", "Нови чатбокс съобщения");
-
-
-?>
+define("NT_LAN_CB_6", "Публикувано е съобщение в чат кутията");

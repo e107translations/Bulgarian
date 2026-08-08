@@ -1,86 +1,76 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-define("LAN_CONVERT_03", "You must start with a clean E107 database, other than the main admin user (ID=1)");
-define("LAN_CONVERT_04", "Field(s) left blank, please go back and re-enter values.");
-define("LAN_CONVERT_05", "Running this script may empty many of your E107 tables - make sure you have a full backup before continuing!");
-define("LAN_CONVERT_06", "Import data type");
-define("LAN_CONVERT_07", "CSV Format Specification");
-define("LAN_CONVERT_08", "Existing database");
-define("LAN_CONVERT_09", "Connection details for source database");
-define("LAN_CONVERT_10", "Passwords in source file are not encrypted");
-define("LAN_CONVERT_11", "Source data details");
-define("LAN_CONVERT_12", "Basic username and password");
-define("LAN_CONVERT_13", "CSV File");
-define("LAN_CONVERT_14", "Format of import database");
-define("LAN_CONVERT_15", "No import converters available");
-define("LAN_CONVERT_16", "Initial user class(es)");
-define("LAN_CONVERT_17", "Password in CSV file is not already encrypted");
-define("LAN_CONVERT_18", "(Password must be stored with MD5 encryption)");
-define("LAN_CONVERT_19", "Database Host");
-define("LAN_CONVERT_20", "Database Username");
-define("LAN_CONVERT_21", "Database Password");
-define("LAN_CONVERT_22", "Database Name");
-define("LAN_CONVERT_23", "Database Table Prefix");
-define("LAN_CONVERT_24", "Areas to import");
-define("LAN_CONVERT_25", "Users");
-define("LAN_CONVERT_26", "Forum Definitions");
-define("LAN_CONVERT_27", "Polls");
-define("LAN_CONVERT_28", "News");
-define("LAN_CONVERT_29", "Database import completed");
-define("LAN_CONVERT_30", "Import routine Information");
-define("LAN_CONVERT_31", "CSV data file does not exist, or invalid permissions");
-define("LAN_CONVERT_32", "Error reading CSV data file");
-define("LAN_CONVERT_33", "Error in CSV data line");
-define("LAN_CONVERT_34", "Error: [x] while writing to user database, line");
-define("LAN_CONVERT_35", "CSV import completed. [x] read, [y] users added, [z] errors	CSV import completed. --LINES-- read, --USERS-- users added, --ERRORS-- errors");
-define("LAN_CONVERT_36", "Filename for CSV data");
-define("LAN_CONVERT_37", "Invalid format specification for import type");
-define("LAN_CONVERT_38", "Delete existing data");
-define("LAN_CONVERT_39", "(If you don't, the posters of imported data will be shown as 'Anonymous')");
-define("LAN_CONVERT_40", "Existing data deleted");
-define("LAN_CONVERT_41", "Required database access field is empty");
-define("LAN_CONVERT_42", "Error in definition file - required class does not exist");
-define("LAN_CONVERT_43", "Error connecting to source database");
-define("LAN_CONVERT_44", "Query setup error for");
-define("LAN_CONVERT_45", "Cannot read import code file");
-define("LAN_CONVERT_46", "Error: [x] while writing to [y] database, line");
-define("LAN_CONVERT_47", "Batch [w] import completed. [x] read, [y] added, [z] errors	Batch --BLOCK-- import completed. --LINES-- read, --USERS-- added, --ERRORS-- errors");
-define("LAN_CONVERT_48", "Forum posts");
+
+if (!defined("e107_INIT")) { exit; }
+
+define("LAN_CONVERT_03", "Трябва да започнете с чиста e107 база данни, с изключение на главния администратор (ID=1)");
+define("LAN_CONVERT_04", "Има непопълнени полета. Върнете се и въведете необходимите стойности.");
+define("LAN_CONVERT_05", "Изпълнението на този скрипт може да изпразни много от таблиците на e107 — уверете се, че разполагате с пълно резервно копие, преди да продължите!");
+define("LAN_CONVERT_06", "Тип данни за импорт");
+define("LAN_CONVERT_07", "Спецификация на CSV формата");
+define("LAN_CONVERT_08", "Съществуваща база данни");
+define("LAN_CONVERT_09", "Данни за връзка с изходната база данни");
+define("LAN_CONVERT_10", "Паролите в изходния файл не са криптирани");
+define("LAN_CONVERT_11", "Данни за източника");
+define("LAN_CONVERT_12", "Основно потребителско име и парола");
+define("LAN_CONVERT_13", "CSV файл");
+define("LAN_CONVERT_14", "Формат на базата данни за импорт");
+define("LAN_CONVERT_15", "Няма налични конвертори за импорт");
+define("LAN_CONVERT_16", "Начален потребителски клас(ове)");
+define("LAN_CONVERT_17", "Паролата в CSV файла не е предварително криптирана");
+define("LAN_CONVERT_18", "(Паролата трябва да е записана с MD5 криптиране)");
+define("LAN_CONVERT_19", "Хост на базата данни");
+define("LAN_CONVERT_20", "Потребителско име за базата данни");
+define("LAN_CONVERT_21", "Парола за базата данни");
+define("LAN_CONVERT_22", "Име на базата данни");
+define("LAN_CONVERT_23", "Префикс на таблиците");
+define("LAN_CONVERT_24", "Области за импорт");
+define("LAN_CONVERT_25", "Потребители");
+define("LAN_CONVERT_26", "Дефиниции на форума");
+define("LAN_CONVERT_27", "Анкети");
+define("LAN_CONVERT_28", "Новини");
+define("LAN_CONVERT_29", "Импортът на базата данни е завършен");
+define("LAN_CONVERT_30", "Информация за процедурата по импорт");
+define("LAN_CONVERT_31", "CSV файлът с данни не съществува или правата за достъп са невалидни");
+define("LAN_CONVERT_32", "Грешка при четене на CSV файла с данни");
+define("LAN_CONVERT_33", "Грешка в ред от CSV данните ");
+define("LAN_CONVERT_34", "Грешка: [x] при запис в базата данни с потребители, ред ");
+define("LAN_CONVERT_35", "CSV импортът е завършен. Прочетени: [x], добавени потребители: [y], грешки: [z]");
+define("LAN_CONVERT_36", "Име на CSV файла с данни");
+define("LAN_CONVERT_37", "Невалидна спецификация на формата за този тип импорт");
+define("LAN_CONVERT_38", "Изтриване на съществуващите данни");
+define("LAN_CONVERT_39", "(Ако не го направите, авторите на импортираните данни ще се показват като „Анонимен“)");
+define("LAN_CONVERT_40", "Съществуващите данни са изтрити");
+define("LAN_CONVERT_41", "Задължително поле за достъп до базата данни е празно");
+define("LAN_CONVERT_42", "Грешка във файла с дефиниции — необходимият клас не съществува");
+define("LAN_CONVERT_43", "Грешка при свързване с изходната база данни");
+define("LAN_CONVERT_44", "Грешка при подготовката на заявката за ");
+define("LAN_CONVERT_45", "Файлът с кода за импорт не може да бъде прочетен");
+define("LAN_CONVERT_46", "Грешка: [x] при запис в база данни [y], ред ");
+define("LAN_CONVERT_47", "Импортът на пакет [w] е завършен. Прочетени: [x], добавени: [y], грешки: [z]");
+define("LAN_CONVERT_48", "Публикации във форума");
 define("LAN_CONVERT_49", "Drupal");
-define("LAN_CONVERT_50", "Basic import");
-define("LAN_CONVERT_51", "The version of targeted Drupal.");
-define("LAN_CONVERT_52", "Drupal Version");
-define("LAN_CONVERT_53", "The base URL of Drupal website (e.g., http://mydrupalsite.com).");
-define("LAN_CONVERT_54", "Drupal Base URL");
-define("LAN_CONVERT_55", "The base URL path (i.e., directory) of the Drupal installation (e.g., /drupal/).");
-define("LAN_CONVERT_56", "Drupal Base Path");
-define("LAN_CONVERT_57", "No error");
-define("LAN_CONVERT_58", "Can\'t change main admin data");
-define("LAN_CONVERT_59", "invalid field passed");
-define("LAN_CONVERT_60", "Mandatory field not set");
-define("LAN_CONVERT_61", "User already exists");
-define("LAN_CONVERT_62", "Invalid characters in user or login name");
-define("LAN_CONVERT_63", "Error saving extended user fields");
-define("LAN_CONVERT_64", "Select");
-define("LAN_CONVERT_65", "Pages");
-define("LAN_CONVERT_66", "Page Chapters");
-define("LAN_CONVERT_67", "Links");
-define("LAN_CONVERT_68", "Media");
-define("LAN_CONVERT_69", "Forum");
-define("LAN_CONVERT_70", "Forum Topics/Threads");
-define("LAN_CONVERT_71", "Forum Posts");
-define("LAN_CONVERT_72", "Forum Track");
-define("LAN_CONVERT_73", "Userclasses");
-define("LAN_CONVERT_74", "News Categories");
-
-
-?>
+define("LAN_CONVERT_50", "Основен импорт");
+define("LAN_CONVERT_51", "Версията на целевия Drupal.");
+define("LAN_CONVERT_52", "Версия на Drupal");
+define("LAN_CONVERT_53", "Основният URL на Drupal сайта (напр. http://mydrupalsite.com).");
+define("LAN_CONVERT_54", "Основен URL на Drupal");
+define("LAN_CONVERT_55", "Основният URL път (т.е. директория) на Drupal инсталацията (напр. /drupal/).");
+define("LAN_CONVERT_56", "Основен път на Drupal");
+define("LAN_CONVERT_57", "Няма грешка");
+define("LAN_CONVERT_58", "Данните на главния администратор не могат да бъдат променяни");
+define("LAN_CONVERT_59", "Подадено е невалидно поле");
+define("LAN_CONVERT_60", "Задължително поле не е зададено");
+define("LAN_CONVERT_61", "Потребителят вече съществува");
+define("LAN_CONVERT_62", "Невалидни символи в потребителското име или името за вход");
+define("LAN_CONVERT_63", "Грешка при запис на разширените потребителски полета");
+define("LAN_CONVERT_64", "Избор");
+define("LAN_CONVERT_65", "Страници");
+define("LAN_CONVERT_66", "Глави на страници");
+define("LAN_CONVERT_67", "Връзки");
+define("LAN_CONVERT_68", "Медия");
+define("LAN_CONVERT_69", "Форум");
+define("LAN_CONVERT_70", "Теми/нишки във форума");
+define("LAN_CONVERT_71", "Публикации във форума");
+define("LAN_CONVERT_72", "Проследяване във форума");
+define("LAN_CONVERT_73", "Потребителски класове");
+define("LAN_CONVERT_74", "Категории новини");

@@ -1,17 +1,4 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
 
-define("LAN_PLUGIN_NEWSLETTER_NAME", "Новинарски бюлетин");
-define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Осигурява бърз и лесен начин за настройка и изпращане на новинарски бюлетин");
-
-
-?>
+define("LAN_PLUGIN_NEWSLETTER_NAME", "Бюлетин");
+define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Предоставя бърз и лесен начин за настройване и изпращане на бюлетини.");

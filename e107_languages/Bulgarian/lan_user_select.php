@@ -1,18 +1,11 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
+ * e107 website system - Bulgarian Language File.
 */
-
-define("US_LAN_1", "Избери потребител");
-define("US_LAN_2", "Избери потребителски клас");
+// DEPRECATED - SUBJECT TO REMOVAL
+define("US_LAN_1", "Избор на потребител");
+define("US_LAN_2", "Избор на потребителски клас");
 define("US_LAN_3", "Всички потребители");
-define("US_LAN_4", "Намери потребителско име");
-define("US_LAN_5", "Намерен(и) потребител(и)");
-define("US_LAN_6", "Търси");
+define("US_LAN_4", "Търсене на потребителско име");
+define("US_LAN_5", "Намерени потребители");
+define("US_LAN_6", "Търсене");

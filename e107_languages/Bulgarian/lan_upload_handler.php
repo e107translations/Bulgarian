@@ -1,31 +1,22 @@
 <?php
 /*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
+ * e107 website system - Bulgarian Language File.
 */
-
-define("LANUPLOAD_1", "Видът файл");
-define("LANUPLOAD_2", "не е позволен и беше изтрит.");
+define("LANUPLOAD_1", "Типът файл");
+define("LANUPLOAD_2", "не е разрешен и файлът беше изтрит.");
 define("LANUPLOAD_3", "Успешно качен");
-define("LANUPLOAD_4", "Директорията за качване не съществува или няма права за писане. (chmod 777)");
-define("LANUPLOAD_5", "Големината на файла надвишава директивата upload_max_filesize в php.ini.");
-define("LANUPLOAD_6", "Големината на файла надвишава директивата MAX_FILE_SIZE зададена в html формата.");
-define("LANUPLOAD_7", "Файлът не е изцяло качен.");
-define("LANUPLOAD_8", "Файл не е качен.");
-define("LANUPLOAD_9", "Големината на качения файл е 0 байта");
-define("LANUPLOAD_10", "Неуспешно качване [Дублиране на имена] - Вече съществува файл със същото име.");
+define("LANUPLOAD_4", "Целевата директория не съществува или няма права за запис. (chmod 777)");
+define("LANUPLOAD_5", "Каченият файл надвишава ограничението upload_max_filesize в php.ini.");
+define("LANUPLOAD_6", "Каченият файл надвишава ограничението MAX_FILE_SIZE, зададено в HTML формата.");
+define("LANUPLOAD_7", "Файлът беше качен само частично.");
+define("LANUPLOAD_8", "Не е качен файл.");
+define("LANUPLOAD_9", "Размерът на качения файл е 0 байта");
+define("LANUPLOAD_10", "Качването е неуспешно [дублирано име] - вече съществува файл със същото име.");
 define("LANUPLOAD_11", "Файлът не беше качен. Име на файла: ");
-define("LANUPLOAD_12", "Грешка");
-define("LANUPLOAD_13", "Липсваща temp папка");
-define("LANUPLOAD_14", "Неуспешно записване на файл");
-define("LANUPLOAD_15", "Качване на файлове не е позволено");
-define("LANUPLOAD_16", "Непозната грешка");
-define("LANUPLOAD_17", "Невалидно име за качения файл");
-define("LANUPLOAD_18", "Каченият файл надвишава позволените лимити.");
-define("LANUPLOAD_19", "Качени са твърде много файлове - надхвърлящите позволения брой са изтрити.");
+define("LANUPLOAD_13", "Липсва временна директория");
+define("LANUPLOAD_14", "Неуспешен запис на файла");
+define("LANUPLOAD_15", "Качването не е разрешено");
+define("LANUPLOAD_16", "Неизвестна грешка");
+define("LANUPLOAD_17", "Невалидно име на качения файл");
+define("LANUPLOAD_18", "Каченият файл надвишава допустимите ограничения.");
+define("LANUPLOAD_19", "Качени са твърде много файлове - излишните бяха изтрити.");

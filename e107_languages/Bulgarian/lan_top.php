@@ -1,27 +1,18 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+/* e107 website system - Bulgarian language file - Top */
 
-define("TOP_LAN_0", "Най-активни във форума");
-define("TOP_LAN_1", "Име");
+define("TOP_LAN_0", "Най-активни потребители във форума");
+define("TOP_LAN_1", "Потребителско име");
 define("TOP_LAN_2", "Публикации");
-define("TOP_LAN_3", "Най-активни коментатори");
-define("TOP_LAN_4", "Коментари");
-define("TOP_LAN_5", "Най-активни в чата");
-define("TOP_LAN_6", "Рейтинг в сайта");
+define("TOP_LAN_3", "Потребители с най-много коментари");
+define("TOP_LAN_5", "Потребители с най-много публикации в чата");
+define("TOP_LAN_6", "Оценка на сайта");
+
 define("LAN_1", "Тема");
-define("LAN_2", "Потребител");
-define("LAN_3", "Преглеждания");
+define("LAN_2", "Автор");
+define("LAN_3", "Прегледи");
 define("LAN_4", "Отговори");
-define("LAN_5", "Последни съобщения");
+define("LAN_5", "Последна публикация");
 define("LAN_6", "Теми");
-define("LAN_7", "Най-популярни теми");
+define("LAN_7", "Най-активни теми");
 define("LAN_8", "Най-активни потребители");

@@ -1,38 +1,25 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-define("PAGE_NAME", "Добавяне на новини");
-define("LAN_7", "Име:");
-define("LAN_112", "Имейл Адрес:");
-define("LAN_133", "Благодарим ви");
-define("LAN_134", "Вашата публикация е записана и ще бъде прегледана от администратор на сайта в най-скоро време.");
-define("LAN_135", "Новина:");
-define("LAN_136", "Добави новина");
-define("NWSLAN_6", "Категория");
-define("NWSLAN_10", "Няма създадени категории");
-define("NWSLAN_11", "Нямате достъп до тази секция.");
+/* e107 website system - Bulgarian language file - Submit News */
+if(!defined('PAGE_NAME'))
+{
+    define("PAGE_NAME", "Изпращане на новина");
+}
+
+define("LAN_134", "Вашият материал е изпратен за преглед от администратор на сайта.");
+define("LAN_135", "Новина");
+define("LAN_136", "Изпращане на новина");
+define("NWSLAN_10", "Няма категории за новини");
+define("NWSLAN_11", "Нямате достъп до тази секция или в момента не сте влезли в профила си.");
 define("NWSLAN_12", "Достъпът е отказан.");
+
 define("SUBNEWSLAN_1", "Трябва да въведете заглавие.\\n");
-define("SUBNEWSLAN_2", "Трябва да въведете текст за новината.\\n");
-define("SUBNEWSLAN_3", "Вашия прикачен файл може да бъде jpg, gif или png");
-define("SUBNEWSLAN_4", "Файлът е прекалено голям");
-define("SUBNEWSLAN_5", "Изображение");
+define("SUBNEWSLAN_2", "Трябва да въведете текст на новината.\\n");
+define("SUBNEWSLAN_3", "Прикаченият файл трябва да бъде JPG, GIF или PNG");
+define("SUBNEWSLAN_4", "Файлът е твърде голям");
+define("SUBNEWSLAN_5", "Файл с изображение");
 define("SUBNEWSLAN_6", "(jpg, gif или png)");
-define("SUBNEWSLAN_7", "Трябва да напишете Вашето име и имейл адрес");
-define("SUBNEWSLAN_8", "Грешка при качване на изображение");
+define("SUBNEWSLAN_7", "Трябва да въведете име и имейл адрес");
+define("SUBNEWSLAN_8", "Грешка при качване на изображението");
 define("SUBNEWSLAN_9", "Ключови думи");
-define("SUBNEWSLAN_10", "Обобщение");
-define("SUBNEWSLAN_11", "Мета описание");
-define("SUBNEWSLAN_12", "Използва се от Facebook и други.");
-define("SUBNEWSLAN_13", "Медия линкове");
-
-
-?>
+define("SUBNEWSLAN_12", "Използва се от Facebook и други услуги.");
+define("SUBNEWSLAN_13", "URL адреси на медийни файлове");

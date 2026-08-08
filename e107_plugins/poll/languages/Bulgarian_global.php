@@ -1,17 +1,4 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
 
-define("LAN_PLUGIN_POLL_NAME", "Анкети");
-define("LAN_PLUGIN_POLL_DESCRIPTION", "Модула Анкети ви позволява да публикувате анкети на сайта ви.");
-
-
-?>
+define("LAN_PLUGIN_POLL_NAME", "Анкета");
+define("LAN_PLUGIN_POLL_DESCRIPTION", "Плъгинът позволява създаване на анкети в меню или във форумна публикация.");

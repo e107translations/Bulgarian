@@ -1,28 +1,16 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
-define("BANNERLAN_19", "Моля въведете потребителско име и парола, за да продължите");
-define("BANNERLAN_20", "За съжаление, не могат да намерят тези данни в базата данни. Моля, свържете се с администратора на сайта за повече подробности.");
-define("BANNERLAN_21", "Статистика на банерите");
+
+define("BANNERLAN_19", "Моля, въведете потребителското име и паролата на клиента, за да продължите");
+define("BANNERLAN_20", "Посочените данни не бяха намерени в базата данни. За повече информация се свържете с администратора на сайта.");
+define("BANNERLAN_21", "Статистика за банерите");
 define("BANNERLAN_22", "Клиент");
-define("BANNERLAN_23", "Банер ID");
+define("BANNERLAN_23", "ID на банера");
 define("BANNERLAN_24", "Кликвания");
-define("BANNERLAN_25", "Кликвания %");
+define("BANNERLAN_25", "Процент кликвания");
 define("BANNERLAN_26", "Импресии");
 define("BANNERLAN_27", "Закупени импресии");
 define("BANNERLAN_28", "Оставащи импресии");
 define("BANNERLAN_30", "Неограничено");
-define("BANNERLAN_31", "Не е приложимо");
-define("BANNERLAN_35", "Кликвания от IP адреси");
-define("BANNERLAN_39", "Няма снимки, предназначени за този банер.");
-
-
-?>
+define("BANNERLAN_31", "Неприложимо");
+define("BANNERLAN_35", "IP адреси на кликванията");
+define("BANNERLAN_39", "Към този банер няма зададено изображение.");

@@ -1,21 +1,11 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+/**
+ * Български глобален езиков файл за Галерия в e107 CMS v2.3.10.
+ */
 
 define("LAN_PLUGIN_GALLERY_TITLE", "Галерия");
-define("LAN_PLUGIN_GALLERY_DIZ", "Модул галерия");
-
+define("LAN_PLUGIN_GALLERY_DIZ", "Лесна галерия за изображения");
 define("LAN_PLUGIN_GALLERY_SEF_01", "SEF на галерията");
-define("LAN_PLUGIN_GALLERY_SEF_02", "SEF URL са позволени.");
-define("LAN_PLUGIN_GALLERY_SEF_03", "SEF URL не са позволени.");
-define("LAN_PLUGIN_GALLERY_SEF_04", "По подразбиране");
-
-?>
+define("LAN_PLUGIN_GALLERY_SEF_02", "SEF URL адресите са разрешени.");
+define("LAN_PLUGIN_GALLERY_SEF_03", "SEF URL адресите са забранени.");
+define("LAN_PLUGIN_GALLERY_SEF_04", "Галерия по подразбиране");

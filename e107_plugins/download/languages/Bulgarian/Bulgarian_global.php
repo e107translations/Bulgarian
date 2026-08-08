@@ -1,21 +1,12 @@
 <?php
-/*
- * e107 website system - Bulgarian Translation
- *
- * Copyright (C) 2005-2022 e107 Bulgaria github.com/e107translations/Bulgarian
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- * Language File
- *
-*/
+/**
+ * Български глобален езиков файл за Изтегляния в e107 CMS v2.3.10.
+ */
 
-define("LAN_PLUGIN_DOWNLOAD_NAME", "Файлове");
-define("LAN_PLUGIN_DOWNLOAD_DIZ", "Напълно функционална система за сваляне на файлове");
-define("LAN_DL_NT_01", "Broken download reported");
-define("LAN_DL_NT_02", "The following download has been reported as broken:");
-define("LAN_DL_NT_03", "It was reported by [x] with the following comments:");
-define("LAN_DL_NT_04", "Click [here] to view the broken download reports.");
-define("LAN_DL_LATEST_01", "Reported broken downloads");
-
-?>
+define("LAN_PLUGIN_DOWNLOAD_NAME", "Изтегляния");
+define("LAN_PLUGIN_DOWNLOAD_DIZ", "Пълнофункционална система за управление на файлове за изтегляне");
+define("LAN_DL_NT_01", "Докладвано е неработещо изтегляне");
+define("LAN_DL_NT_02", "Следното изтегляне е докладвано като неработещо:");
+define("LAN_DL_NT_03", "Сигналът е подаден от [x] със следния коментар:");
+define("LAN_DL_NT_04", "Щракнете [тук], за да прегледате сигналите за неработещи изтегляния.");
+define("LAN_DL_LATEST_01", "Докладвани неработещи изтегляния");
