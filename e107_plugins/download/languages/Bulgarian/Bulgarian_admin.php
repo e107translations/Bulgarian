@@ -159,3 +159,5 @@ define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' hre
 define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Същият израз, който е конфигуриран на сървъра");
 define("LAN_DL_SECURITY_LINK_EXPIRY", "Срок на валидност в секунди");
 define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Брой секунди, през които връзката за изтегляне остава валидна след генерирането ѝ. Има действие само ако изразът поддържа срок на валидност. Ако полето остане празно, се използва много дълъг срок.");
+define("DOWLAN_LOCAL_PATH", "Или път в директорията за изтегляния");
+define("DOWLAN_LOCAL_PATH_NOT_FOUND", "В директорията за изтегляния няма файл с това име, затова нищо не беше записано. Проверете пътя спрямо директорията за изтегляния и изпратете записа отново.");

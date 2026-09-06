@@ -19,3 +19,4 @@ define("RATELAN_FAIR", "Задоволително");
 define("RATELAN_GOOD", "Добро");
 define("RATELAN_VERYGOOD", "Много добро");
 define("RATELAN_EXCELLENT", "Отлично");
+define("RATELAN_REFUSED_TOKEN_MISSING", "Гласът ви не беше отчетен, защото връзката не съдържаше защитен токен. Гласувайте от полето за оценяване на самата страница, а не чрез отметка или връзка от друг сайт.");

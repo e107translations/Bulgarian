@@ -17,3 +17,5 @@ define("LAN_EFORM_013", "към списъка");
 define("LAN_EFORM_014", "създаване на нов");
 define("LAN_EFORM_015", "редактиране на текущия");
 define("LAN_EFORM_016", "След запис:");
+define("LAN_EFORM_COPY", "Копиране");
+define("LAN_EFORM_COPIED", "Копирано");
