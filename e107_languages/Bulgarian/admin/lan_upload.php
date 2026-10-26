@@ -42,3 +42,6 @@ define("UPLLAN_66", "Грешка в пътя за изтегляне");
 define("UPLLAN_68", "SQL грешка:");
 define("UPLLAN_69", "Импортирано");
 define("UPLLAN_70", "Изпращане към [x]");
+
+// e107 v2.3.13
+define("UPLLAN_ACTIVATION_REFUSED_OWNER_MISSING", "Плъгинът [x] не е инсталиран или не приема качвания — активирането не е възможно.");
